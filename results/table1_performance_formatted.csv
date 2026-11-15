@@ -1,0 +1,19 @@
+Target,Unit,Model,Protocol,R2,MAE,RMSE
+Tensile,MPa,Random Forest,A: random 80/20 test set,0.944,22.6,28.6
+Tensile,MPa,Random Forest,B: random 5-fold CV,0.945 ± 0.012,24.7 ± 2.9,31.4 ± 3.2
+Tensile,MPa,Random Forest,C: grouped 5-fold CV (by composition),0.928 ± 0.020,27.9 ± 5.2,35.7 ± 5.5
+Tensile,MPa,ANN,A: random 80/20 test set,0.964,18.1,22.9
+Tensile,MPa,ANN,B: random 5-fold CV,0.965 ± 0.007,19.8 ± 1.7,25.0 ± 2.5
+Tensile,MPa,ANN,C: grouped 5-fold CV (by composition),0.943 ± 0.020,24.6 ± 3.0,31.4 ± 3.4
+Tensile,MPa,XGBoost,A: random 80/20 test set,0.976,14.6,18.9
+Tensile,MPa,XGBoost,B: random 5-fold CV,0.979 ± 0.006,14.2 ± 1.5,18.9 ± 1.8
+Tensile,MPa,XGBoost,C: grouped 5-fold CV (by composition),0.934 ± 0.022,26.6 ± 5.0,33.9 ± 6.6
+Hardness,HV,Random Forest,A: random 80/20 test set,0.943,7.3,9.1
+Hardness,HV,Random Forest,B: random 5-fold CV,0.948 ± 0.012,7.4 ± 0.5,9.4 ± 0.7
+Hardness,HV,Random Forest,C: grouped 5-fold CV (by composition),0.933 ± 0.019,8.4 ± 1.6,10.6 ± 1.6
+Hardness,HV,ANN,A: random 80/20 test set,0.947,6.9,8.7
+Hardness,HV,ANN,B: random 5-fold CV,0.962 ± 0.012,6.4 ± 0.5,7.9 ± 0.8
+Hardness,HV,ANN,C: grouped 5-fold CV (by composition),0.944 ± 0.019,7.7 ± 1.0,9.7 ± 1.3
+Hardness,HV,XGBoost,A: random 80/20 test set,0.981,4.0,5.2
+Hardness,HV,XGBoost,B: random 5-fold CV,0.981 ± 0.005,4.3 ± 0.5,5.6 ± 0.5
+Hardness,HV,XGBoost,C: grouped 5-fold CV (by composition),0.933 ± 0.023,8.1 ± 1.8,10.6 ± 2.1

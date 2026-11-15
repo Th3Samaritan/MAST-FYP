@@ -1,0 +1,7 @@
+Target,Unit,Model,Actual,Predicted,Abs error,Error (%)
+Tensile,MPa,Random Forest,1471.66,812.5,659.1,44.79
+Tensile,MPa,ANN,1471.66,854.9,616.8,41.91
+Tensile,MPa,XGBoost,1471.66,855.3,616.3,41.88
+Hardness,HV,Random Forest,260.0,257.7,2.3,0.88
+Hardness,HV,ANN,260.0,280.9,20.9,8.03
+Hardness,HV,XGBoost,260.0,267.7,7.7,2.98
