@@ -1,0 +1,4285 @@
+Target,Model,Protocol,Actual,Predicted,Group
+Tensile,Random Forest,B,736.0,728.6,16
+Tensile,Random Forest,B,736.0,738.8466666666667,23
+Tensile,Random Forest,B,690.0,728.7533333333333,14
+Tensile,Random Forest,B,790.0,737.74,25
+Tensile,Random Forest,B,720.0,733.0833333333334,8
+Tensile,Random Forest,B,830.0,749.3466666666667,40
+Tensile,Random Forest,B,778.0,712.85,9
+Tensile,Random Forest,B,748.0,716.6266666666667,4
+Tensile,Random Forest,B,763.0,753.64,32
+Tensile,Random Forest,B,722.0,738.56,20
+Tensile,Random Forest,B,776.0,737.4366666666666,31
+Tensile,Random Forest,B,715.0,751.2666666666667,2
+Tensile,Random Forest,B,678.0,684.73,16
+Tensile,Random Forest,B,699.0,694.39,23
+Tensile,Random Forest,B,654.0,695.7666666666667,14
+Tensile,Random Forest,B,738.0,693.07,25
+Tensile,Random Forest,B,682.0,687.54,8
+Tensile,Random Forest,B,720.0,763.7166666666667,40
+Tensile,Random Forest,B,721.0,680.6466666666666,9
+Tensile,Random Forest,B,688.0,687.48,4
+Tensile,Random Forest,B,705.0,720.0466666666666,32
+Tensile,Random Forest,B,681.0,690.4233333333333,20
+Tensile,Random Forest,B,721.0,698.7066666666667,31
+Tensile,Random Forest,B,672.0,696.4833333333333,2
+Tensile,Random Forest,B,635.0,657.26,16
+Tensile,Random Forest,B,652.0,667.17,23
+Tensile,Random Forest,B,613.0,657.42,14
+Tensile,Random Forest,B,667.0,701.45,25
+Tensile,Random Forest,B,651.0,657.7,8
+Tensile,Random Forest,B,701.0,700.85,40
+Tensile,Random Forest,B,667.0,669.28,9
+Tensile,Random Forest,B,638.0,650.1833333333333,4
+Tensile,Random Forest,B,659.0,673.2633333333333,32
+Tensile,Random Forest,B,631.0,652.85,20
+Tensile,Random Forest,B,665.0,668.24,31
+Tensile,Random Forest,B,616.0,668.13,2
+Tensile,Random Forest,B,923.0,894.0333333333333,97
+Tensile,Random Forest,B,801.0,870.35,98
+Tensile,Random Forest,B,874.0,885.1866666666666,95
+Tensile,Random Forest,B,809.0,827.7433333333333,91
+Tensile,Random Forest,B,766.0,835.6733333333333,74
+Tensile,Random Forest,B,929.0,882.0066666666667,105
+Tensile,Random Forest,B,882.0,875.5966666666667,102
+Tensile,Random Forest,B,843.0,850.5366666666666,85
+Tensile,Random Forest,B,910.0,931.0633333333334,106
+Tensile,Random Forest,B,925.0,870.47,96
+Tensile,Random Forest,B,819.0,843.5633333333334,78
+Tensile,Random Forest,B,828.0,817.23,97
+Tensile,Random Forest,B,748.0,802.7366666666667,98
+Tensile,Random Forest,B,812.0,822.39,95
+Tensile,Random Forest,B,760.0,798.1933333333334,91
+Tensile,Random Forest,B,717.0,771.75,74
+Tensile,Random Forest,B,833.0,833.9433333333334,105
+Tensile,Random Forest,B,806.0,820.7333333333333,102
+Tensile,Random Forest,B,774.0,797.7166666666667,85
+Tensile,Random Forest,B,833.0,831.8466666666667,106
+Tensile,Random Forest,B,811.0,804.2433333333333,96
+Tensile,Random Forest,B,765.0,774.1666666666666,78
+Tensile,Random Forest,B,735.0,749.0866666666667,97
+Tensile,Random Forest,B,696.0,738.1,98
+Tensile,Random Forest,B,736.0,740.7066666666667,95
+Tensile,Random Forest,B,696.0,742.09,91
+Tensile,Random Forest,B,669.0,726.5133333333333,74
+Tensile,Random Forest,B,738.0,752.3866666666667,105
+Tensile,Random Forest,B,741.0,745.7966666666666,102
+Tensile,Random Forest,B,706.0,740.6833333333333,85
+Tensile,Random Forest,B,744.0,756.7,106
+Tensile,Random Forest,B,723.0,747.5566666666666,96
+Tensile,Random Forest,B,706.0,726.09,78
+Tensile,Random Forest,B,962.0,899.3466666666667,114
+Tensile,Random Forest,B,956.0,937.05,112
+Tensile,Random Forest,B,906.0,922.5033333333333,109
+Tensile,Random Forest,B,967.0,933.99,116
+Tensile,Random Forest,B,896.0,867.34,111
+Tensile,Random Forest,B,957.0,899.2866666666666,117
+Tensile,Random Forest,B,957.0,926.3833333333333,110
+Tensile,Random Forest,B,985.0,939.5866666666667,118
+Tensile,Random Forest,B,918.0,924.02,115
+Tensile,Random Forest,B,929.0,917.5033333333333,108
+Tensile,Random Forest,B,1006.0,926.57,113
+Tensile,Random Forest,B,854.0,850.03,114
+Tensile,Random Forest,B,848.0,850.78,112
+Tensile,Random Forest,B,823.0,848.7366666666667,109
+Tensile,Random Forest,B,860.0,851.83,116
+Tensile,Random Forest,B,830.0,799.03,111
+Tensile,Random Forest,B,844.0,845.29,117
+Tensile,Random Forest,B,850.0,859.11,110
+Tensile,Random Forest,B,870.0,862.9266666666666,118
+Tensile,Random Forest,B,840.0,850.65,115
+Tensile,Random Forest,B,837.0,843.0,108
+Tensile,Random Forest,B,893.0,866.87,113
+Tensile,Random Forest,B,757.0,765.31,114
+Tensile,Random Forest,B,766.0,770.28,112
+Tensile,Random Forest,B,746.0,765.87,109
+Tensile,Random Forest,B,777.0,773.84,116
+Tensile,Random Forest,B,749.0,771.6066666666667,111
+Tensile,Random Forest,B,757.0,759.4733333333334,117
+Tensile,Random Forest,B,759.0,781.96,110
+Tensile,Random Forest,B,777.0,788.83,118
+Tensile,Random Forest,B,762.0,769.9633333333334,115
+Tensile,Random Forest,B,742.0,771.5,108
+Tensile,Random Forest,B,778.0,774.3766666666667,113
+Tensile,Random Forest,B,1052.0,1096.6166666666666,86
+Tensile,Random Forest,B,1006.0,1074.6966666666667,80
+Tensile,Random Forest,B,1084.0,1087.06,60
+Tensile,Random Forest,B,1015.0,1074.76,73
+Tensile,Random Forest,B,1073.0,1079.8966666666668,45
+Tensile,Random Forest,B,1092.0,1056.6666666666667,84
+Tensile,Random Forest,B,1077.0,1072.0033333333333,79
+Tensile,Random Forest,B,1036.0,1075.3533333333332,61
+Tensile,Random Forest,B,969.0,994.18,86
+Tensile,Random Forest,B,902.0,981.32,80
+Tensile,Random Forest,B,979.0,1005.8233333333334,60
+Tensile,Random Forest,B,935.0,971.3133333333334,73
+Tensile,Random Forest,B,962.0,1000.3366666666667,45
+Tensile,Random Forest,B,985.0,981.4466666666667,84
+Tensile,Random Forest,B,956.0,967.1633333333333,79
+Tensile,Random Forest,B,949.0,988.1033333333334,61
+Tensile,Random Forest,B,888.0,904.5266666666666,86
+Tensile,Random Forest,B,862.0,893.72,80
+Tensile,Random Forest,B,869.0,909.2266666666667,60
+Tensile,Random Forest,B,857.0,887.4033333333333,73
+Tensile,Random Forest,B,878.0,889.3033333333333,45
+Tensile,Random Forest,B,897.0,886.1633333333333,84
+Tensile,Random Forest,B,861.0,896.0033333333333,79
+Tensile,Random Forest,B,880.0,901.75,61
+Tensile,Random Forest,B,1118.0,1091.8466666666666,27
+Tensile,Random Forest,B,1048.0,1080.11,22
+Tensile,Random Forest,B,1092.0,1097.3733333333332,26
+Tensile,Random Forest,B,1053.0,1096.5866666666666,24
+Tensile,Random Forest,B,1080.0,1085.1466666666668,12
+Tensile,Random Forest,B,1099.0,1097.4566666666667,28
+Tensile,Random Forest,B,1075.0,1101.7566666666667,29
+Tensile,Random Forest,B,1088.0,1111.49,19
+Tensile,Random Forest,B,1111.0,1092.0033333333333,18
+Tensile,Random Forest,B,1085.0,1075.8166666666666,10
+Tensile,Random Forest,B,1102.0,1080.74,17
+Tensile,Random Forest,B,1102.0,1117.24,33
+Tensile,Random Forest,B,1206.0,1106.9666666666667,38
+Tensile,Random Forest,B,1082.0,1093.8366666666666,15
+Tensile,Random Forest,B,984.0,986.1633333333333,27
+Tensile,Random Forest,B,955.0,981.2266666666667,22
+Tensile,Random Forest,B,964.0,989.0266666666666,26
+Tensile,Random Forest,B,937.0,986.9233333333333,24
+Tensile,Random Forest,B,978.0,981.9366666666666,12
+Tensile,Random Forest,B,1008.0,988.6833333333333,28
+Tensile,Random Forest,B,956.0,1005.5966666666667,29
+Tensile,Random Forest,B,952.0,1016.8933333333333,19
+Tensile,Random Forest,B,989.0,982.5066666666667,18
+Tensile,Random Forest,B,973.0,982.8566666666667,10
+Tensile,Random Forest,B,1010.0,982.07,17
+Tensile,Random Forest,B,996.0,1011.0533333333333,33
+Tensile,Random Forest,B,1067.0,1005.1833333333333,38
+Tensile,Random Forest,B,974.0,988.74,15
+Tensile,Random Forest,B,897.0,891.4266666666666,27
+Tensile,Random Forest,B,846.0,909.2266666666667,22
+Tensile,Random Forest,B,853.0,890.6833333333333,26
+Tensile,Random Forest,B,847.0,906.0433333333333,24
+Tensile,Random Forest,B,867.0,897.9433333333334,12
+Tensile,Random Forest,B,907.0,894.2966666666666,28
+Tensile,Random Forest,B,875.0,896.1166666666667,29
+Tensile,Random Forest,B,870.0,913.0833333333334,19
+Tensile,Random Forest,B,898.0,891.59,18
+Tensile,Random Forest,B,864.0,890.8666666666667,10
+Tensile,Random Forest,B,919.0,883.8233333333334,17
+Tensile,Random Forest,B,903.0,905.9033333333333,33
+Tensile,Random Forest,B,948.0,919.15,38
+Tensile,Random Forest,B,891.0,909.8166666666667,15
+Tensile,Random Forest,B,1139.0,1133.3433333333332,65
+Tensile,Random Forest,B,1141.0,1120.6966666666667,46
+Tensile,Random Forest,B,1203.0,1148.0966666666666,88
+Tensile,Random Forest,B,1160.0,1138.4166666666667,58
+Tensile,Random Forest,B,1199.0,1142.16,66
+Tensile,Random Forest,B,1150.0,1103.9266666666667,68
+Tensile,Random Forest,B,1202.0,1143.8366666666666,47
+Tensile,Random Forest,B,1108.0,1098.72,30
+Tensile,Random Forest,B,1181.0,1128.7533333333333,82
+Tensile,Random Forest,B,1179.0,1139.8133333333333,81
+Tensile,Random Forest,B,1109.0,1140.3766666666668,57
+Tensile,Random Forest,B,1146.0,1124.1133333333332,53
+Tensile,Random Forest,B,1155.0,1091.4733333333334,48
+Tensile,Random Forest,B,1202.0,1125.7966666666666,52
+Tensile,Random Forest,B,1178.0,1157.34,93
+Tensile,Random Forest,B,1030.0,1031.0133333333333,65
+Tensile,Random Forest,B,1027.0,1020.5233333333333,46
+Tensile,Random Forest,B,1079.0,1028.6733333333334,88
+Tensile,Random Forest,B,1062.0,1023.0666666666667,58
+Tensile,Random Forest,B,1091.0,1018.7466666666667,66
+Tensile,Random Forest,B,1002.0,997.8633333333333,68
+Tensile,Random Forest,B,1066.0,1012.9266666666666,47
+Tensile,Random Forest,B,995.0,1002.2333333333333,30
+Tensile,Random Forest,B,1064.0,1009.7366666666667,82
+Tensile,Random Forest,B,1072.0,1038.9066666666668,81
+Tensile,Random Forest,B,1005.0,1017.63,57
+Tensile,Random Forest,B,1013.0,1023.2866666666666,53
+Tensile,Random Forest,B,1049.0,1000.3166666666667,48
+Tensile,Random Forest,B,1091.0,1036.8033333333333,52
+Tensile,Random Forest,B,1063.0,1026.2433333333333,93
+Tensile,Random Forest,B,890.0,927.1366666666667,65
+Tensile,Random Forest,B,912.0,906.4866666666667,46
+Tensile,Random Forest,B,971.0,929.5933333333334,88
+Tensile,Random Forest,B,905.0,913.71,58
+Tensile,Random Forest,B,950.0,920.8866666666667,66
+Tensile,Random Forest,B,922.0,886.6133333333333,68
+Tensile,Random Forest,B,924.0,922.04,47
+Tensile,Random Forest,B,895.0,906.44,30
+Tensile,Random Forest,B,938.0,913.2466666666667,82
+Tensile,Random Forest,B,905.0,920.57,81
+Tensile,Random Forest,B,903.0,915.5433333333333,57
+Tensile,Random Forest,B,941.0,909.51,53
+Tensile,Random Forest,B,933.0,895.2466666666667,48
+Tensile,Random Forest,B,948.0,917.4833333333333,52
+Tensile,Random Forest,B,949.0,946.55,93
+Tensile,Random Forest,B,889.0,855.2933333333333,43
+Tensile,Random Forest,B,847.0,857.0066666666667,39
+Tensile,Random Forest,B,924.0,906.0066666666667,54
+Tensile,Random Forest,B,854.0,894.8366666666667,49
+Tensile,Random Forest,B,890.0,895.9033333333333,67
+Tensile,Random Forest,B,804.0,854.9966666666667,35
+Tensile,Random Forest,B,892.0,877.4166666666666,55
+Tensile,Random Forest,B,811.0,803.88,43
+Tensile,Random Forest,B,790.0,799.4333333333333,39
+Tensile,Random Forest,B,844.0,843.8,54
+Tensile,Random Forest,B,799.0,821.0966666666667,49
+Tensile,Random Forest,B,815.0,839.8833333333333,67
+Tensile,Random Forest,B,753.0,817.1233333333333,35
+Tensile,Random Forest,B,814.0,835.7733333333333,55
+Tensile,Random Forest,B,742.0,734.6466666666666,43
+Tensile,Random Forest,B,734.0,762.51,39
+Tensile,Random Forest,B,758.0,762.08,54
+Tensile,Random Forest,B,715.0,760.32,49
+Tensile,Random Forest,B,756.0,782.5133333333333,67
+Tensile,Random Forest,B,700.0,761.1533333333333,35
+Tensile,Random Forest,B,737.0,767.13,55
+Tensile,Random Forest,B,936.0,893.0633333333334,75
+Tensile,Random Forest,B,1006.0,980.79,90
+Tensile,Random Forest,B,900.0,898.2666666666667,72
+Tensile,Random Forest,B,922.0,895.38,76
+Tensile,Random Forest,B,988.0,897.2866666666666,71
+Tensile,Random Forest,B,955.0,898.3666666666667,99
+Tensile,Random Forest,B,980.0,988.3733333333333,70
+Tensile,Random Forest,B,951.0,890.57,56
+Tensile,Random Forest,B,882.0,886.9833333333333,63
+Tensile,Random Forest,B,1029.0,987.38,100
+Tensile,Random Forest,B,964.0,913.5666666666667,89
+Tensile,Random Forest,B,888.0,883.89,64
+Tensile,Random Forest,B,837.0,829.5,75
+Tensile,Random Forest,B,917.0,921.0166666666667,90
+Tensile,Random Forest,B,837.0,823.5766666666667,72
+Tensile,Random Forest,B,842.0,832.9533333333334,76
+Tensile,Random Forest,B,890.0,838.5266666666666,71
+Tensile,Random Forest,B,874.0,855.5833333333334,99
+Tensile,Random Forest,B,897.0,936.0133333333333,70
+Tensile,Random Forest,B,862.0,829.96,56
+Tensile,Random Forest,B,801.0,819.15,63
+Tensile,Random Forest,B,935.0,950.7066666666667,100
+Tensile,Random Forest,B,878.0,846.67,89
+Tensile,Random Forest,B,816.0,825.07,64
+Tensile,Random Forest,B,757.0,769.4266666666666,75
+Tensile,Random Forest,B,826.0,847.7833333333333,90
+Tensile,Random Forest,B,755.0,761.36,72
+Tensile,Random Forest,B,760.0,771.9133333333333,76
+Tensile,Random Forest,B,790.0,759.9866666666667,71
+Tensile,Random Forest,B,805.0,772.1866666666666,99
+Tensile,Random Forest,B,829.0,856.1333333333333,70
+Tensile,Random Forest,B,772.0,760.2933333333333,56
+Tensile,Random Forest,B,737.0,766.06,63
+Tensile,Random Forest,B,840.0,849.2266666666667,100
+Tensile,Random Forest,B,794.0,771.7533333333333,89
+Tensile,Random Forest,B,744.0,749.27,64
+Tensile,Random Forest,B,988.0,996.6033333333334,6
+Tensile,Random Forest,B,948.0,973.05,3
+Tensile,Random Forest,B,1013.0,1004.7033333333334,5
+Tensile,Random Forest,B,1081.0,1013.8233333333334,21
+Tensile,Random Forest,B,962.0,985.0633333333334,1
+Tensile,Random Forest,B,1014.0,994.6433333333333,11
+Tensile,Random Forest,B,998.0,1006.7633333333333,13
+Tensile,Random Forest,B,989.0,996.7266666666667,0
+Tensile,Random Forest,B,1010.0,995.3366666666667,7
+Tensile,Random Forest,B,906.0,934.2233333333334,6
+Tensile,Random Forest,B,886.0,921.89,3
+Tensile,Random Forest,B,941.0,925.7,5
+Tensile,Random Forest,B,1016.0,950.33,21
+Tensile,Random Forest,B,897.0,913.49,1
+Tensile,Random Forest,B,928.0,922.0966666666667,11
+Tensile,Random Forest,B,918.0,953.3966666666666,13
+Tensile,Random Forest,B,901.0,932.2066666666667,0
+Tensile,Random Forest,B,928.0,913.6066666666667,7
+Tensile,Random Forest,B,840.0,860.0733333333334,6
+Tensile,Random Forest,B,821.0,851.6966666666667,3
+Tensile,Random Forest,B,849.0,862.6066666666667,5
+Tensile,Random Forest,B,909.0,888.2133333333334,21
+Tensile,Random Forest,B,833.0,843.72,1
+Tensile,Random Forest,B,851.0,856.62,11
+Tensile,Random Forest,B,854.0,863.8866666666667,13
+Tensile,Random Forest,B,838.0,862.4066666666666,0
+Tensile,Random Forest,B,846.0,853.26,7
+Tensile,Random Forest,B,1070.0,1083.9233333333334,42
+Tensile,Random Forest,B,1087.0,1103.6133333333332,50
+Tensile,Random Forest,B,1144.0,1144.75,59
+Tensile,Random Forest,B,1105.0,1086.17,51
+Tensile,Random Forest,B,1125.0,1121.41,37
+Tensile,Random Forest,B,1089.0,1086.22,62
+Tensile,Random Forest,B,1108.0,1107.74,77
+Tensile,Random Forest,B,1085.0,1081.3433333333332,36
+Tensile,Random Forest,B,1117.0,1118.31,69
+Tensile,Random Forest,B,1129.0,1110.51,44
+Tensile,Random Forest,B,1089.0,1092.4166666666667,41
+Tensile,Random Forest,B,1190.0,1134.3133333333333,83
+Tensile,Random Forest,B,1174.0,1126.1466666666668,34
+Tensile,Random Forest,B,1085.0,1067.2033333333334,87
+Tensile,Random Forest,B,957.0,997.31,42
+Tensile,Random Forest,B,984.0,1002.0133333333333,50
+Tensile,Random Forest,B,1037.0,1028.3333333333333,59
+Tensile,Random Forest,B,985.0,989.5033333333333,51
+Tensile,Random Forest,B,1020.0,1003.4333333333333,37
+Tensile,Random Forest,B,990.0,992.8366666666667,62
+Tensile,Random Forest,B,1005.0,1007.4233333333333,77
+Tensile,Random Forest,B,962.0,974.7966666666666,36
+Tensile,Random Forest,B,1003.0,1009.0833333333334,69
+Tensile,Random Forest,B,1004.0,1018.6,44
+Tensile,Random Forest,B,975.0,987.61,41
+Tensile,Random Forest,B,1068.0,1034.63,83
+Tensile,Random Forest,B,1069.0,1013.8466666666667,34
+Tensile,Random Forest,B,973.0,972.9466666666667,87
+Tensile,Random Forest,B,843.0,887.4433333333334,42
+Tensile,Random Forest,B,868.0,889.88,50
+Tensile,Random Forest,B,900.0,915.8566666666667,59
+Tensile,Random Forest,B,864.0,873.0933333333334,51
+Tensile,Random Forest,B,879.0,882.91,37
+Tensile,Random Forest,B,875.0,889.1,62
+Tensile,Random Forest,B,883.0,888.3533333333334,77
+Tensile,Random Forest,B,848.0,876.47,36
+Tensile,Random Forest,B,881.0,893.64,69
+Tensile,Random Forest,B,874.0,894.5966666666667,44
+Tensile,Random Forest,B,864.0,875.0833333333334,41
+Tensile,Random Forest,B,912.0,921.85,83
+Tensile,Random Forest,B,900.0,921.7933333333333,34
+Tensile,Random Forest,B,855.0,883.08,87
+Tensile,Random Forest,B,1149.0,1093.7333333333333,103
+Tensile,Random Forest,B,1111.0,1057.2733333333333,101
+Tensile,Random Forest,B,1151.0,1090.2466666666667,92
+Tensile,Random Forest,B,1072.0,1093.0633333333333,94
+Tensile,Random Forest,B,1138.0,1073.4966666666667,104
+Tensile,Random Forest,B,1167.0,1105.84,107
+Tensile,Random Forest,B,1032.0,1000.3933333333333,103
+Tensile,Random Forest,B,992.0,970.74,101
+Tensile,Random Forest,B,1026.0,982.9666666666667,92
+Tensile,Random Forest,B,969.0,971.2133333333334,94
+Tensile,Random Forest,B,1012.0,987.2366666666667,104
+Tensile,Random Forest,B,1046.0,1010.66,107
+Tensile,Random Forest,B,911.0,897.7,103
+Tensile,Random Forest,B,878.0,873.92,101
+Tensile,Random Forest,B,895.0,891.7066666666667,92
+Tensile,Random Forest,B,860.0,885.09,94
+Tensile,Random Forest,B,881.0,889.6166666666667,104
+Tensile,Random Forest,B,909.0,913.76,107
+Tensile,Random Forest,C,736.0,727.68,16
+Tensile,Random Forest,C,736.0,740.08,23
+Tensile,Random Forest,C,690.0,735.55,14
+Tensile,Random Forest,C,790.0,740.0466666666666,25
+Tensile,Random Forest,C,720.0,738.06,8
+Tensile,Random Forest,C,830.0,769.5066666666667,40
+Tensile,Random Forest,C,778.0,734.8133333333334,9
+Tensile,Random Forest,C,748.0,735.97,4
+Tensile,Random Forest,C,763.0,756.7633333333333,32
+Tensile,Random Forest,C,722.0,745.5266666666666,20
+Tensile,Random Forest,C,776.0,742.09,31
+Tensile,Random Forest,C,715.0,766.06,2
+Tensile,Random Forest,C,678.0,689.9966666666667,16
+Tensile,Random Forest,C,699.0,689.06,23
+Tensile,Random Forest,C,654.0,694.23,14
+Tensile,Random Forest,C,738.0,702.8166666666667,25
+Tensile,Random Forest,C,682.0,692.05,8
+Tensile,Random Forest,C,720.0,727.86,40
+Tensile,Random Forest,C,721.0,693.1933333333334,9
+Tensile,Random Forest,C,688.0,695.5166666666667,4
+Tensile,Random Forest,C,705.0,712.2366666666667,32
+Tensile,Random Forest,C,681.0,701.1966666666667,20
+Tensile,Random Forest,C,721.0,701.1833333333333,31
+Tensile,Random Forest,C,672.0,717.1766666666666,2
+Tensile,Random Forest,C,635.0,649.8,16
+Tensile,Random Forest,C,652.0,647.98,23
+Tensile,Random Forest,C,613.0,653.12,14
+Tensile,Random Forest,C,667.0,651.5566666666666,25
+Tensile,Random Forest,C,651.0,648.4333333333333,8
+Tensile,Random Forest,C,701.0,670.34,40
+Tensile,Random Forest,C,667.0,653.2866666666666,9
+Tensile,Random Forest,C,638.0,653.2766666666666,4
+Tensile,Random Forest,C,659.0,667.1766666666666,32
+Tensile,Random Forest,C,631.0,653.47,20
+Tensile,Random Forest,C,665.0,656.0766666666667,31
+Tensile,Random Forest,C,616.0,669.1433333333333,2
+Tensile,Random Forest,C,923.0,892.0733333333334,97
+Tensile,Random Forest,C,801.0,917.9266666666666,98
+Tensile,Random Forest,C,874.0,884.9766666666667,95
+Tensile,Random Forest,C,809.0,854.8466666666667,91
+Tensile,Random Forest,C,766.0,836.36,74
+Tensile,Random Forest,C,929.0,894.68,105
+Tensile,Random Forest,C,882.0,895.51,102
+Tensile,Random Forest,C,843.0,861.8633333333333,85
+Tensile,Random Forest,C,910.0,898.4466666666667,106
+Tensile,Random Forest,C,925.0,882.0266666666666,96
+Tensile,Random Forest,C,819.0,877.49,78
+Tensile,Random Forest,C,828.0,812.8366666666667,97
+Tensile,Random Forest,C,748.0,828.88,98
+Tensile,Random Forest,C,812.0,810.2133333333334,95
+Tensile,Random Forest,C,760.0,790.4666666666667,91
+Tensile,Random Forest,C,717.0,775.3533333333334,74
+Tensile,Random Forest,C,833.0,820.2433333333333,105
+Tensile,Random Forest,C,806.0,818.74,102
+Tensile,Random Forest,C,774.0,800.79,85
+Tensile,Random Forest,C,833.0,819.8633333333333,106
+Tensile,Random Forest,C,811.0,816.0733333333334,96
+Tensile,Random Forest,C,765.0,796.68,78
+Tensile,Random Forest,C,735.0,736.8833333333333,97
+Tensile,Random Forest,C,696.0,746.7966666666666,98
+Tensile,Random Forest,C,736.0,737.41,95
+Tensile,Random Forest,C,696.0,717.7366666666667,91
+Tensile,Random Forest,C,669.0,713.6533333333333,74
+Tensile,Random Forest,C,738.0,745.97,105
+Tensile,Random Forest,C,741.0,744.4,102
+Tensile,Random Forest,C,706.0,731.2266666666667,85
+Tensile,Random Forest,C,744.0,738.1333333333333,106
+Tensile,Random Forest,C,723.0,743.12,96
+Tensile,Random Forest,C,706.0,727.3733333333333,78
+Tensile,Random Forest,C,962.0,910.9466666666667,114
+Tensile,Random Forest,C,956.0,949.4933333333333,112
+Tensile,Random Forest,C,906.0,939.85,109
+Tensile,Random Forest,C,967.0,935.9733333333334,116
+Tensile,Random Forest,C,896.0,899.3633333333333,111
+Tensile,Random Forest,C,957.0,927.2866666666666,117
+Tensile,Random Forest,C,957.0,934.8566666666667,110
+Tensile,Random Forest,C,985.0,937.6866666666666,118
+Tensile,Random Forest,C,918.0,942.0133333333333,115
+Tensile,Random Forest,C,929.0,918.0133333333333,108
+Tensile,Random Forest,C,1006.0,923.42,113
+Tensile,Random Forest,C,854.0,830.86,114
+Tensile,Random Forest,C,848.0,850.6833333333333,112
+Tensile,Random Forest,C,823.0,842.37,109
+Tensile,Random Forest,C,860.0,848.6933333333334,116
+Tensile,Random Forest,C,830.0,819.92,111
+Tensile,Random Forest,C,844.0,837.2733333333333,117
+Tensile,Random Forest,C,850.0,848.6333333333333,110
+Tensile,Random Forest,C,870.0,844.77,118
+Tensile,Random Forest,C,840.0,850.07,115
+Tensile,Random Forest,C,837.0,834.6266666666667,108
+Tensile,Random Forest,C,893.0,839.0566666666666,113
+Tensile,Random Forest,C,757.0,755.8833333333333,114
+Tensile,Random Forest,C,766.0,763.7566666666667,112
+Tensile,Random Forest,C,746.0,758.2366666666667,109
+Tensile,Random Forest,C,777.0,772.1833333333333,116
+Tensile,Random Forest,C,749.0,741.5166666666667,111
+Tensile,Random Forest,C,757.0,758.6166666666667,117
+Tensile,Random Forest,C,759.0,769.39,110
+Tensile,Random Forest,C,777.0,767.47,118
+Tensile,Random Forest,C,762.0,770.9933333333333,115
+Tensile,Random Forest,C,742.0,755.03,108
+Tensile,Random Forest,C,778.0,763.67,113
+Tensile,Random Forest,C,1052.0,1085.73,86
+Tensile,Random Forest,C,1006.0,1080.7333333333333,80
+Tensile,Random Forest,C,1084.0,1103.03,60
+Tensile,Random Forest,C,1015.0,1066.26,73
+Tensile,Random Forest,C,1073.0,1104.1433333333334,45
+Tensile,Random Forest,C,1092.0,1052.4566666666667,84
+Tensile,Random Forest,C,1077.0,1065.3133333333333,79
+Tensile,Random Forest,C,1036.0,1082.0166666666667,61
+Tensile,Random Forest,C,969.0,986.8833333333333,86
+Tensile,Random Forest,C,902.0,982.8533333333334,80
+Tensile,Random Forest,C,979.0,1004.4433333333334,60
+Tensile,Random Forest,C,935.0,973.3666666666667,73
+Tensile,Random Forest,C,962.0,999.0266666666666,45
+Tensile,Random Forest,C,985.0,973.32,84
+Tensile,Random Forest,C,956.0,967.7866666666666,79
+Tensile,Random Forest,C,949.0,974.1266666666667,61
+Tensile,Random Forest,C,888.0,902.7966666666666,86
+Tensile,Random Forest,C,862.0,889.8266666666667,80
+Tensile,Random Forest,C,869.0,904.2933333333333,60
+Tensile,Random Forest,C,857.0,885.9633333333334,73
+Tensile,Random Forest,C,878.0,898.8533333333334,45
+Tensile,Random Forest,C,897.0,882.5166666666667,84
+Tensile,Random Forest,C,861.0,882.0566666666666,79
+Tensile,Random Forest,C,880.0,884.8133333333334,61
+Tensile,Random Forest,C,1118.0,1099.5166666666667,27
+Tensile,Random Forest,C,1048.0,1080.81,22
+Tensile,Random Forest,C,1092.0,1095.87,26
+Tensile,Random Forest,C,1053.0,1124.2066666666667,24
+Tensile,Random Forest,C,1080.0,1094.73,12
+Tensile,Random Forest,C,1099.0,1083.99,28
+Tensile,Random Forest,C,1075.0,1129.45,29
+Tensile,Random Forest,C,1088.0,1129.3566666666666,19
+Tensile,Random Forest,C,1111.0,1087.73,18
+Tensile,Random Forest,C,1085.0,1077.8966666666668,10
+Tensile,Random Forest,C,1102.0,1088.0933333333332,17
+Tensile,Random Forest,C,1102.0,1121.1566666666668,33
+Tensile,Random Forest,C,1206.0,1112.6566666666668,38
+Tensile,Random Forest,C,1082.0,1096.5233333333333,15
+Tensile,Random Forest,C,984.0,993.7533333333333,27
+Tensile,Random Forest,C,955.0,983.24,22
+Tensile,Random Forest,C,964.0,981.42,26
+Tensile,Random Forest,C,937.0,1018.14,24
+Tensile,Random Forest,C,978.0,984.22,12
+Tensile,Random Forest,C,1008.0,981.25,28
+Tensile,Random Forest,C,956.0,1009.7433333333333,29
+Tensile,Random Forest,C,952.0,1023.59,19
+Tensile,Random Forest,C,989.0,981.0733333333334,18
+Tensile,Random Forest,C,973.0,981.2,10
+Tensile,Random Forest,C,1010.0,981.0466666666666,17
+Tensile,Random Forest,C,996.0,1010.53,33
+Tensile,Random Forest,C,1067.0,1002.04,38
+Tensile,Random Forest,C,974.0,984.4566666666667,15
+Tensile,Random Forest,C,897.0,898.6733333333333,27
+Tensile,Random Forest,C,846.0,898.6666666666666,22
+Tensile,Random Forest,C,853.0,888.17,26
+Tensile,Random Forest,C,847.0,917.7033333333334,24
+Tensile,Random Forest,C,867.0,889.5733333333334,12
+Tensile,Random Forest,C,907.0,887.8933333333333,28
+Tensile,Random Forest,C,875.0,915.4866666666667,29
+Tensile,Random Forest,C,870.0,917.9333333333333,19
+Tensile,Random Forest,C,898.0,881.85,18
+Tensile,Random Forest,C,864.0,880.9066666666666,10
+Tensile,Random Forest,C,919.0,896.1166666666667,17
+Tensile,Random Forest,C,903.0,895.6933333333334,33
+Tensile,Random Forest,C,948.0,893.8866666666667,38
+Tensile,Random Forest,C,891.0,890.5333333333333,15
+Tensile,Random Forest,C,1139.0,1145.51,65
+Tensile,Random Forest,C,1141.0,1129.0533333333333,46
+Tensile,Random Forest,C,1203.0,1117.9533333333334,88
+Tensile,Random Forest,C,1160.0,1114.97,58
+Tensile,Random Forest,C,1199.0,1135.0933333333332,66
+Tensile,Random Forest,C,1150.0,1101.09,68
+Tensile,Random Forest,C,1202.0,1146.9533333333334,47
+Tensile,Random Forest,C,1108.0,1102.11,30
+Tensile,Random Forest,C,1181.0,1123.5,82
+Tensile,Random Forest,C,1179.0,1147.1666666666667,81
+Tensile,Random Forest,C,1109.0,1131.2066666666667,57
+Tensile,Random Forest,C,1146.0,1113.2666666666667,53
+Tensile,Random Forest,C,1155.0,1083.5933333333332,48
+Tensile,Random Forest,C,1202.0,1133.29,52
+Tensile,Random Forest,C,1178.0,1120.8033333333333,93
+Tensile,Random Forest,C,1030.0,1029.75,65
+Tensile,Random Forest,C,1027.0,1021.66,46
+Tensile,Random Forest,C,1079.0,1009.33,88
+Tensile,Random Forest,C,1062.0,1007.8233333333334,58
+Tensile,Random Forest,C,1091.0,1023.76,66
+Tensile,Random Forest,C,1002.0,990.9666666666667,68
+Tensile,Random Forest,C,1066.0,1021.7766666666666,47
+Tensile,Random Forest,C,995.0,1001.5166666666667,30
+Tensile,Random Forest,C,1064.0,1014.91,82
+Tensile,Random Forest,C,1072.0,1029.1533333333334,81
+Tensile,Random Forest,C,1005.0,1017.2366666666667,57
+Tensile,Random Forest,C,1013.0,1000.32,53
+Tensile,Random Forest,C,1049.0,979.8533333333334,48
+Tensile,Random Forest,C,1091.0,1024.3733333333332,52
+Tensile,Random Forest,C,1063.0,1015.3133333333334,93
+Tensile,Random Forest,C,890.0,923.22,65
+Tensile,Random Forest,C,912.0,908.0066666666667,46
+Tensile,Random Forest,C,971.0,897.34,88
+Tensile,Random Forest,C,905.0,895.1166666666667,58
+Tensile,Random Forest,C,950.0,909.2733333333333,66
+Tensile,Random Forest,C,922.0,890.0066666666667,68
+Tensile,Random Forest,C,924.0,915.1633333333333,47
+Tensile,Random Forest,C,895.0,902.1133333333333,30
+Tensile,Random Forest,C,938.0,914.58,82
+Tensile,Random Forest,C,905.0,922.1566666666666,81
+Tensile,Random Forest,C,903.0,905.0933333333334,57
+Tensile,Random Forest,C,941.0,889.21,53
+Tensile,Random Forest,C,933.0,877.0533333333333,48
+Tensile,Random Forest,C,948.0,915.7833333333333,52
+Tensile,Random Forest,C,949.0,896.23,93
+Tensile,Random Forest,C,889.0,837.3766666666667,43
+Tensile,Random Forest,C,847.0,853.51,39
+Tensile,Random Forest,C,924.0,908.28,54
+Tensile,Random Forest,C,854.0,905.0566666666666,49
+Tensile,Random Forest,C,890.0,910.65,67
+Tensile,Random Forest,C,804.0,876.7266666666667,35
+Tensile,Random Forest,C,892.0,884.0566666666666,55
+Tensile,Random Forest,C,811.0,785.7566666666667,43
+Tensile,Random Forest,C,790.0,789.7533333333333,39
+Tensile,Random Forest,C,844.0,830.4133333333333,54
+Tensile,Random Forest,C,799.0,824.1333333333333,49
+Tensile,Random Forest,C,815.0,832.53,67
+Tensile,Random Forest,C,753.0,821.2866666666666,35
+Tensile,Random Forest,C,814.0,817.4133333333333,55
+Tensile,Random Forest,C,742.0,729.23,43
+Tensile,Random Forest,C,734.0,732.5366666666666,39
+Tensile,Random Forest,C,758.0,761.7433333333333,54
+Tensile,Random Forest,C,715.0,754.07,49
+Tensile,Random Forest,C,756.0,764.4866666666667,67
+Tensile,Random Forest,C,700.0,755.6933333333334,35
+Tensile,Random Forest,C,737.0,745.8766666666667,55
+Tensile,Random Forest,C,936.0,897.5633333333334,75
+Tensile,Random Forest,C,1006.0,927.3633333333333,90
+Tensile,Random Forest,C,900.0,900.5733333333334,72
+Tensile,Random Forest,C,922.0,891.87,76
+Tensile,Random Forest,C,988.0,875.98,71
+Tensile,Random Forest,C,955.0,914.04,99
+Tensile,Random Forest,C,980.0,911.0166666666667,70
+Tensile,Random Forest,C,951.0,883.3333333333334,56
+Tensile,Random Forest,C,882.0,886.86,63
+Tensile,Random Forest,C,1029.0,925.16,100
+Tensile,Random Forest,C,964.0,913.43,89
+Tensile,Random Forest,C,888.0,902.6066666666667,64
+Tensile,Random Forest,C,837.0,827.1566666666666,75
+Tensile,Random Forest,C,917.0,860.6266666666667,90
+Tensile,Random Forest,C,837.0,820.5666666666667,72
+Tensile,Random Forest,C,842.0,828.3333333333334,76
+Tensile,Random Forest,C,890.0,812.7066666666667,71
+Tensile,Random Forest,C,874.0,837.41,99
+Tensile,Random Forest,C,897.0,845.02,70
+Tensile,Random Forest,C,862.0,809.55,56
+Tensile,Random Forest,C,801.0,818.2333333333333,63
+Tensile,Random Forest,C,935.0,857.08,100
+Tensile,Random Forest,C,878.0,834.87,89
+Tensile,Random Forest,C,816.0,824.78,64
+Tensile,Random Forest,C,757.0,754.3233333333334,75
+Tensile,Random Forest,C,826.0,791.21,90
+Tensile,Random Forest,C,755.0,751.8833333333333,72
+Tensile,Random Forest,C,760.0,752.2,76
+Tensile,Random Forest,C,790.0,740.7633333333333,71
+Tensile,Random Forest,C,805.0,765.1866666666666,99
+Tensile,Random Forest,C,829.0,782.1666666666666,70
+Tensile,Random Forest,C,772.0,741.5233333333333,56
+Tensile,Random Forest,C,737.0,747.54,63
+Tensile,Random Forest,C,840.0,784.8233333333334,100
+Tensile,Random Forest,C,794.0,760.02,89
+Tensile,Random Forest,C,744.0,752.6466666666666,64
+Tensile,Random Forest,C,988.0,996.8166666666667,6
+Tensile,Random Forest,C,948.0,1006.7433333333333,3
+Tensile,Random Forest,C,1013.0,1011.22,5
+Tensile,Random Forest,C,1081.0,1003.6266666666667,21
+Tensile,Random Forest,C,962.0,982.77,1
+Tensile,Random Forest,C,1014.0,994.6966666666667,11
+Tensile,Random Forest,C,998.0,1046.24,13
+Tensile,Random Forest,C,989.0,1007.3433333333334,0
+Tensile,Random Forest,C,1010.0,996.84,7
+Tensile,Random Forest,C,906.0,933.5333333333333,6
+Tensile,Random Forest,C,886.0,938.7066666666667,3
+Tensile,Random Forest,C,941.0,935.6366666666667,5
+Tensile,Random Forest,C,1016.0,935.6366666666667,21
+Tensile,Random Forest,C,897.0,916.4466666666667,1
+Tensile,Random Forest,C,928.0,928.17,11
+Tensile,Random Forest,C,918.0,962.8466666666667,13
+Tensile,Random Forest,C,901.0,934.03,0
+Tensile,Random Forest,C,928.0,917.4933333333333,7
+Tensile,Random Forest,C,840.0,857.3433333333334,6
+Tensile,Random Forest,C,821.0,853.6866666666666,3
+Tensile,Random Forest,C,849.0,863.07,5
+Tensile,Random Forest,C,909.0,857.9866666666667,21
+Tensile,Random Forest,C,833.0,844.8166666666667,1
+Tensile,Random Forest,C,851.0,854.4066666666666,11
+Tensile,Random Forest,C,854.0,863.66,13
+Tensile,Random Forest,C,838.0,860.7733333333333,0
+Tensile,Random Forest,C,846.0,846.23,7
+Tensile,Random Forest,C,1070.0,1098.1433333333334,42
+Tensile,Random Forest,C,1087.0,1112.5166666666667,50
+Tensile,Random Forest,C,1144.0,1132.1833333333334,59
+Tensile,Random Forest,C,1105.0,1074.9233333333334,51
+Tensile,Random Forest,C,1125.0,1114.5366666666666,37
+Tensile,Random Forest,C,1089.0,1107.24,62
+Tensile,Random Forest,C,1108.0,1121.0166666666667,77
+Tensile,Random Forest,C,1085.0,1090.7,36
+Tensile,Random Forest,C,1117.0,1119.1133333333332,69
+Tensile,Random Forest,C,1129.0,1106.7866666666666,44
+Tensile,Random Forest,C,1089.0,1098.6133333333332,41
+Tensile,Random Forest,C,1190.0,1129.5466666666666,83
+Tensile,Random Forest,C,1174.0,1111.41,34
+Tensile,Random Forest,C,1085.0,1103.4266666666667,87
+Tensile,Random Forest,C,957.0,987.9,42
+Tensile,Random Forest,C,984.0,999.4533333333334,50
+Tensile,Random Forest,C,1037.0,1031.57,59
+Tensile,Random Forest,C,985.0,977.2533333333333,51
+Tensile,Random Forest,C,1020.0,997.7833333333333,37
+Tensile,Random Forest,C,990.0,993.7933333333333,62
+Tensile,Random Forest,C,1005.0,999.4533333333334,77
+Tensile,Random Forest,C,962.0,987.7733333333333,36
+Tensile,Random Forest,C,1003.0,1009.8533333333334,69
+Tensile,Random Forest,C,1004.0,1005.7366666666667,44
+Tensile,Random Forest,C,975.0,988.9733333333334,41
+Tensile,Random Forest,C,1068.0,1027.28,83
+Tensile,Random Forest,C,1069.0,1009.4366666666666,34
+Tensile,Random Forest,C,973.0,985.4133333333333,87
+Tensile,Random Forest,C,843.0,877.8533333333334,42
+Tensile,Random Forest,C,868.0,881.5633333333334,50
+Tensile,Random Forest,C,900.0,912.42,59
+Tensile,Random Forest,C,864.0,871.7533333333333,51
+Tensile,Random Forest,C,879.0,874.3266666666667,37
+Tensile,Random Forest,C,875.0,880.17,62
+Tensile,Random Forest,C,883.0,885.61,77
+Tensile,Random Forest,C,848.0,874.89,36
+Tensile,Random Forest,C,881.0,889.7,69
+Tensile,Random Forest,C,874.0,891.29,44
+Tensile,Random Forest,C,864.0,879.0866666666667,41
+Tensile,Random Forest,C,912.0,902.0933333333334,83
+Tensile,Random Forest,C,900.0,909.0366666666666,34
+Tensile,Random Forest,C,855.0,883.9333333333333,87
+Tensile,Random Forest,C,1149.0,1105.4366666666667,103
+Tensile,Random Forest,C,1111.0,1073.2533333333333,101
+Tensile,Random Forest,C,1151.0,1083.1033333333332,92
+Tensile,Random Forest,C,1072.0,1084.4866666666667,94
+Tensile,Random Forest,C,1138.0,1094.35,104
+Tensile,Random Forest,C,1167.0,1104.8466666666666,107
+Tensile,Random Forest,C,1032.0,998.9533333333334,103
+Tensile,Random Forest,C,992.0,967.61,101
+Tensile,Random Forest,C,1026.0,974.0333333333333,92
+Tensile,Random Forest,C,969.0,983.3933333333333,94
+Tensile,Random Forest,C,1012.0,991.2066666666667,104
+Tensile,Random Forest,C,1046.0,996.8833333333333,107
+Tensile,Random Forest,C,911.0,884.9,103
+Tensile,Random Forest,C,878.0,866.8333333333334,101
+Tensile,Random Forest,C,895.0,878.56,92
+Tensile,Random Forest,C,860.0,875.93,94
+Tensile,Random Forest,C,881.0,879.9033333333333,104
+Tensile,Random Forest,C,909.0,885.29,107
+Tensile,ANN,B,736.0,752.2604698075036,16
+Tensile,ANN,B,736.0,789.4815434155698,23
+Tensile,ANN,B,690.0,733.8845186884602,14
+Tensile,ANN,B,790.0,760.4953813487107,25
+Tensile,ANN,B,720.0,757.4985449103276,8
+Tensile,ANN,B,830.0,782.0772436348632,40
+Tensile,ANN,B,778.0,729.3563143465287,9
+Tensile,ANN,B,748.0,685.9705492323799,4
+Tensile,ANN,B,763.0,781.5293677911171,32
+Tensile,ANN,B,722.0,742.9024284787513,20
+Tensile,ANN,B,776.0,738.0914140274324,31
+Tensile,ANN,B,715.0,778.7804721624179,2
+Tensile,ANN,B,678.0,704.8101175215843,16
+Tensile,ANN,B,699.0,717.3129338772583,23
+Tensile,ANN,B,654.0,690.6774568059095,14
+Tensile,ANN,B,738.0,696.7692590634939,25
+Tensile,ANN,B,682.0,683.019888584714,8
+Tensile,ANN,B,720.0,755.0904540394175,40
+Tensile,ANN,B,721.0,687.6093928842756,9
+Tensile,ANN,B,688.0,647.2725786883192,4
+Tensile,ANN,B,705.0,724.3101673376779,32
+Tensile,ANN,B,681.0,694.2979811040207,20
+Tensile,ANN,B,721.0,703.2221833684939,31
+Tensile,ANN,B,672.0,695.6045272379579,2
+Tensile,ANN,B,635.0,645.2464439045357,16
+Tensile,ANN,B,652.0,641.4398789911158,23
+Tensile,ANN,B,613.0,641.5169554001789,14
+Tensile,ANN,B,667.0,649.0379141469608,25
+Tensile,ANN,B,651.0,619.288973642872,8
+Tensile,ANN,B,701.0,673.3749241945088,40
+Tensile,ANN,B,667.0,679.5980298806428,9
+Tensile,ANN,B,638.0,614.6209024059106,4
+Tensile,ANN,B,659.0,674.5995132298945,32
+Tensile,ANN,B,631.0,641.7663074606587,20
+Tensile,ANN,B,665.0,651.6755951566165,31
+Tensile,ANN,B,616.0,619.1486329039376,2
+Tensile,ANN,B,923.0,866.7592020012914,97
+Tensile,ANN,B,801.0,863.8892370225939,98
+Tensile,ANN,B,874.0,930.1567197655426,95
+Tensile,ANN,B,809.0,847.5609585121491,91
+Tensile,ANN,B,766.0,823.794552583608,74
+Tensile,ANN,B,929.0,871.4707595513007,105
+Tensile,ANN,B,882.0,909.3938868368392,102
+Tensile,ANN,B,843.0,837.5741967885608,85
+Tensile,ANN,B,910.0,898.1568066618864,106
+Tensile,ANN,B,925.0,884.8692392324042,96
+Tensile,ANN,B,819.0,825.324095599532,78
+Tensile,ANN,B,828.0,789.1675910438966,97
+Tensile,ANN,B,748.0,790.5935508536573,98
+Tensile,ANN,B,812.0,813.8275920276402,95
+Tensile,ANN,B,760.0,755.1672067566413,91
+Tensile,ANN,B,717.0,766.1474947054069,74
+Tensile,ANN,B,833.0,801.1179847698494,105
+Tensile,ANN,B,806.0,804.535889435387,102
+Tensile,ANN,B,774.0,763.0233462506314,85
+Tensile,ANN,B,833.0,818.6196905277734,106
+Tensile,ANN,B,811.0,797.3770775494697,96
+Tensile,ANN,B,765.0,753.669596535393,78
+Tensile,ANN,B,735.0,721.4426854206005,97
+Tensile,ANN,B,696.0,730.3072580932924,98
+Tensile,ANN,B,736.0,735.7643234620487,95
+Tensile,ANN,B,696.0,705.3271081267445,91
+Tensile,ANN,B,669.0,689.1919685131064,74
+Tensile,ANN,B,738.0,731.5163179918181,105
+Tensile,ANN,B,741.0,748.97390265239,102
+Tensile,ANN,B,706.0,734.3310203450799,85
+Tensile,ANN,B,744.0,775.2136264949509,106
+Tensile,ANN,B,723.0,719.239818822741,96
+Tensile,ANN,B,706.0,707.5749708816394,78
+Tensile,ANN,B,962.0,946.0733643509939,114
+Tensile,ANN,B,956.0,951.3532316377933,112
+Tensile,ANN,B,906.0,933.0691159461903,109
+Tensile,ANN,B,967.0,955.8853591636861,116
+Tensile,ANN,B,896.0,888.4927646268043,111
+Tensile,ANN,B,957.0,956.4784019600667,117
+Tensile,ANN,B,957.0,952.7661766617118,110
+Tensile,ANN,B,985.0,989.2755214792969,118
+Tensile,ANN,B,918.0,935.6748876803545,115
+Tensile,ANN,B,929.0,912.3352787384998,108
+Tensile,ANN,B,1006.0,958.3709972007766,113
+Tensile,ANN,B,854.0,848.8591548904003,114
+Tensile,ANN,B,848.0,859.1537142387735,112
+Tensile,ANN,B,823.0,828.6733534487065,109
+Tensile,ANN,B,860.0,861.8647120824326,116
+Tensile,ANN,B,830.0,800.1570011109266,111
+Tensile,ANN,B,844.0,861.0454006780733,117
+Tensile,ANN,B,850.0,836.3096490288477,110
+Tensile,ANN,B,870.0,869.1575800974556,118
+Tensile,ANN,B,840.0,866.4944086884598,115
+Tensile,ANN,B,837.0,833.7485674879393,108
+Tensile,ANN,B,893.0,886.6981990295799,113
+Tensile,ANN,B,757.0,752.065873434085,114
+Tensile,ANN,B,766.0,759.802980290551,112
+Tensile,ANN,B,746.0,751.0225470374942,109
+Tensile,ANN,B,777.0,769.2417001686248,116
+Tensile,ANN,B,749.0,747.0579230560184,111
+Tensile,ANN,B,757.0,770.9986450871131,117
+Tensile,ANN,B,759.0,758.4396762433586,110
+Tensile,ANN,B,777.0,780.8279037297732,118
+Tensile,ANN,B,762.0,798.9816335398436,115
+Tensile,ANN,B,742.0,746.7854933837705,108
+Tensile,ANN,B,778.0,769.3403802548648,113
+Tensile,ANN,B,1052.0,1043.0306166747582,86
+Tensile,ANN,B,1006.0,1068.898590902477,80
+Tensile,ANN,B,1084.0,1098.182368649067,60
+Tensile,ANN,B,1015.0,1023.1481045007166,73
+Tensile,ANN,B,1073.0,1045.063245211764,45
+Tensile,ANN,B,1092.0,1074.6354742121584,84
+Tensile,ANN,B,1077.0,1031.0621144295146,79
+Tensile,ANN,B,1036.0,1061.519631199044,61
+Tensile,ANN,B,969.0,984.3239113656482,86
+Tensile,ANN,B,902.0,967.488415836609,80
+Tensile,ANN,B,979.0,1023.7794534833891,60
+Tensile,ANN,B,935.0,950.1102621220584,73
+Tensile,ANN,B,962.0,973.2632770844533,45
+Tensile,ANN,B,985.0,981.9493297028056,84
+Tensile,ANN,B,956.0,927.7124828271592,79
+Tensile,ANN,B,949.0,952.7886953032563,61
+Tensile,ANN,B,888.0,892.6957153675085,86
+Tensile,ANN,B,862.0,839.1873057986666,80
+Tensile,ANN,B,869.0,907.1869006171194,60
+Tensile,ANN,B,857.0,851.9755965755899,73
+Tensile,ANN,B,878.0,875.7820498545802,45
+Tensile,ANN,B,897.0,895.5218827261098,84
+Tensile,ANN,B,861.0,844.8537239565952,79
+Tensile,ANN,B,880.0,875.0159439653464,61
+Tensile,ANN,B,1118.0,1118.2499039825757,27
+Tensile,ANN,B,1048.0,1069.4533288595933,22
+Tensile,ANN,B,1092.0,1082.7502628386503,26
+Tensile,ANN,B,1053.0,1076.8663508831344,24
+Tensile,ANN,B,1080.0,1075.8837316130634,12
+Tensile,ANN,B,1099.0,1120.055011071609,28
+Tensile,ANN,B,1075.0,1091.9054273425659,29
+Tensile,ANN,B,1088.0,1075.6161874542686,19
+Tensile,ANN,B,1111.0,1098.888983738528,18
+Tensile,ANN,B,1085.0,1072.352534381186,10
+Tensile,ANN,B,1102.0,1064.4317489696664,17
+Tensile,ANN,B,1102.0,1133.1252907928283,33
+Tensile,ANN,B,1206.0,1146.0153837837097,38
+Tensile,ANN,B,1082.0,1105.8527242181387,15
+Tensile,ANN,B,984.0,1025.6703136505362,27
+Tensile,ANN,B,955.0,967.3586866000388,22
+Tensile,ANN,B,964.0,971.7042059309266,26
+Tensile,ANN,B,937.0,984.1473358987718,24
+Tensile,ANN,B,978.0,972.3879948984687,12
+Tensile,ANN,B,1008.0,1003.6475542937944,28
+Tensile,ANN,B,956.0,981.9342512769931,29
+Tensile,ANN,B,952.0,988.5558547624598,19
+Tensile,ANN,B,989.0,1000.8524459614496,18
+Tensile,ANN,B,973.0,963.303841990815,10
+Tensile,ANN,B,1010.0,987.251258686309,17
+Tensile,ANN,B,996.0,1008.5106802696982,33
+Tensile,ANN,B,1067.0,1027.8017277690396,38
+Tensile,ANN,B,974.0,972.6304550607429,15
+Tensile,ANN,B,897.0,896.3878827830339,27
+Tensile,ANN,B,846.0,888.4223194808991,22
+Tensile,ANN,B,853.0,865.3879890217577,26
+Tensile,ANN,B,847.0,882.905495689603,24
+Tensile,ANN,B,867.0,849.6456925457594,12
+Tensile,ANN,B,907.0,877.5525439980402,28
+Tensile,ANN,B,875.0,864.531244941637,29
+Tensile,ANN,B,870.0,868.5315299908623,19
+Tensile,ANN,B,898.0,882.1336168549899,18
+Tensile,ANN,B,864.0,849.1411869114256,10
+Tensile,ANN,B,919.0,881.0663088240897,17
+Tensile,ANN,B,903.0,878.0581287445204,33
+Tensile,ANN,B,948.0,906.9491342715866,38
+Tensile,ANN,B,891.0,847.6064031264759,15
+Tensile,ANN,B,1139.0,1160.5594474237405,65
+Tensile,ANN,B,1141.0,1137.4792974232794,46
+Tensile,ANN,B,1203.0,1177.3642158124865,88
+Tensile,ANN,B,1160.0,1147.0959756477318,58
+Tensile,ANN,B,1199.0,1170.3127890578917,66
+Tensile,ANN,B,1150.0,1141.923063588496,68
+Tensile,ANN,B,1202.0,1152.9913204854047,47
+Tensile,ANN,B,1108.0,1117.723628528714,30
+Tensile,ANN,B,1181.0,1187.1500233013132,82
+Tensile,ANN,B,1179.0,1194.998868270712,81
+Tensile,ANN,B,1109.0,1134.9606219963919,57
+Tensile,ANN,B,1146.0,1155.7225025512648,53
+Tensile,ANN,B,1155.0,1132.1221039913341,48
+Tensile,ANN,B,1202.0,1153.1348928722268,52
+Tensile,ANN,B,1178.0,1183.039627883103,93
+Tensile,ANN,B,1030.0,1031.7515572806642,65
+Tensile,ANN,B,1027.0,1036.4671396047313,46
+Tensile,ANN,B,1079.0,1093.7696123576284,88
+Tensile,ANN,B,1062.0,1037.137097199703,58
+Tensile,ANN,B,1091.0,1081.049590955576,66
+Tensile,ANN,B,1002.0,1042.2414055771897,68
+Tensile,ANN,B,1066.0,1045.2950325653662,47
+Tensile,ANN,B,995.0,1009.1248588041109,30
+Tensile,ANN,B,1064.0,1068.5183916444817,82
+Tensile,ANN,B,1072.0,1065.6793191089284,81
+Tensile,ANN,B,1005.0,1040.4665364826017,57
+Tensile,ANN,B,1013.0,1056.4705113119012,53
+Tensile,ANN,B,1049.0,1029.4662947579818,48
+Tensile,ANN,B,1091.0,1068.8741099170034,52
+Tensile,ANN,B,1063.0,1079.9072998140928,93
+Tensile,ANN,B,890.0,914.6730896188661,65
+Tensile,ANN,B,912.0,921.6233674284902,46
+Tensile,ANN,B,971.0,949.9681670196144,88
+Tensile,ANN,B,905.0,940.8496981494386,58
+Tensile,ANN,B,950.0,939.9005023192515,66
+Tensile,ANN,B,922.0,902.4328335813146,68
+Tensile,ANN,B,924.0,931.0594748073449,47
+Tensile,ANN,B,895.0,901.446854433456,30
+Tensile,ANN,B,938.0,926.6255229660607,82
+Tensile,ANN,B,905.0,949.2900847637424,81
+Tensile,ANN,B,903.0,912.8995789732222,57
+Tensile,ANN,B,941.0,917.0486002375872,53
+Tensile,ANN,B,933.0,911.3084509574375,48
+Tensile,ANN,B,948.0,933.2215958026424,52
+Tensile,ANN,B,949.0,952.2855286968813,93
+Tensile,ANN,B,889.0,869.3233793825052,43
+Tensile,ANN,B,847.0,896.2783980179216,39
+Tensile,ANN,B,924.0,907.5201426523266,54
+Tensile,ANN,B,854.0,883.2076789586604,49
+Tensile,ANN,B,890.0,905.984005010946,67
+Tensile,ANN,B,804.0,876.6307843217567,35
+Tensile,ANN,B,892.0,878.6695157244067,55
+Tensile,ANN,B,811.0,806.7858983839949,43
+Tensile,ANN,B,790.0,796.2548505963425,39
+Tensile,ANN,B,844.0,836.2990816543261,54
+Tensile,ANN,B,799.0,814.4896367443123,49
+Tensile,ANN,B,815.0,830.8894156464348,67
+Tensile,ANN,B,753.0,800.8488900562122,35
+Tensile,ANN,B,814.0,821.8754578395618,55
+Tensile,ANN,B,742.0,723.8214156613133,43
+Tensile,ANN,B,734.0,738.8548641800877,39
+Tensile,ANN,B,758.0,784.039874437989,54
+Tensile,ANN,B,715.0,728.7022154246558,49
+Tensile,ANN,B,756.0,762.4995253369766,67
+Tensile,ANN,B,700.0,734.0648375680753,35
+Tensile,ANN,B,737.0,776.1664184992394,55
+Tensile,ANN,B,936.0,901.9878135008995,75
+Tensile,ANN,B,1006.0,987.5929418019193,90
+Tensile,ANN,B,900.0,890.1224878455191,72
+Tensile,ANN,B,922.0,922.8043565481148,76
+Tensile,ANN,B,988.0,916.9814870337565,71
+Tensile,ANN,B,955.0,953.3554471208769,99
+Tensile,ANN,B,980.0,969.6871836307394,70
+Tensile,ANN,B,951.0,939.3312364278913,56
+Tensile,ANN,B,882.0,898.8339412862347,63
+Tensile,ANN,B,1029.0,993.4073520937186,100
+Tensile,ANN,B,964.0,912.7348569814569,89
+Tensile,ANN,B,888.0,894.7739397276525,64
+Tensile,ANN,B,837.0,817.4369759995509,75
+Tensile,ANN,B,917.0,923.2617173759215,90
+Tensile,ANN,B,837.0,815.6135192988818,72
+Tensile,ANN,B,842.0,856.183353087406,76
+Tensile,ANN,B,890.0,867.246863442712,71
+Tensile,ANN,B,874.0,898.6266796715045,99
+Tensile,ANN,B,897.0,921.6154610088361,70
+Tensile,ANN,B,862.0,861.1035228713566,56
+Tensile,ANN,B,801.0,796.5853535108956,63
+Tensile,ANN,B,935.0,903.5818407586282,100
+Tensile,ANN,B,878.0,848.0809276883027,89
+Tensile,ANN,B,816.0,812.3393141238041,64
+Tensile,ANN,B,757.0,754.4815847320643,75
+Tensile,ANN,B,826.0,855.7318601302766,90
+Tensile,ANN,B,755.0,728.0134814944461,72
+Tensile,ANN,B,760.0,772.9114375680138,76
+Tensile,ANN,B,790.0,775.4995667998645,71
+Tensile,ANN,B,805.0,827.9082645883362,99
+Tensile,ANN,B,829.0,851.5183507462596,70
+Tensile,ANN,B,772.0,785.8098458526324,56
+Tensile,ANN,B,737.0,736.8492861784258,63
+Tensile,ANN,B,840.0,808.6401435493241,100
+Tensile,ANN,B,794.0,804.4709263019013,89
+Tensile,ANN,B,744.0,733.6413671006778,64
+Tensile,ANN,B,988.0,1032.4603597105236,6
+Tensile,ANN,B,948.0,984.4104013912151,3
+Tensile,ANN,B,1013.0,1026.5620942104865,5
+Tensile,ANN,B,1081.0,1067.9204586618996,21
+Tensile,ANN,B,962.0,981.8444718276693,1
+Tensile,ANN,B,1014.0,1008.2071835463692,11
+Tensile,ANN,B,998.0,1013.9289295569039,13
+Tensile,ANN,B,989.0,1015.1420165601448,0
+Tensile,ANN,B,1010.0,990.6609863317909,7
+Tensile,ANN,B,906.0,917.367439667475,6
+Tensile,ANN,B,886.0,877.0644301346433,3
+Tensile,ANN,B,941.0,938.8670376164758,5
+Tensile,ANN,B,1016.0,981.7330382588318,21
+Tensile,ANN,B,897.0,881.3821641778583,1
+Tensile,ANN,B,928.0,928.0727060368379,11
+Tensile,ANN,B,918.0,936.4627512711118,13
+Tensile,ANN,B,901.0,928.9828293447846,0
+Tensile,ANN,B,928.0,913.690503026109,7
+Tensile,ANN,B,840.0,842.472803041104,6
+Tensile,ANN,B,821.0,831.0266304408509,3
+Tensile,ANN,B,849.0,860.6421835138044,5
+Tensile,ANN,B,909.0,907.5691819831914,21
+Tensile,ANN,B,833.0,820.5076766961341,1
+Tensile,ANN,B,851.0,839.8303659296757,11
+Tensile,ANN,B,854.0,850.5253466184196,13
+Tensile,ANN,B,838.0,834.2477600581251,0
+Tensile,ANN,B,846.0,816.6029235104498,7
+Tensile,ANN,B,1070.0,1053.7302736101155,42
+Tensile,ANN,B,1087.0,1096.6976080415516,50
+Tensile,ANN,B,1144.0,1198.1064713187407,59
+Tensile,ANN,B,1105.0,1091.186038934102,51
+Tensile,ANN,B,1125.0,1101.6951988140897,37
+Tensile,ANN,B,1089.0,1102.2510159339454,62
+Tensile,ANN,B,1108.0,1112.668356835264,77
+Tensile,ANN,B,1085.0,1074.8518476277447,36
+Tensile,ANN,B,1117.0,1128.3849093807062,69
+Tensile,ANN,B,1129.0,1113.7096079667217,44
+Tensile,ANN,B,1089.0,1083.1770114301778,41
+Tensile,ANN,B,1190.0,1160.3108345945413,83
+Tensile,ANN,B,1174.0,1132.9210283878137,34
+Tensile,ANN,B,1085.0,1103.4893811486327,87
+Tensile,ANN,B,957.0,928.4043530745462,42
+Tensile,ANN,B,984.0,973.1726131849013,50
+Tensile,ANN,B,1037.0,1069.0426269086408,59
+Tensile,ANN,B,985.0,1016.6899338230537,51
+Tensile,ANN,B,1020.0,992.3297297624069,37
+Tensile,ANN,B,990.0,991.8163463688952,62
+Tensile,ANN,B,1005.0,977.9104885588961,77
+Tensile,ANN,B,962.0,981.2340370936454,36
+Tensile,ANN,B,1003.0,1012.8947521829857,69
+Tensile,ANN,B,1004.0,1008.1965772358413,44
+Tensile,ANN,B,975.0,979.6247608481198,41
+Tensile,ANN,B,1068.0,1043.9002986501578,83
+Tensile,ANN,B,1069.0,1010.3704137668814,34
+Tensile,ANN,B,973.0,973.2580991427375,87
+Tensile,ANN,B,843.0,841.4063002949696,42
+Tensile,ANN,B,868.0,867.1033987584609,50
+Tensile,ANN,B,900.0,945.3875189924411,59
+Tensile,ANN,B,864.0,905.083061006392,51
+Tensile,ANN,B,879.0,866.3597288577771,37
+Tensile,ANN,B,875.0,863.9078878766063,62
+Tensile,ANN,B,883.0,898.6928406020023,77
+Tensile,ANN,B,848.0,864.8918487166162,36
+Tensile,ANN,B,881.0,904.5513854613737,69
+Tensile,ANN,B,874.0,877.5790781025873,44
+Tensile,ANN,B,864.0,855.7251565911364,41
+Tensile,ANN,B,912.0,933.174060847901,83
+Tensile,ANN,B,900.0,897.4635372050734,34
+Tensile,ANN,B,855.0,892.417376296272,87
+Tensile,ANN,B,1149.0,1117.8386808627765,103
+Tensile,ANN,B,1111.0,1077.9227920099581,101
+Tensile,ANN,B,1151.0,1105.9421894721002,92
+Tensile,ANN,B,1072.0,1057.3569014428847,94
+Tensile,ANN,B,1138.0,1131.5984734104784,104
+Tensile,ANN,B,1167.0,1128.077557037155,107
+Tensile,ANN,B,1032.0,1025.8265311403832,103
+Tensile,ANN,B,992.0,1010.6198683923524,101
+Tensile,ANN,B,1026.0,1003.4544567978675,92
+Tensile,ANN,B,969.0,947.3695011716927,94
+Tensile,ANN,B,1012.0,1015.3181330721376,104
+Tensile,ANN,B,1046.0,1044.0441916322231,107
+Tensile,ANN,B,911.0,915.741001620768,103
+Tensile,ANN,B,878.0,889.2590754732989,101
+Tensile,ANN,B,895.0,895.6958340337424,92
+Tensile,ANN,B,860.0,840.7137035290368,94
+Tensile,ANN,B,881.0,916.860151009725,104
+Tensile,ANN,B,909.0,925.135460461867,107
+Tensile,ANN,C,736.0,741.5288471555054,16
+Tensile,ANN,C,736.0,783.2808523881856,23
+Tensile,ANN,C,690.0,721.3483493855435,14
+Tensile,ANN,C,790.0,749.6620792164199,25
+Tensile,ANN,C,720.0,774.4052776916606,8
+Tensile,ANN,C,830.0,783.0023664216353,40
+Tensile,ANN,C,778.0,734.4798017848254,9
+Tensile,ANN,C,748.0,708.6851491086597,4
+Tensile,ANN,C,763.0,783.3286327037406,32
+Tensile,ANN,C,722.0,745.4107060326417,20
+Tensile,ANN,C,776.0,749.3350972159077,31
+Tensile,ANN,C,715.0,756.7248981289331,2
+Tensile,ANN,C,678.0,698.7641425080744,16
+Tensile,ANN,C,699.0,703.0164787532685,23
+Tensile,ANN,C,654.0,686.4605835069938,14
+Tensile,ANN,C,738.0,663.4823479585796,25
+Tensile,ANN,C,682.0,696.5321825934714,8
+Tensile,ANN,C,720.0,707.3257369620742,40
+Tensile,ANN,C,721.0,692.1528677604265,9
+Tensile,ANN,C,688.0,666.7950200688983,4
+Tensile,ANN,C,705.0,718.8757099699118,32
+Tensile,ANN,C,681.0,694.7795924902725,20
+Tensile,ANN,C,721.0,703.1584399401137,31
+Tensile,ANN,C,672.0,688.0590104936248,2
+Tensile,ANN,C,635.0,654.884513284369,16
+Tensile,ANN,C,652.0,644.9323870697713,23
+Tensile,ANN,C,613.0,634.6334308360673,14
+Tensile,ANN,C,667.0,606.4572487424697,25
+Tensile,ANN,C,651.0,632.9063129653837,8
+Tensile,ANN,C,701.0,638.6992686424533,40
+Tensile,ANN,C,667.0,661.0289278932291,9
+Tensile,ANN,C,638.0,619.4114079299774,4
+Tensile,ANN,C,659.0,672.3054677032248,32
+Tensile,ANN,C,631.0,644.093685452385,20
+Tensile,ANN,C,665.0,650.6560026883906,31
+Tensile,ANN,C,616.0,627.4088618374093,2
+Tensile,ANN,C,923.0,865.1858698037448,97
+Tensile,ANN,C,801.0,903.5414515030608,98
+Tensile,ANN,C,874.0,943.3086850152125,95
+Tensile,ANN,C,809.0,844.0619439270689,91
+Tensile,ANN,C,766.0,830.0785654714332,74
+Tensile,ANN,C,929.0,866.8644472513564,105
+Tensile,ANN,C,882.0,902.3502082383509,102
+Tensile,ANN,C,843.0,850.4401175166563,85
+Tensile,ANN,C,910.0,873.0363359856694,106
+Tensile,ANN,C,925.0,902.5179237515988,96
+Tensile,ANN,C,819.0,872.5721314274936,78
+Tensile,ANN,C,828.0,787.8679177346137,97
+Tensile,ANN,C,748.0,836.2966995283459,98
+Tensile,ANN,C,812.0,839.7142293082237,95
+Tensile,ANN,C,760.0,757.575295927936,91
+Tensile,ANN,C,717.0,764.4700886243467,74
+Tensile,ANN,C,833.0,795.515197601515,105
+Tensile,ANN,C,806.0,815.2784946018716,102
+Tensile,ANN,C,774.0,776.2365945157809,85
+Tensile,ANN,C,833.0,802.6794374863728,106
+Tensile,ANN,C,811.0,812.1072813950339,96
+Tensile,ANN,C,765.0,801.4940393841919,78
+Tensile,ANN,C,735.0,721.0452958709323,97
+Tensile,ANN,C,696.0,749.7798647347653,98
+Tensile,ANN,C,736.0,749.9379880343868,95
+Tensile,ANN,C,696.0,696.2603910731588,91
+Tensile,ANN,C,669.0,685.050718896949,74
+Tensile,ANN,C,738.0,728.2192373325611,105
+Tensile,ANN,C,741.0,744.0469863566402,102
+Tensile,ANN,C,706.0,735.374319817446,85
+Tensile,ANN,C,744.0,747.1518040149651,106
+Tensile,ANN,C,723.0,731.5017311485323,96
+Tensile,ANN,C,706.0,732.7816454354116,78
+Tensile,ANN,C,962.0,937.2839526713285,114
+Tensile,ANN,C,956.0,951.4521333165831,112
+Tensile,ANN,C,906.0,943.4334515951185,109
+Tensile,ANN,C,967.0,980.2761577957269,116
+Tensile,ANN,C,896.0,874.6330682401418,111
+Tensile,ANN,C,957.0,967.2164219733387,117
+Tensile,ANN,C,957.0,953.2659757646874,110
+Tensile,ANN,C,985.0,1000.4395096166518,118
+Tensile,ANN,C,918.0,966.2758189307199,115
+Tensile,ANN,C,929.0,908.5571636902472,108
+Tensile,ANN,C,1006.0,935.7541107730917,113
+Tensile,ANN,C,854.0,844.0575538911226,114
+Tensile,ANN,C,848.0,851.6459976220497,112
+Tensile,ANN,C,823.0,839.6851985265303,109
+Tensile,ANN,C,860.0,880.8599989083175,116
+Tensile,ANN,C,830.0,794.6430465344824,111
+Tensile,ANN,C,844.0,869.5713515577575,117
+Tensile,ANN,C,850.0,849.9133093246845,110
+Tensile,ANN,C,870.0,890.8186570212782,118
+Tensile,ANN,C,840.0,888.66536753897,115
+Tensile,ANN,C,837.0,817.1950248250917,108
+Tensile,ANN,C,893.0,846.2944406775239,113
+Tensile,ANN,C,757.0,742.9343234877348,114
+Tensile,ANN,C,766.0,763.07955840312,112
+Tensile,ANN,C,746.0,759.0536006554437,109
+Tensile,ANN,C,777.0,791.291312051188,116
+Tensile,ANN,C,749.0,730.0045980358135,111
+Tensile,ANN,C,757.0,778.4119082955771,117
+Tensile,ANN,C,759.0,772.9501243496477,110
+Tensile,ANN,C,777.0,780.0968659487983,118
+Tensile,ANN,C,762.0,817.9545841436083,115
+Tensile,ANN,C,742.0,738.5068659669532,108
+Tensile,ANN,C,778.0,749.3793686662586,113
+Tensile,ANN,C,1052.0,1037.6275719793782,86
+Tensile,ANN,C,1006.0,1068.223388250026,80
+Tensile,ANN,C,1084.0,1125.1367965661927,60
+Tensile,ANN,C,1015.0,1041.0194925523788,73
+Tensile,ANN,C,1073.0,1077.2711473256609,45
+Tensile,ANN,C,1092.0,1056.9240710745057,84
+Tensile,ANN,C,1077.0,1036.6410495882442,79
+Tensile,ANN,C,1036.0,1058.0245850388033,61
+Tensile,ANN,C,969.0,966.3711507241838,86
+Tensile,ANN,C,902.0,965.2055662222854,80
+Tensile,ANN,C,979.0,1035.4452438417916,60
+Tensile,ANN,C,935.0,943.7373241421698,73
+Tensile,ANN,C,962.0,992.8183794767923,45
+Tensile,ANN,C,985.0,971.721362546428,84
+Tensile,ANN,C,956.0,928.679021775138,79
+Tensile,ANN,C,949.0,963.8474693620719,61
+Tensile,ANN,C,888.0,875.6302430754671,86
+Tensile,ANN,C,862.0,855.886546583474,80
+Tensile,ANN,C,869.0,908.4227357945841,60
+Tensile,ANN,C,857.0,839.8383570178404,73
+Tensile,ANN,C,878.0,881.3635927030945,45
+Tensile,ANN,C,897.0,883.2757679640596,84
+Tensile,ANN,C,861.0,843.0641435323562,79
+Tensile,ANN,C,880.0,879.1570302203114,61
+Tensile,ANN,C,1118.0,1113.665727630462,27
+Tensile,ANN,C,1048.0,1069.7796097109176,22
+Tensile,ANN,C,1092.0,1092.9319795891827,26
+Tensile,ANN,C,1053.0,1096.5616584401587,24
+Tensile,ANN,C,1080.0,1080.0937363114137,12
+Tensile,ANN,C,1099.0,1119.3513110424299,28
+Tensile,ANN,C,1075.0,1100.6443587687393,29
+Tensile,ANN,C,1088.0,1100.4272776660457,19
+Tensile,ANN,C,1111.0,1101.4522885280696,18
+Tensile,ANN,C,1085.0,1077.4006376070556,10
+Tensile,ANN,C,1102.0,1056.60155582876,17
+Tensile,ANN,C,1102.0,1121.8367634731228,33
+Tensile,ANN,C,1206.0,1140.7562156015147,38
+Tensile,ANN,C,1082.0,1098.5788642527675,15
+Tensile,ANN,C,984.0,1017.7388186159912,27
+Tensile,ANN,C,955.0,979.7234975042533,22
+Tensile,ANN,C,964.0,979.2446118537002,26
+Tensile,ANN,C,937.0,1001.4398134374601,24
+Tensile,ANN,C,978.0,975.2386829819707,12
+Tensile,ANN,C,1008.0,1015.5880515368398,28
+Tensile,ANN,C,956.0,984.3475775999999,29
+Tensile,ANN,C,952.0,995.0820293756707,19
+Tensile,ANN,C,989.0,1001.9585409839948,18
+Tensile,ANN,C,973.0,966.6202823186541,10
+Tensile,ANN,C,1010.0,970.4890432852059,17
+Tensile,ANN,C,996.0,1005.070467274687,33
+Tensile,ANN,C,1067.0,1020.6469568750601,38
+Tensile,ANN,C,974.0,980.3451178450907,15
+Tensile,ANN,C,897.0,911.3726320634324,27
+Tensile,ANN,C,846.0,884.3323687753084,22
+Tensile,ANN,C,853.0,863.8019821047818,26
+Tensile,ANN,C,847.0,892.6777926795871,24
+Tensile,ANN,C,867.0,857.730140812664,12
+Tensile,ANN,C,907.0,881.4172340440485,28
+Tensile,ANN,C,875.0,877.8274162875153,29
+Tensile,ANN,C,870.0,887.8291481998818,19
+Tensile,ANN,C,898.0,876.6502884076232,18
+Tensile,ANN,C,864.0,853.0889640357891,10
+Tensile,ANN,C,919.0,869.7037025594718,17
+Tensile,ANN,C,903.0,892.9685621917635,33
+Tensile,ANN,C,948.0,897.0885948563495,38
+Tensile,ANN,C,891.0,857.3877032982097,15
+Tensile,ANN,C,1139.0,1159.6041108010836,65
+Tensile,ANN,C,1141.0,1138.7248720634148,46
+Tensile,ANN,C,1203.0,1181.8421150497136,88
+Tensile,ANN,C,1160.0,1140.1429061070369,58
+Tensile,ANN,C,1199.0,1162.2015916648654,66
+Tensile,ANN,C,1150.0,1144.4585475604904,68
+Tensile,ANN,C,1202.0,1164.0466666904324,47
+Tensile,ANN,C,1108.0,1117.7360605123858,30
+Tensile,ANN,C,1181.0,1171.0865661522605,82
+Tensile,ANN,C,1179.0,1182.5894045531693,81
+Tensile,ANN,C,1109.0,1132.3042274513768,57
+Tensile,ANN,C,1146.0,1145.2229103686143,53
+Tensile,ANN,C,1155.0,1113.8693300825025,48
+Tensile,ANN,C,1202.0,1142.3380522285433,52
+Tensile,ANN,C,1178.0,1170.9928793445745,93
+Tensile,ANN,C,1030.0,1031.9201342829385,65
+Tensile,ANN,C,1027.0,1036.5327156430303,46
+Tensile,ANN,C,1079.0,1073.617569888183,88
+Tensile,ANN,C,1062.0,1029.569276288811,58
+Tensile,ANN,C,1091.0,1072.133587962153,66
+Tensile,ANN,C,1002.0,1038.015358162043,68
+Tensile,ANN,C,1066.0,1062.7117446447428,47
+Tensile,ANN,C,995.0,1006.3474056497839,30
+Tensile,ANN,C,1064.0,1062.111281560446,82
+Tensile,ANN,C,1072.0,1069.953674384407,81
+Tensile,ANN,C,1005.0,1043.6739229870357,57
+Tensile,ANN,C,1013.0,1042.4770567242974,53
+Tensile,ANN,C,1049.0,1001.7101830995088,48
+Tensile,ANN,C,1091.0,1048.6487677409973,52
+Tensile,ANN,C,1063.0,1062.9655014532918,93
+Tensile,ANN,C,890.0,912.5395192697661,65
+Tensile,ANN,C,912.0,921.1391778034948,46
+Tensile,ANN,C,971.0,926.9367465702084,88
+Tensile,ANN,C,905.0,910.8865892927059,58
+Tensile,ANN,C,950.0,950.4085781615045,66
+Tensile,ANN,C,922.0,904.7249976788896,68
+Tensile,ANN,C,924.0,947.0737014540867,47
+Tensile,ANN,C,895.0,907.0640276718299,30
+Tensile,ANN,C,938.0,938.7367010936383,82
+Tensile,ANN,C,905.0,943.8038062859849,81
+Tensile,ANN,C,903.0,932.6418025897018,57
+Tensile,ANN,C,941.0,911.5549814570192,53
+Tensile,ANN,C,933.0,899.292251131498,48
+Tensile,ANN,C,948.0,927.0836652087714,52
+Tensile,ANN,C,949.0,918.3660742555188,93
+Tensile,ANN,C,889.0,858.6099391384869,43
+Tensile,ANN,C,847.0,919.6056737607157,39
+Tensile,ANN,C,924.0,894.4918879511109,54
+Tensile,ANN,C,854.0,890.0904783480937,49
+Tensile,ANN,C,890.0,922.5971435136702,67
+Tensile,ANN,C,804.0,879.4655421534208,35
+Tensile,ANN,C,892.0,888.1643320755733,55
+Tensile,ANN,C,811.0,798.2765813184428,43
+Tensile,ANN,C,790.0,830.8953655137101,39
+Tensile,ANN,C,844.0,821.4515556169551,54
+Tensile,ANN,C,799.0,809.3913625011514,49
+Tensile,ANN,C,815.0,842.0234219206462,67
+Tensile,ANN,C,753.0,812.5200774449581,35
+Tensile,ANN,C,814.0,827.0304532139196,55
+Tensile,ANN,C,742.0,716.8684509525223,43
+Tensile,ANN,C,734.0,755.6079509313893,39
+Tensile,ANN,C,758.0,768.7587302120178,54
+Tensile,ANN,C,715.0,730.0037167538322,49
+Tensile,ANN,C,756.0,765.1218283003179,67
+Tensile,ANN,C,700.0,741.9404694145719,35
+Tensile,ANN,C,737.0,772.4486672090301,55
+Tensile,ANN,C,936.0,893.0751340142708,75
+Tensile,ANN,C,1006.0,960.0853815733633,90
+Tensile,ANN,C,900.0,892.3759290707513,72
+Tensile,ANN,C,922.0,924.9190506722613,76
+Tensile,ANN,C,988.0,855.2112709952064,71
+Tensile,ANN,C,955.0,991.8498219570805,99
+Tensile,ANN,C,980.0,945.9420651161234,70
+Tensile,ANN,C,951.0,873.2797244593374,56
+Tensile,ANN,C,882.0,906.0993225040553,63
+Tensile,ANN,C,1029.0,950.5913657999583,100
+Tensile,ANN,C,964.0,907.8444811206814,89
+Tensile,ANN,C,888.0,889.3751374731402,64
+Tensile,ANN,C,837.0,811.7078594829777,75
+Tensile,ANN,C,917.0,896.7348477927308,90
+Tensile,ANN,C,837.0,810.7312209990207,72
+Tensile,ANN,C,842.0,856.5648600498835,76
+Tensile,ANN,C,890.0,791.1869058998624,71
+Tensile,ANN,C,874.0,904.1224637008532,99
+Tensile,ANN,C,897.0,889.4976844318097,70
+Tensile,ANN,C,862.0,799.481020439551,56
+Tensile,ANN,C,801.0,810.9861726763271,63
+Tensile,ANN,C,935.0,881.9937168782409,100
+Tensile,ANN,C,878.0,830.4618635831162,89
+Tensile,ANN,C,816.0,813.5240885355399,64
+Tensile,ANN,C,757.0,753.1141885962868,75
+Tensile,ANN,C,826.0,834.7856730764152,90
+Tensile,ANN,C,755.0,725.3145913175439,72
+Tensile,ANN,C,760.0,775.9254183979256,76
+Tensile,ANN,C,790.0,726.7072657969364,71
+Tensile,ANN,C,805.0,828.1893340676157,99
+Tensile,ANN,C,829.0,823.4018498493889,70
+Tensile,ANN,C,772.0,734.5398705396672,56
+Tensile,ANN,C,737.0,750.5487450094903,63
+Tensile,ANN,C,840.0,801.5635448568869,100
+Tensile,ANN,C,794.0,784.6730398314999,89
+Tensile,ANN,C,744.0,729.8141094453093,64
+Tensile,ANN,C,988.0,1047.2999257110548,6
+Tensile,ANN,C,948.0,993.0172382514826,3
+Tensile,ANN,C,1013.0,1044.7672805256873,5
+Tensile,ANN,C,1081.0,1042.0815052356343,21
+Tensile,ANN,C,962.0,989.3513866552795,1
+Tensile,ANN,C,1014.0,1031.610118817512,11
+Tensile,ANN,C,998.0,1029.0305403039636,13
+Tensile,ANN,C,989.0,1029.220320801745,0
+Tensile,ANN,C,1010.0,974.4402347950462,7
+Tensile,ANN,C,906.0,938.2202461045941,6
+Tensile,ANN,C,886.0,908.1224704335992,3
+Tensile,ANN,C,941.0,961.7276180579177,5
+Tensile,ANN,C,1016.0,964.9729988542499,21
+Tensile,ANN,C,897.0,910.5374827216873,1
+Tensile,ANN,C,928.0,940.5067900756255,11
+Tensile,ANN,C,918.0,942.4154591263498,13
+Tensile,ANN,C,901.0,935.2829585942052,0
+Tensile,ANN,C,928.0,905.6313522195449,7
+Tensile,ANN,C,840.0,846.2681253450966,6
+Tensile,ANN,C,821.0,845.1810585185642,3
+Tensile,ANN,C,849.0,870.4269625231074,5
+Tensile,ANN,C,909.0,890.618055039514,21
+Tensile,ANN,C,833.0,830.9955493458566,1
+Tensile,ANN,C,851.0,847.4885961393676,11
+Tensile,ANN,C,854.0,865.6384766089712,13
+Tensile,ANN,C,838.0,848.9440951752626,0
+Tensile,ANN,C,846.0,817.4933916194299,7
+Tensile,ANN,C,1070.0,1052.3633317925064,42
+Tensile,ANN,C,1087.0,1096.3551255083291,50
+Tensile,ANN,C,1144.0,1180.727179480802,59
+Tensile,ANN,C,1105.0,1093.66587352755,51
+Tensile,ANN,C,1125.0,1099.8993813672212,37
+Tensile,ANN,C,1089.0,1101.5641851957278,62
+Tensile,ANN,C,1108.0,1092.279025381394,77
+Tensile,ANN,C,1085.0,1078.1361152311408,36
+Tensile,ANN,C,1117.0,1129.4437006420462,69
+Tensile,ANN,C,1129.0,1116.3319831588606,44
+Tensile,ANN,C,1089.0,1096.7335599066273,41
+Tensile,ANN,C,1190.0,1154.1175251672719,83
+Tensile,ANN,C,1174.0,1132.9474105963145,34
+Tensile,ANN,C,1085.0,1086.658109158639,87
+Tensile,ANN,C,957.0,930.9928643540784,42
+Tensile,ANN,C,984.0,982.3334491681608,50
+Tensile,ANN,C,1037.0,1071.8359660631404,59
+Tensile,ANN,C,985.0,1007.8448478747836,51
+Tensile,ANN,C,1020.0,998.5520219429669,37
+Tensile,ANN,C,990.0,984.9817233040405,62
+Tensile,ANN,C,1005.0,975.0637489321059,77
+Tensile,ANN,C,962.0,988.4613880951777,36
+Tensile,ANN,C,1003.0,1030.8448671732094,69
+Tensile,ANN,C,1004.0,1003.5241739448979,44
+Tensile,ANN,C,975.0,979.9569037773163,41
+Tensile,ANN,C,1068.0,1034.765528478444,83
+Tensile,ANN,C,1069.0,1018.1514940954277,34
+Tensile,ANN,C,973.0,972.6994143408511,87
+Tensile,ANN,C,843.0,838.2576514548822,42
+Tensile,ANN,C,868.0,871.2503855797477,50
+Tensile,ANN,C,900.0,939.8483132028852,59
+Tensile,ANN,C,864.0,903.5017796921306,51
+Tensile,ANN,C,879.0,873.1007802130453,37
+Tensile,ANN,C,875.0,873.1678710044694,62
+Tensile,ANN,C,883.0,876.929497567698,77
+Tensile,ANN,C,848.0,871.8829946131375,36
+Tensile,ANN,C,881.0,914.4159167675513,69
+Tensile,ANN,C,874.0,887.7919949702572,44
+Tensile,ANN,C,864.0,848.5396168013431,41
+Tensile,ANN,C,912.0,914.5270042329661,83
+Tensile,ANN,C,900.0,894.2021175190383,34
+Tensile,ANN,C,855.0,877.5220692230798,87
+Tensile,ANN,C,1149.0,1135.3482965113183,103
+Tensile,ANN,C,1111.0,1077.5308048953846,101
+Tensile,ANN,C,1151.0,1091.6988297662576,92
+Tensile,ANN,C,1072.0,1047.6524088350839,94
+Tensile,ANN,C,1138.0,1118.7429167871774,104
+Tensile,ANN,C,1167.0,1114.7458226824265,107
+Tensile,ANN,C,1032.0,1037.0602722112467,103
+Tensile,ANN,C,992.0,991.1085232600464,101
+Tensile,ANN,C,1026.0,984.0609304990691,92
+Tensile,ANN,C,969.0,942.7907829824637,94
+Tensile,ANN,C,1012.0,1008.5061266107396,104
+Tensile,ANN,C,1046.0,1029.615378460379,107
+Tensile,ANN,C,911.0,918.4974866812186,103
+Tensile,ANN,C,878.0,892.6352682732345,101
+Tensile,ANN,C,895.0,882.2884797320553,92
+Tensile,ANN,C,860.0,855.1817450700222,94
+Tensile,ANN,C,881.0,907.6290006437363,104
+Tensile,ANN,C,909.0,922.2903719940083,107
+Tensile,XGBoost,B,736.0,704.0199584960938,16
+Tensile,XGBoost,B,736.0,771.5892944335938,23
+Tensile,XGBoost,B,690.0,703.8373413085938,14
+Tensile,XGBoost,B,790.0,780.1854248046875,25
+Tensile,XGBoost,B,720.0,712.3275756835938,8
+Tensile,XGBoost,B,830.0,792.3983154296875,40
+Tensile,XGBoost,B,778.0,755.3839111328125,9
+Tensile,XGBoost,B,748.0,725.995361328125,4
+Tensile,XGBoost,B,763.0,758.3380126953125,32
+Tensile,XGBoost,B,722.0,736.7144775390625,20
+Tensile,XGBoost,B,776.0,755.9800415039062,31
+Tensile,XGBoost,B,715.0,725.219970703125,2
+Tensile,XGBoost,B,678.0,673.2639770507812,16
+Tensile,XGBoost,B,699.0,698.1339111328125,23
+Tensile,XGBoost,B,654.0,656.5669555664062,14
+Tensile,XGBoost,B,738.0,701.4441528320312,25
+Tensile,XGBoost,B,682.0,685.810302734375,8
+Tensile,XGBoost,B,720.0,775.4930419921875,40
+Tensile,XGBoost,B,721.0,705.03662109375,9
+Tensile,XGBoost,B,688.0,687.0318603515625,4
+Tensile,XGBoost,B,705.0,708.0559692382812,32
+Tensile,XGBoost,B,681.0,674.2149658203125,20
+Tensile,XGBoost,B,721.0,707.6742553710938,31
+Tensile,XGBoost,B,672.0,655.928466796875,2
+Tensile,XGBoost,B,635.0,647.1426391601562,16
+Tensile,XGBoost,B,652.0,655.6486206054688,23
+Tensile,XGBoost,B,613.0,620.8701782226562,14
+Tensile,XGBoost,B,667.0,691.285888671875,25
+Tensile,XGBoost,B,651.0,638.2703857421875,8
+Tensile,XGBoost,B,701.0,674.7909545898438,40
+Tensile,XGBoost,B,667.0,689.0933837890625,9
+Tensile,XGBoost,B,638.0,647.1624755859375,4
+Tensile,XGBoost,B,659.0,658.96240234375,32
+Tensile,XGBoost,B,631.0,638.51318359375,20
+Tensile,XGBoost,B,665.0,675.458984375,31
+Tensile,XGBoost,B,616.0,639.1981811523438,2
+Tensile,XGBoost,B,923.0,908.3167724609375,97
+Tensile,XGBoost,B,801.0,874.4641723632812,98
+Tensile,XGBoost,B,874.0,908.3671875,95
+Tensile,XGBoost,B,809.0,818.919921875,91
+Tensile,XGBoost,B,766.0,795.8219604492188,74
+Tensile,XGBoost,B,929.0,922.6176147460938,105
+Tensile,XGBoost,B,882.0,907.5633544921875,102
+Tensile,XGBoost,B,843.0,861.8248901367188,85
+Tensile,XGBoost,B,910.0,945.9849853515625,106
+Tensile,XGBoost,B,925.0,881.0997314453125,96
+Tensile,XGBoost,B,819.0,819.56494140625,78
+Tensile,XGBoost,B,828.0,819.067138671875,97
+Tensile,XGBoost,B,748.0,765.4180297851562,98
+Tensile,XGBoost,B,812.0,805.6439208984375,95
+Tensile,XGBoost,B,760.0,761.8677368164062,91
+Tensile,XGBoost,B,717.0,748.802001953125,74
+Tensile,XGBoost,B,833.0,831.9450073242188,105
+Tensile,XGBoost,B,806.0,812.2222900390625,102
+Tensile,XGBoost,B,774.0,780.7894897460938,85
+Tensile,XGBoost,B,833.0,821.7559814453125,106
+Tensile,XGBoost,B,811.0,802.7842407226562,96
+Tensile,XGBoost,B,765.0,771.169677734375,78
+Tensile,XGBoost,B,735.0,735.0429077148438,97
+Tensile,XGBoost,B,696.0,675.8572387695312,98
+Tensile,XGBoost,B,736.0,723.313720703125,95
+Tensile,XGBoost,B,696.0,686.9666748046875,91
+Tensile,XGBoost,B,669.0,676.5556640625,74
+Tensile,XGBoost,B,738.0,754.6943969726562,105
+Tensile,XGBoost,B,741.0,729.6011962890625,102
+Tensile,XGBoost,B,706.0,699.1212158203125,85
+Tensile,XGBoost,B,744.0,748.619873046875,106
+Tensile,XGBoost,B,723.0,728.3775634765625,96
+Tensile,XGBoost,B,706.0,691.6290283203125,78
+Tensile,XGBoost,B,962.0,925.3739013671875,114
+Tensile,XGBoost,B,956.0,952.7075805664062,112
+Tensile,XGBoost,B,906.0,925.5695190429688,109
+Tensile,XGBoost,B,967.0,964.30517578125,116
+Tensile,XGBoost,B,896.0,931.0479125976562,111
+Tensile,XGBoost,B,957.0,934.4550170898438,117
+Tensile,XGBoost,B,957.0,947.2903442382812,110
+Tensile,XGBoost,B,985.0,975.0090942382812,118
+Tensile,XGBoost,B,918.0,949.1146850585938,115
+Tensile,XGBoost,B,929.0,929.5990600585938,108
+Tensile,XGBoost,B,1006.0,986.032470703125,113
+Tensile,XGBoost,B,854.0,860.630615234375,114
+Tensile,XGBoost,B,848.0,862.4837036132812,112
+Tensile,XGBoost,B,823.0,824.5560913085938,109
+Tensile,XGBoost,B,860.0,870.1770629882812,116
+Tensile,XGBoost,B,830.0,829.8280639648438,111
+Tensile,XGBoost,B,844.0,858.4896240234375,117
+Tensile,XGBoost,B,850.0,864.9502563476562,110
+Tensile,XGBoost,B,870.0,868.3355102539062,118
+Tensile,XGBoost,B,840.0,826.678955078125,115
+Tensile,XGBoost,B,837.0,835.5662841796875,108
+Tensile,XGBoost,B,893.0,880.4528198242188,113
+Tensile,XGBoost,B,757.0,776.1658935546875,114
+Tensile,XGBoost,B,766.0,763.26953125,112
+Tensile,XGBoost,B,746.0,744.6497802734375,109
+Tensile,XGBoost,B,777.0,775.1237182617188,116
+Tensile,XGBoost,B,749.0,740.9413452148438,111
+Tensile,XGBoost,B,757.0,761.0000610351562,117
+Tensile,XGBoost,B,759.0,773.481201171875,110
+Tensile,XGBoost,B,777.0,775.0277709960938,118
+Tensile,XGBoost,B,762.0,742.1072998046875,115
+Tensile,XGBoost,B,742.0,746.3834228515625,108
+Tensile,XGBoost,B,778.0,792.4566650390625,113
+Tensile,XGBoost,B,1052.0,1093.15380859375,86
+Tensile,XGBoost,B,1006.0,1060.83447265625,80
+Tensile,XGBoost,B,1084.0,1091.8134765625,60
+Tensile,XGBoost,B,1015.0,1056.3292236328125,73
+Tensile,XGBoost,B,1073.0,1073.4896240234375,45
+Tensile,XGBoost,B,1092.0,1055.09228515625,84
+Tensile,XGBoost,B,1077.0,1103.3302001953125,79
+Tensile,XGBoost,B,1036.0,1066.2265625,61
+Tensile,XGBoost,B,969.0,964.5728759765625,86
+Tensile,XGBoost,B,902.0,968.424072265625,80
+Tensile,XGBoost,B,979.0,985.4940185546875,60
+Tensile,XGBoost,B,935.0,932.354736328125,73
+Tensile,XGBoost,B,962.0,979.7782592773438,45
+Tensile,XGBoost,B,985.0,973.99609375,84
+Tensile,XGBoost,B,956.0,1004.52587890625,79
+Tensile,XGBoost,B,949.0,950.3719482421875,61
+Tensile,XGBoost,B,888.0,879.427734375,86
+Tensile,XGBoost,B,862.0,823.761474609375,80
+Tensile,XGBoost,B,869.0,900.4410400390625,60
+Tensile,XGBoost,B,857.0,866.1046142578125,73
+Tensile,XGBoost,B,878.0,868.307373046875,45
+Tensile,XGBoost,B,897.0,893.4557495117188,84
+Tensile,XGBoost,B,861.0,912.1716918945312,79
+Tensile,XGBoost,B,880.0,875.9397583007812,61
+Tensile,XGBoost,B,1118.0,1111.435791015625,27
+Tensile,XGBoost,B,1048.0,1062.3804931640625,22
+Tensile,XGBoost,B,1092.0,1074.267333984375,26
+Tensile,XGBoost,B,1053.0,1077.619384765625,24
+Tensile,XGBoost,B,1080.0,1077.3367919921875,12
+Tensile,XGBoost,B,1099.0,1123.3795166015625,28
+Tensile,XGBoost,B,1075.0,1096.2059326171875,29
+Tensile,XGBoost,B,1088.0,1099.705810546875,19
+Tensile,XGBoost,B,1111.0,1086.5074462890625,18
+Tensile,XGBoost,B,1085.0,1059.646484375,10
+Tensile,XGBoost,B,1102.0,1115.376708984375,17
+Tensile,XGBoost,B,1102.0,1126.828857421875,33
+Tensile,XGBoost,B,1206.0,1165.49267578125,38
+Tensile,XGBoost,B,1082.0,1071.9185791015625,15
+Tensile,XGBoost,B,984.0,1006.7178955078125,27
+Tensile,XGBoost,B,955.0,947.7428588867188,22
+Tensile,XGBoost,B,964.0,954.5568237304688,26
+Tensile,XGBoost,B,937.0,972.331787109375,24
+Tensile,XGBoost,B,978.0,975.9911499023438,12
+Tensile,XGBoost,B,1008.0,1001.8197631835938,28
+Tensile,XGBoost,B,956.0,984.0916748046875,29
+Tensile,XGBoost,B,952.0,987.3287353515625,19
+Tensile,XGBoost,B,989.0,996.3390502929688,18
+Tensile,XGBoost,B,973.0,978.192138671875,10
+Tensile,XGBoost,B,1010.0,1014.854248046875,17
+Tensile,XGBoost,B,996.0,999.3126831054688,33
+Tensile,XGBoost,B,1067.0,1060.9710693359375,38
+Tensile,XGBoost,B,974.0,977.1497192382812,15
+Tensile,XGBoost,B,897.0,886.997314453125,27
+Tensile,XGBoost,B,846.0,866.0350952148438,22
+Tensile,XGBoost,B,853.0,859.78662109375,26
+Tensile,XGBoost,B,847.0,847.9779052734375,24
+Tensile,XGBoost,B,867.0,889.6574096679688,12
+Tensile,XGBoost,B,907.0,910.0879516601562,28
+Tensile,XGBoost,B,875.0,855.5266723632812,29
+Tensile,XGBoost,B,870.0,855.784423828125,19
+Tensile,XGBoost,B,898.0,901.1422119140625,18
+Tensile,XGBoost,B,864.0,875.61767578125,10
+Tensile,XGBoost,B,919.0,906.3323364257812,17
+Tensile,XGBoost,B,903.0,890.5299682617188,33
+Tensile,XGBoost,B,948.0,968.7175903320312,38
+Tensile,XGBoost,B,891.0,893.8416137695312,15
+Tensile,XGBoost,B,1139.0,1124.35595703125,65
+Tensile,XGBoost,B,1141.0,1141.3897705078125,46
+Tensile,XGBoost,B,1203.0,1179.9344482421875,88
+Tensile,XGBoost,B,1160.0,1157.321533203125,58
+Tensile,XGBoost,B,1199.0,1191.2613525390625,66
+Tensile,XGBoost,B,1150.0,1111.584716796875,68
+Tensile,XGBoost,B,1202.0,1158.7965087890625,47
+Tensile,XGBoost,B,1108.0,1120.472900390625,30
+Tensile,XGBoost,B,1181.0,1168.189453125,82
+Tensile,XGBoost,B,1179.0,1172.65771484375,81
+Tensile,XGBoost,B,1109.0,1149.4429931640625,57
+Tensile,XGBoost,B,1146.0,1129.2125244140625,53
+Tensile,XGBoost,B,1155.0,1137.2401123046875,48
+Tensile,XGBoost,B,1202.0,1185.8236083984375,52
+Tensile,XGBoost,B,1178.0,1188.9996337890625,93
+Tensile,XGBoost,B,1030.0,1006.3220825195312,65
+Tensile,XGBoost,B,1027.0,1037.1177978515625,46
+Tensile,XGBoost,B,1079.0,1081.5150146484375,88
+Tensile,XGBoost,B,1062.0,1024.9544677734375,58
+Tensile,XGBoost,B,1091.0,1065.3577880859375,66
+Tensile,XGBoost,B,1002.0,1017.150146484375,68
+Tensile,XGBoost,B,1066.0,1037.1114501953125,47
+Tensile,XGBoost,B,995.0,1007.4215698242188,30
+Tensile,XGBoost,B,1064.0,1048.828369140625,82
+Tensile,XGBoost,B,1072.0,1037.3282470703125,81
+Tensile,XGBoost,B,1005.0,1009.2966918945312,57
+Tensile,XGBoost,B,1013.0,1036.5634765625,53
+Tensile,XGBoost,B,1049.0,1036.8828125,48
+Tensile,XGBoost,B,1091.0,1071.291015625,52
+Tensile,XGBoost,B,1063.0,1064.860107421875,93
+Tensile,XGBoost,B,890.0,916.8115234375,65
+Tensile,XGBoost,B,912.0,911.5194091796875,46
+Tensile,XGBoost,B,971.0,965.371826171875,88
+Tensile,XGBoost,B,905.0,932.7105102539062,58
+Tensile,XGBoost,B,950.0,974.0844116210938,66
+Tensile,XGBoost,B,922.0,887.1062622070312,68
+Tensile,XGBoost,B,924.0,954.7807006835938,47
+Tensile,XGBoost,B,895.0,896.1668090820312,30
+Tensile,XGBoost,B,938.0,947.7830200195312,82
+Tensile,XGBoost,B,905.0,955.434814453125,81
+Tensile,XGBoost,B,903.0,884.1409912109375,57
+Tensile,XGBoost,B,941.0,882.69580078125,53
+Tensile,XGBoost,B,933.0,909.7544555664062,48
+Tensile,XGBoost,B,948.0,961.0862426757812,52
+Tensile,XGBoost,B,949.0,949.8427124023438,93
+Tensile,XGBoost,B,889.0,887.6747436523438,43
+Tensile,XGBoost,B,847.0,867.5318603515625,39
+Tensile,XGBoost,B,924.0,917.5709228515625,54
+Tensile,XGBoost,B,854.0,880.912841796875,49
+Tensile,XGBoost,B,890.0,911.5923461914062,67
+Tensile,XGBoost,B,804.0,830.14306640625,35
+Tensile,XGBoost,B,892.0,876.3374633789062,55
+Tensile,XGBoost,B,811.0,808.1912231445312,43
+Tensile,XGBoost,B,790.0,786.0780029296875,39
+Tensile,XGBoost,B,844.0,846.8172607421875,54
+Tensile,XGBoost,B,799.0,789.41455078125,49
+Tensile,XGBoost,B,815.0,829.5164794921875,67
+Tensile,XGBoost,B,753.0,774.9920654296875,35
+Tensile,XGBoost,B,814.0,818.9284057617188,55
+Tensile,XGBoost,B,742.0,739.0682373046875,43
+Tensile,XGBoost,B,734.0,734.5650634765625,39
+Tensile,XGBoost,B,758.0,765.9884033203125,54
+Tensile,XGBoost,B,715.0,728.3577270507812,49
+Tensile,XGBoost,B,756.0,745.1014404296875,67
+Tensile,XGBoost,B,700.0,709.35693359375,35
+Tensile,XGBoost,B,737.0,742.8888549804688,55
+Tensile,XGBoost,B,936.0,902.9843139648438,75
+Tensile,XGBoost,B,1006.0,1023.6800537109375,90
+Tensile,XGBoost,B,900.0,904.7280883789062,72
+Tensile,XGBoost,B,922.0,911.5799560546875,76
+Tensile,XGBoost,B,988.0,959.5502319335938,71
+Tensile,XGBoost,B,955.0,937.1046142578125,99
+Tensile,XGBoost,B,980.0,995.3701171875,70
+Tensile,XGBoost,B,951.0,893.365478515625,56
+Tensile,XGBoost,B,882.0,873.3270874023438,63
+Tensile,XGBoost,B,1029.0,1050.1815185546875,100
+Tensile,XGBoost,B,964.0,943.6402587890625,89
+Tensile,XGBoost,B,888.0,899.0037231445312,64
+Tensile,XGBoost,B,837.0,836.5548095703125,75
+Tensile,XGBoost,B,917.0,916.929931640625,90
+Tensile,XGBoost,B,837.0,827.5447998046875,72
+Tensile,XGBoost,B,842.0,842.0271606445312,76
+Tensile,XGBoost,B,890.0,880.5235595703125,71
+Tensile,XGBoost,B,874.0,873.9550170898438,99
+Tensile,XGBoost,B,897.0,884.947021484375,70
+Tensile,XGBoost,B,862.0,844.8832397460938,56
+Tensile,XGBoost,B,801.0,812.78076171875,63
+Tensile,XGBoost,B,935.0,929.45068359375,100
+Tensile,XGBoost,B,878.0,879.9660034179688,89
+Tensile,XGBoost,B,816.0,820.0563354492188,64
+Tensile,XGBoost,B,757.0,772.163818359375,75
+Tensile,XGBoost,B,826.0,824.9570922851562,90
+Tensile,XGBoost,B,755.0,756.6529541015625,72
+Tensile,XGBoost,B,760.0,770.4099731445312,76
+Tensile,XGBoost,B,790.0,797.72119140625,71
+Tensile,XGBoost,B,805.0,784.9685668945312,99
+Tensile,XGBoost,B,829.0,802.058349609375,70
+Tensile,XGBoost,B,772.0,785.7742919921875,56
+Tensile,XGBoost,B,737.0,742.6649780273438,63
+Tensile,XGBoost,B,840.0,837.957763671875,100
+Tensile,XGBoost,B,794.0,795.611328125,89
+Tensile,XGBoost,B,744.0,739.0317993164062,64
+Tensile,XGBoost,B,988.0,982.03662109375,6
+Tensile,XGBoost,B,948.0,950.7634887695312,3
+Tensile,XGBoost,B,1013.0,1010.53271484375,5
+Tensile,XGBoost,B,1081.0,1068.3115234375,21
+Tensile,XGBoost,B,962.0,950.1321411132812,1
+Tensile,XGBoost,B,1014.0,1004.5369262695312,11
+Tensile,XGBoost,B,998.0,1020.8782958984375,13
+Tensile,XGBoost,B,989.0,980.3094482421875,0
+Tensile,XGBoost,B,1010.0,993.4010009765625,7
+Tensile,XGBoost,B,906.0,921.5802612304688,6
+Tensile,XGBoost,B,886.0,882.642333984375,3
+Tensile,XGBoost,B,941.0,938.8914184570312,5
+Tensile,XGBoost,B,1016.0,991.6107177734375,21
+Tensile,XGBoost,B,897.0,900.5655517578125,1
+Tensile,XGBoost,B,928.0,927.8558959960938,11
+Tensile,XGBoost,B,918.0,924.787353515625,13
+Tensile,XGBoost,B,901.0,919.6904907226562,0
+Tensile,XGBoost,B,928.0,931.0711059570312,7
+Tensile,XGBoost,B,840.0,830.1353149414062,6
+Tensile,XGBoost,B,821.0,820.0241088867188,3
+Tensile,XGBoost,B,849.0,855.3418579101562,5
+Tensile,XGBoost,B,909.0,923.3229370117188,21
+Tensile,XGBoost,B,833.0,817.9391479492188,1
+Tensile,XGBoost,B,851.0,852.3489379882812,11
+Tensile,XGBoost,B,854.0,841.8659057617188,13
+Tensile,XGBoost,B,838.0,829.9039916992188,0
+Tensile,XGBoost,B,846.0,851.5958251953125,7
+Tensile,XGBoost,B,1070.0,1066.137451171875,42
+Tensile,XGBoost,B,1087.0,1108.644287109375,50
+Tensile,XGBoost,B,1144.0,1148.420166015625,59
+Tensile,XGBoost,B,1105.0,1092.5828857421875,51
+Tensile,XGBoost,B,1125.0,1117.1949462890625,37
+Tensile,XGBoost,B,1089.0,1093.654296875,62
+Tensile,XGBoost,B,1108.0,1112.3558349609375,77
+Tensile,XGBoost,B,1085.0,1065.5775146484375,36
+Tensile,XGBoost,B,1117.0,1127.27392578125,69
+Tensile,XGBoost,B,1129.0,1124.7772216796875,44
+Tensile,XGBoost,B,1089.0,1086.574462890625,41
+Tensile,XGBoost,B,1190.0,1179.8836669921875,83
+Tensile,XGBoost,B,1174.0,1154.4158935546875,34
+Tensile,XGBoost,B,1085.0,1086.5662841796875,87
+Tensile,XGBoost,B,957.0,968.8284912109375,42
+Tensile,XGBoost,B,984.0,1005.0345458984375,50
+Tensile,XGBoost,B,1037.0,1035.4857177734375,59
+Tensile,XGBoost,B,985.0,987.3743896484375,51
+Tensile,XGBoost,B,1020.0,996.4938354492188,37
+Tensile,XGBoost,B,990.0,996.60546875,62
+Tensile,XGBoost,B,1005.0,1000.2091674804688,77
+Tensile,XGBoost,B,962.0,952.3547973632812,36
+Tensile,XGBoost,B,1003.0,1004.3051147460938,69
+Tensile,XGBoost,B,1004.0,1022.9443359375,44
+Tensile,XGBoost,B,975.0,977.1728515625,41
+Tensile,XGBoost,B,1068.0,1064.04345703125,83
+Tensile,XGBoost,B,1069.0,1036.4942626953125,34
+Tensile,XGBoost,B,973.0,975.1765747070312,87
+Tensile,XGBoost,B,843.0,841.2306518554688,42
+Tensile,XGBoost,B,868.0,867.6094970703125,50
+Tensile,XGBoost,B,900.0,894.242431640625,59
+Tensile,XGBoost,B,864.0,868.8857421875,51
+Tensile,XGBoost,B,879.0,870.2745971679688,37
+Tensile,XGBoost,B,875.0,872.91748046875,62
+Tensile,XGBoost,B,883.0,878.9473876953125,77
+Tensile,XGBoost,B,848.0,851.5421752929688,36
+Tensile,XGBoost,B,881.0,870.1290893554688,69
+Tensile,XGBoost,B,874.0,885.424560546875,44
+Tensile,XGBoost,B,864.0,861.8062133789062,41
+Tensile,XGBoost,B,912.0,934.6483154296875,83
+Tensile,XGBoost,B,900.0,934.1354370117188,34
+Tensile,XGBoost,B,855.0,862.8109130859375,87
+Tensile,XGBoost,B,1149.0,1134.074951171875,103
+Tensile,XGBoost,B,1111.0,1077.84912109375,101
+Tensile,XGBoost,B,1151.0,1120.440673828125,92
+Tensile,XGBoost,B,1072.0,1119.9271240234375,94
+Tensile,XGBoost,B,1138.0,1098.351806640625,104
+Tensile,XGBoost,B,1167.0,1151.9061279296875,107
+Tensile,XGBoost,B,1032.0,1024.53955078125,103
+Tensile,XGBoost,B,992.0,996.378173828125,101
+Tensile,XGBoost,B,1026.0,1007.9119873046875,92
+Tensile,XGBoost,B,969.0,991.5918579101562,94
+Tensile,XGBoost,B,1012.0,1006.3441772460938,104
+Tensile,XGBoost,B,1046.0,1032.306396484375,107
+Tensile,XGBoost,B,911.0,908.1068115234375,103
+Tensile,XGBoost,B,878.0,869.9761352539062,101
+Tensile,XGBoost,B,895.0,918.375,92
+Tensile,XGBoost,B,860.0,875.7864990234375,94
+Tensile,XGBoost,B,881.0,897.4066162109375,104
+Tensile,XGBoost,B,909.0,910.8964233398438,107
+Tensile,XGBoost,C,736.0,700.9182739257812,16
+Tensile,XGBoost,C,736.0,782.2291259765625,23
+Tensile,XGBoost,C,690.0,734.3672485351562,14
+Tensile,XGBoost,C,790.0,773.171142578125,25
+Tensile,XGBoost,C,720.0,782.0931396484375,8
+Tensile,XGBoost,C,830.0,824.715576171875,40
+Tensile,XGBoost,C,778.0,727.731201171875,9
+Tensile,XGBoost,C,748.0,741.2884521484375,4
+Tensile,XGBoost,C,763.0,758.7785034179688,32
+Tensile,XGBoost,C,722.0,735.3260498046875,20
+Tensile,XGBoost,C,776.0,735.2837524414062,31
+Tensile,XGBoost,C,715.0,782.857666015625,2
+Tensile,XGBoost,C,678.0,662.9404296875,16
+Tensile,XGBoost,C,699.0,716.337890625,23
+Tensile,XGBoost,C,654.0,687.8831176757812,14
+Tensile,XGBoost,C,738.0,696.4810791015625,25
+Tensile,XGBoost,C,682.0,728.4664916992188,8
+Tensile,XGBoost,C,720.0,740.36328125,40
+Tensile,XGBoost,C,721.0,684.3663940429688,9
+Tensile,XGBoost,C,688.0,694.4879150390625,4
+Tensile,XGBoost,C,705.0,709.7870483398438,32
+Tensile,XGBoost,C,681.0,690.6675415039062,20
+Tensile,XGBoost,C,721.0,684.2161865234375,31
+Tensile,XGBoost,C,672.0,719.3865356445312,2
+Tensile,XGBoost,C,635.0,624.7355346679688,16
+Tensile,XGBoost,C,652.0,663.1514892578125,23
+Tensile,XGBoost,C,613.0,645.5468139648438,14
+Tensile,XGBoost,C,667.0,641.1383056640625,25
+Tensile,XGBoost,C,651.0,673.392333984375,8
+Tensile,XGBoost,C,701.0,682.8916015625,40
+Tensile,XGBoost,C,667.0,651.527587890625,9
+Tensile,XGBoost,C,638.0,646.91796875,4
+Tensile,XGBoost,C,659.0,653.6296997070312,32
+Tensile,XGBoost,C,631.0,647.7254638671875,20
+Tensile,XGBoost,C,665.0,643.105224609375,31
+Tensile,XGBoost,C,616.0,672.8035888671875,2
+Tensile,XGBoost,C,923.0,908.8950805664062,97
+Tensile,XGBoost,C,801.0,933.63037109375,98
+Tensile,XGBoost,C,874.0,884.18603515625,95
+Tensile,XGBoost,C,809.0,853.0540161132812,91
+Tensile,XGBoost,C,766.0,808.0606689453125,74
+Tensile,XGBoost,C,929.0,927.7509765625,105
+Tensile,XGBoost,C,882.0,926.1646118164062,102
+Tensile,XGBoost,C,843.0,881.2416381835938,85
+Tensile,XGBoost,C,910.0,869.8909912109375,106
+Tensile,XGBoost,C,925.0,880.6170654296875,96
+Tensile,XGBoost,C,819.0,859.6934204101562,78
+Tensile,XGBoost,C,828.0,821.8912353515625,97
+Tensile,XGBoost,C,748.0,843.9013671875,98
+Tensile,XGBoost,C,812.0,799.2106323242188,95
+Tensile,XGBoost,C,760.0,779.133544921875,91
+Tensile,XGBoost,C,717.0,756.7161865234375,74
+Tensile,XGBoost,C,833.0,836.8978271484375,105
+Tensile,XGBoost,C,806.0,827.30908203125,102
+Tensile,XGBoost,C,774.0,790.2169189453125,85
+Tensile,XGBoost,C,833.0,787.0108642578125,106
+Tensile,XGBoost,C,811.0,802.6947021484375,96
+Tensile,XGBoost,C,765.0,780.6425170898438,78
+Tensile,XGBoost,C,735.0,739.5865478515625,97
+Tensile,XGBoost,C,696.0,754.9693603515625,98
+Tensile,XGBoost,C,736.0,712.0580444335938,95
+Tensile,XGBoost,C,696.0,706.2542114257812,91
+Tensile,XGBoost,C,669.0,695.2244873046875,74
+Tensile,XGBoost,C,738.0,749.2490844726562,105
+Tensile,XGBoost,C,741.0,744.44921875,102
+Tensile,XGBoost,C,706.0,721.9679565429688,85
+Tensile,XGBoost,C,744.0,715.4735107421875,106
+Tensile,XGBoost,C,723.0,722.3773803710938,96
+Tensile,XGBoost,C,706.0,710.9818115234375,78
+Tensile,XGBoost,C,962.0,918.3740234375,114
+Tensile,XGBoost,C,956.0,972.3897705078125,112
+Tensile,XGBoost,C,906.0,939.9370727539062,109
+Tensile,XGBoost,C,967.0,966.6881713867188,116
+Tensile,XGBoost,C,896.0,894.3817749023438,111
+Tensile,XGBoost,C,957.0,950.4344482421875,117
+Tensile,XGBoost,C,957.0,955.01123046875,110
+Tensile,XGBoost,C,985.0,936.3236083984375,118
+Tensile,XGBoost,C,918.0,951.0308837890625,115
+Tensile,XGBoost,C,929.0,904.1305541992188,108
+Tensile,XGBoost,C,1006.0,945.3282470703125,113
+Tensile,XGBoost,C,854.0,830.9544677734375,114
+Tensile,XGBoost,C,848.0,855.4932250976562,112
+Tensile,XGBoost,C,823.0,845.1737670898438,109
+Tensile,XGBoost,C,860.0,861.6465454101562,116
+Tensile,XGBoost,C,830.0,805.56982421875,111
+Tensile,XGBoost,C,844.0,844.3436279296875,117
+Tensile,XGBoost,C,850.0,849.52294921875,110
+Tensile,XGBoost,C,870.0,843.7327880859375,118
+Tensile,XGBoost,C,840.0,848.1585693359375,115
+Tensile,XGBoost,C,837.0,815.6991577148438,108
+Tensile,XGBoost,C,893.0,847.2188110351562,113
+Tensile,XGBoost,C,757.0,750.5614013671875,114
+Tensile,XGBoost,C,766.0,756.1466674804688,112
+Tensile,XGBoost,C,746.0,751.237548828125,109
+Tensile,XGBoost,C,777.0,775.6883544921875,116
+Tensile,XGBoost,C,749.0,728.1339721679688,111
+Tensile,XGBoost,C,757.0,756.953369140625,117
+Tensile,XGBoost,C,759.0,762.0123901367188,110
+Tensile,XGBoost,C,777.0,767.9467163085938,118
+Tensile,XGBoost,C,762.0,761.7329711914062,115
+Tensile,XGBoost,C,742.0,736.4191284179688,108
+Tensile,XGBoost,C,778.0,767.0340576171875,113
+Tensile,XGBoost,C,1052.0,1125.1656494140625,86
+Tensile,XGBoost,C,1006.0,1079.2646484375,80
+Tensile,XGBoost,C,1084.0,1096.838134765625,60
+Tensile,XGBoost,C,1015.0,1065.435791015625,73
+Tensile,XGBoost,C,1073.0,1100.0118408203125,45
+Tensile,XGBoost,C,1092.0,1048.307373046875,84
+Tensile,XGBoost,C,1077.0,1089.4990234375,79
+Tensile,XGBoost,C,1036.0,1091.138671875,61
+Tensile,XGBoost,C,969.0,1019.2362670898438,86
+Tensile,XGBoost,C,902.0,980.182373046875,80
+Tensile,XGBoost,C,979.0,986.435546875,60
+Tensile,XGBoost,C,935.0,971.3416748046875,73
+Tensile,XGBoost,C,962.0,990.3306884765625,45
+Tensile,XGBoost,C,985.0,963.19287109375,84
+Tensile,XGBoost,C,956.0,986.7125244140625,79
+Tensile,XGBoost,C,949.0,980.9022827148438,61
+Tensile,XGBoost,C,888.0,926.2733764648438,86
+Tensile,XGBoost,C,862.0,883.5097045898438,80
+Tensile,XGBoost,C,869.0,898.394775390625,60
+Tensile,XGBoost,C,857.0,871.292236328125,73
+Tensile,XGBoost,C,878.0,889.5230102539062,45
+Tensile,XGBoost,C,897.0,885.592041015625,84
+Tensile,XGBoost,C,861.0,896.8671875,79
+Tensile,XGBoost,C,880.0,893.967041015625,61
+Tensile,XGBoost,C,1118.0,1098.12841796875,27
+Tensile,XGBoost,C,1048.0,1060.16943359375,22
+Tensile,XGBoost,C,1092.0,1093.557861328125,26
+Tensile,XGBoost,C,1053.0,1131.5811767578125,24
+Tensile,XGBoost,C,1080.0,1096.4876708984375,12
+Tensile,XGBoost,C,1099.0,1094.496337890625,28
+Tensile,XGBoost,C,1075.0,1127.5267333984375,29
+Tensile,XGBoost,C,1088.0,1141.5028076171875,19
+Tensile,XGBoost,C,1111.0,1081.0474853515625,18
+Tensile,XGBoost,C,1085.0,1070.288330078125,10
+Tensile,XGBoost,C,1102.0,1085.6737060546875,17
+Tensile,XGBoost,C,1102.0,1136.7000732421875,33
+Tensile,XGBoost,C,1206.0,1121.8748779296875,38
+Tensile,XGBoost,C,1082.0,1081.5225830078125,15
+Tensile,XGBoost,C,984.0,989.9880981445312,27
+Tensile,XGBoost,C,955.0,972.8306274414062,22
+Tensile,XGBoost,C,964.0,986.3849487304688,26
+Tensile,XGBoost,C,937.0,1025.2874755859375,24
+Tensile,XGBoost,C,978.0,979.1256103515625,12
+Tensile,XGBoost,C,1008.0,983.3116455078125,28
+Tensile,XGBoost,C,956.0,1000.1901245117188,29
+Tensile,XGBoost,C,952.0,1021.1370239257812,19
+Tensile,XGBoost,C,989.0,974.8103637695312,18
+Tensile,XGBoost,C,973.0,984.6866455078125,10
+Tensile,XGBoost,C,1010.0,964.5890502929688,17
+Tensile,XGBoost,C,996.0,1021.2805786132812,33
+Tensile,XGBoost,C,1067.0,1007.1338500976562,38
+Tensile,XGBoost,C,974.0,979.3609619140625,15
+Tensile,XGBoost,C,897.0,892.383056640625,27
+Tensile,XGBoost,C,846.0,901.227783203125,22
+Tensile,XGBoost,C,853.0,880.0222778320312,26
+Tensile,XGBoost,C,847.0,924.695068359375,24
+Tensile,XGBoost,C,867.0,895.6983642578125,12
+Tensile,XGBoost,C,907.0,888.0361328125,28
+Tensile,XGBoost,C,875.0,920.6109008789062,29
+Tensile,XGBoost,C,870.0,915.5621948242188,19
+Tensile,XGBoost,C,898.0,870.2783203125,18
+Tensile,XGBoost,C,864.0,870.4042358398438,10
+Tensile,XGBoost,C,919.0,895.5856323242188,17
+Tensile,XGBoost,C,903.0,910.3607788085938,33
+Tensile,XGBoost,C,948.0,897.8596801757812,38
+Tensile,XGBoost,C,891.0,880.6024780273438,15
+Tensile,XGBoost,C,1139.0,1138.56494140625,65
+Tensile,XGBoost,C,1141.0,1127.8485107421875,46
+Tensile,XGBoost,C,1203.0,1127.0870361328125,88
+Tensile,XGBoost,C,1160.0,1135.192138671875,58
+Tensile,XGBoost,C,1199.0,1136.8343505859375,66
+Tensile,XGBoost,C,1150.0,1098.8555908203125,68
+Tensile,XGBoost,C,1202.0,1170.3260498046875,47
+Tensile,XGBoost,C,1108.0,1127.57861328125,30
+Tensile,XGBoost,C,1181.0,1155.749755859375,82
+Tensile,XGBoost,C,1179.0,1140.3175048828125,81
+Tensile,XGBoost,C,1109.0,1164.8736572265625,57
+Tensile,XGBoost,C,1146.0,1125.688232421875,53
+Tensile,XGBoost,C,1155.0,1081.6785888671875,48
+Tensile,XGBoost,C,1202.0,1163.1455078125,52
+Tensile,XGBoost,C,1178.0,1149.384765625,93
+Tensile,XGBoost,C,1030.0,1028.2587890625,65
+Tensile,XGBoost,C,1027.0,1007.064208984375,46
+Tensile,XGBoost,C,1079.0,1012.8938598632812,88
+Tensile,XGBoost,C,1062.0,1016.4583740234375,58
+Tensile,XGBoost,C,1091.0,1021.3700561523438,66
+Tensile,XGBoost,C,1002.0,987.2074584960938,68
+Tensile,XGBoost,C,1066.0,1044.49267578125,47
+Tensile,XGBoost,C,995.0,1019.1319580078125,30
+Tensile,XGBoost,C,1064.0,1041.030517578125,82
+Tensile,XGBoost,C,1072.0,1020.4688110351562,81
+Tensile,XGBoost,C,1005.0,1032.6640625,57
+Tensile,XGBoost,C,1013.0,1005.1270751953125,53
+Tensile,XGBoost,C,1049.0,974.8026123046875,48
+Tensile,XGBoost,C,1091.0,1036.38916015625,52
+Tensile,XGBoost,C,1063.0,1028.6109619140625,93
+Tensile,XGBoost,C,890.0,919.4178466796875,65
+Tensile,XGBoost,C,912.0,900.0773315429688,46
+Tensile,XGBoost,C,971.0,894.0650634765625,88
+Tensile,XGBoost,C,905.0,898.3345947265625,58
+Tensile,XGBoost,C,950.0,907.357177734375,66
+Tensile,XGBoost,C,922.0,880.98681640625,68
+Tensile,XGBoost,C,924.0,918.3689575195312,47
+Tensile,XGBoost,C,895.0,905.299072265625,30
+Tensile,XGBoost,C,938.0,912.7154541015625,82
+Tensile,XGBoost,C,905.0,905.676025390625,81
+Tensile,XGBoost,C,903.0,917.4337768554688,57
+Tensile,XGBoost,C,941.0,886.4494018554688,53
+Tensile,XGBoost,C,933.0,865.9747314453125,48
+Tensile,XGBoost,C,948.0,928.0610961914062,52
+Tensile,XGBoost,C,949.0,902.652099609375,93
+Tensile,XGBoost,C,889.0,882.357421875,43
+Tensile,XGBoost,C,847.0,839.5907592773438,39
+Tensile,XGBoost,C,924.0,932.6974487304688,54
+Tensile,XGBoost,C,854.0,906.8494262695312,49
+Tensile,XGBoost,C,890.0,918.2694702148438,67
+Tensile,XGBoost,C,804.0,859.6331176757812,35
+Tensile,XGBoost,C,892.0,886.021240234375,55
+Tensile,XGBoost,C,811.0,812.4013061523438,43
+Tensile,XGBoost,C,790.0,769.9795532226562,39
+Tensile,XGBoost,C,844.0,854.0846557617188,54
+Tensile,XGBoost,C,799.0,816.0014038085938,49
+Tensile,XGBoost,C,815.0,841.1013793945312,67
+Tensile,XGBoost,C,753.0,801.150146484375,35
+Tensile,XGBoost,C,814.0,819.3335571289062,55
+Tensile,XGBoost,C,742.0,732.6570434570312,43
+Tensile,XGBoost,C,734.0,721.89892578125,39
+Tensile,XGBoost,C,758.0,772.6736450195312,54
+Tensile,XGBoost,C,715.0,745.235595703125,49
+Tensile,XGBoost,C,756.0,772.4580078125,67
+Tensile,XGBoost,C,700.0,738.4307861328125,35
+Tensile,XGBoost,C,737.0,753.661376953125,55
+Tensile,XGBoost,C,936.0,903.8484497070312,75
+Tensile,XGBoost,C,1006.0,971.2700805664062,90
+Tensile,XGBoost,C,900.0,917.7431030273438,72
+Tensile,XGBoost,C,922.0,904.031005859375,76
+Tensile,XGBoost,C,988.0,877.4951782226562,71
+Tensile,XGBoost,C,955.0,919.9317016601562,99
+Tensile,XGBoost,C,980.0,939.5061645507812,70
+Tensile,XGBoost,C,951.0,838.6028442382812,56
+Tensile,XGBoost,C,882.0,871.120361328125,63
+Tensile,XGBoost,C,1029.0,977.7666015625,100
+Tensile,XGBoost,C,964.0,925.6832275390625,89
+Tensile,XGBoost,C,888.0,898.5399169921875,64
+Tensile,XGBoost,C,837.0,817.4480590820312,75
+Tensile,XGBoost,C,917.0,873.0266723632812,90
+Tensile,XGBoost,C,837.0,832.797607421875,72
+Tensile,XGBoost,C,842.0,832.545654296875,76
+Tensile,XGBoost,C,890.0,818.665771484375,71
+Tensile,XGBoost,C,874.0,851.5571899414062,99
+Tensile,XGBoost,C,897.0,848.9241333007812,70
+Tensile,XGBoost,C,862.0,789.7523193359375,56
+Tensile,XGBoost,C,801.0,803.5913696289062,63
+Tensile,XGBoost,C,935.0,879.222412109375,100
+Tensile,XGBoost,C,878.0,839.4083862304688,89
+Tensile,XGBoost,C,816.0,825.4131469726562,64
+Tensile,XGBoost,C,757.0,743.0626220703125,75
+Tensile,XGBoost,C,826.0,800.8111572265625,90
+Tensile,XGBoost,C,755.0,744.4385375976562,72
+Tensile,XGBoost,C,760.0,761.1404418945312,76
+Tensile,XGBoost,C,790.0,749.7555541992188,71
+Tensile,XGBoost,C,805.0,770.1248168945312,99
+Tensile,XGBoost,C,829.0,779.6708984375,70
+Tensile,XGBoost,C,772.0,731.4119873046875,56
+Tensile,XGBoost,C,737.0,731.8688354492188,63
+Tensile,XGBoost,C,840.0,794.8314208984375,100
+Tensile,XGBoost,C,794.0,758.2438354492188,89
+Tensile,XGBoost,C,744.0,747.808349609375,64
+Tensile,XGBoost,C,988.0,1008.0579833984375,6
+Tensile,XGBoost,C,948.0,984.3232421875,3
+Tensile,XGBoost,C,1013.0,1028.7332763671875,5
+Tensile,XGBoost,C,1081.0,1011.8788452148438,21
+Tensile,XGBoost,C,962.0,952.5001831054688,1
+Tensile,XGBoost,C,1014.0,1009.800048828125,11
+Tensile,XGBoost,C,998.0,1033.44677734375,13
+Tensile,XGBoost,C,989.0,1024.82275390625,0
+Tensile,XGBoost,C,1010.0,990.65625,7
+Tensile,XGBoost,C,906.0,935.2190551757812,6
+Tensile,XGBoost,C,886.0,907.0214233398438,3
+Tensile,XGBoost,C,941.0,961.1763305664062,5
+Tensile,XGBoost,C,1016.0,933.1290283203125,21
+Tensile,XGBoost,C,897.0,888.1426391601562,1
+Tensile,XGBoost,C,928.0,933.20458984375,11
+Tensile,XGBoost,C,918.0,946.0320434570312,13
+Tensile,XGBoost,C,901.0,953.4588012695312,0
+Tensile,XGBoost,C,928.0,907.1423950195312,7
+Tensile,XGBoost,C,840.0,847.7169799804688,6
+Tensile,XGBoost,C,821.0,823.9417724609375,3
+Tensile,XGBoost,C,849.0,865.8385620117188,5
+Tensile,XGBoost,C,909.0,849.3844604492188,21
+Tensile,XGBoost,C,833.0,807.6143188476562,1
+Tensile,XGBoost,C,851.0,847.06884765625,11
+Tensile,XGBoost,C,854.0,859.7282104492188,13
+Tensile,XGBoost,C,838.0,869.3955078125,0
+Tensile,XGBoost,C,846.0,839.0018920898438,7
+Tensile,XGBoost,C,1070.0,1078.21484375,42
+Tensile,XGBoost,C,1087.0,1124.24462890625,50
+Tensile,XGBoost,C,1144.0,1134.37060546875,59
+Tensile,XGBoost,C,1105.0,1070.5142822265625,51
+Tensile,XGBoost,C,1125.0,1112.483642578125,37
+Tensile,XGBoost,C,1089.0,1091.3363037109375,62
+Tensile,XGBoost,C,1108.0,1106.818115234375,77
+Tensile,XGBoost,C,1085.0,1073.796630859375,36
+Tensile,XGBoost,C,1117.0,1128.7491455078125,69
+Tensile,XGBoost,C,1129.0,1134.8857421875,44
+Tensile,XGBoost,C,1089.0,1102.714111328125,41
+Tensile,XGBoost,C,1190.0,1155.4267578125,83
+Tensile,XGBoost,C,1174.0,1127.8330078125,34
+Tensile,XGBoost,C,1085.0,1106.0384521484375,87
+Tensile,XGBoost,C,957.0,981.9315795898438,42
+Tensile,XGBoost,C,984.0,1009.1810302734375,50
+Tensile,XGBoost,C,1037.0,1027.082763671875,59
+Tensile,XGBoost,C,985.0,966.744140625,51
+Tensile,XGBoost,C,1020.0,1001.0468139648438,37
+Tensile,XGBoost,C,990.0,992.6592407226562,62
+Tensile,XGBoost,C,1005.0,998.2713623046875,77
+Tensile,XGBoost,C,962.0,967.9592895507812,36
+Tensile,XGBoost,C,1003.0,1012.90478515625,69
+Tensile,XGBoost,C,1004.0,1021.776611328125,44
+Tensile,XGBoost,C,975.0,991.92431640625,41
+Tensile,XGBoost,C,1068.0,1037.960693359375,83
+Tensile,XGBoost,C,1069.0,1016.5390625,34
+Tensile,XGBoost,C,973.0,993.9734497070312,87
+Tensile,XGBoost,C,843.0,861.8890380859375,42
+Tensile,XGBoost,C,868.0,880.8577270507812,50
+Tensile,XGBoost,C,900.0,895.306396484375,59
+Tensile,XGBoost,C,864.0,851.0211791992188,51
+Tensile,XGBoost,C,879.0,870.1256713867188,37
+Tensile,XGBoost,C,875.0,874.7973022460938,62
+Tensile,XGBoost,C,883.0,871.644775390625,77
+Tensile,XGBoost,C,848.0,850.2367553710938,36
+Tensile,XGBoost,C,881.0,883.2760009765625,69
+Tensile,XGBoost,C,874.0,881.3240356445312,44
+Tensile,XGBoost,C,864.0,866.6441040039062,41
+Tensile,XGBoost,C,912.0,899.9926147460938,83
+Tensile,XGBoost,C,900.0,891.526611328125,34
+Tensile,XGBoost,C,855.0,879.9755249023438,87
+Tensile,XGBoost,C,1149.0,1136.2044677734375,103
+Tensile,XGBoost,C,1111.0,1061.1123046875,101
+Tensile,XGBoost,C,1151.0,1092.5633544921875,92
+Tensile,XGBoost,C,1072.0,1107.38232421875,94
+Tensile,XGBoost,C,1138.0,1117.505859375,104
+Tensile,XGBoost,C,1167.0,1128.2498779296875,107
+Tensile,XGBoost,C,1032.0,1023.8297729492188,103
+Tensile,XGBoost,C,992.0,955.6240234375,101
+Tensile,XGBoost,C,1026.0,982.1727905273438,92
+Tensile,XGBoost,C,969.0,988.9846801757812,94
+Tensile,XGBoost,C,1012.0,1004.7124633789062,104
+Tensile,XGBoost,C,1046.0,1008.725341796875,107
+Tensile,XGBoost,C,911.0,901.02392578125,103
+Tensile,XGBoost,C,878.0,849.1607055664062,101
+Tensile,XGBoost,C,895.0,872.0654296875,92
+Tensile,XGBoost,C,860.0,870.6235961914062,94
+Tensile,XGBoost,C,881.0,898.8543701171875,104
+Tensile,XGBoost,C,909.0,887.2244873046875,107
+Hardness,Random Forest,B,235.0,233.21,16
+Hardness,Random Forest,B,249.0,242.85666666666665,23
+Hardness,Random Forest,B,239.0,239.60666666666665,14
+Hardness,Random Forest,B,261.0,246.40333333333334,25
+Hardness,Random Forest,B,230.0,237.71333333333334,8
+Hardness,Random Forest,B,262.0,249.57666666666665,40
+Hardness,Random Forest,B,258.0,239.1,9
+Hardness,Random Forest,B,248.0,235.20666666666668,4
+Hardness,Random Forest,B,251.0,245.59666666666666,32
+Hardness,Random Forest,B,227.0,241.44333333333333,20
+Hardness,Random Forest,B,246.0,236.57333333333332,31
+Hardness,Random Forest,B,234.0,243.89333333333335,2
+Hardness,Random Forest,B,218.0,218.55333333333334,16
+Hardness,Random Forest,B,231.0,227.57333333333332,23
+Hardness,Random Forest,B,218.0,231.03,14
+Hardness,Random Forest,B,244.0,231.75,25
+Hardness,Random Forest,B,218.0,222.08,8
+Hardness,Random Forest,B,244.0,242.14666666666668,40
+Hardness,Random Forest,B,237.0,225.40666666666667,9
+Hardness,Random Forest,B,226.0,222.07666666666665,4
+Hardness,Random Forest,B,230.0,234.54666666666665,32
+Hardness,Random Forest,B,217.0,222.74333333333334,20
+Hardness,Random Forest,B,226.0,226.01666666666668,31
+Hardness,Random Forest,B,217.0,228.38333333333333,2
+Hardness,Random Forest,B,201.0,208.93666666666667,16
+Hardness,Random Forest,B,208.0,216.95333333333335,23
+Hardness,Random Forest,B,203.0,211.82333333333332,14
+Hardness,Random Forest,B,219.0,224.96,25
+Hardness,Random Forest,B,207.0,208.31666666666666,8
+Hardness,Random Forest,B,221.0,226.35666666666665,40
+Hardness,Random Forest,B,215.0,215.69666666666666,9
+Hardness,Random Forest,B,202.0,207.78,4
+Hardness,Random Forest,B,212.0,214.85,32
+Hardness,Random Forest,B,201.0,208.55,20
+Hardness,Random Forest,B,206.0,211.45,31
+Hardness,Random Forest,B,195.0,214.66,2
+Hardness,Random Forest,B,297.0,290.93666666666667,97
+Hardness,Random Forest,B,271.0,278.07,98
+Hardness,Random Forest,B,289.0,286.36333333333334,95
+Hardness,Random Forest,B,258.0,267.55,91
+Hardness,Random Forest,B,254.0,268.18666666666667,74
+Hardness,Random Forest,B,298.0,290.2966666666667,105
+Hardness,Random Forest,B,281.0,285.64,102
+Hardness,Random Forest,B,278.0,276.02,85
+Hardness,Random Forest,B,298.0,295.34,106
+Hardness,Random Forest,B,301.0,285.3066666666667,96
+Hardness,Random Forest,B,255.0,279.36,78
+Hardness,Random Forest,B,266.0,265.18,97
+Hardness,Random Forest,B,245.0,261.21,98
+Hardness,Random Forest,B,260.0,265.33666666666664,95
+Hardness,Random Forest,B,239.0,254.41333333333333,91
+Hardness,Random Forest,B,232.0,245.86666666666667,74
+Hardness,Random Forest,B,269.0,268.96,105
+Hardness,Random Forest,B,256.0,263.22333333333336,102
+Hardness,Random Forest,B,255.0,257.75333333333333,85
+Hardness,Random Forest,B,272.0,267.17333333333335,106
+Hardness,Random Forest,B,268.0,256.94666666666666,96
+Hardness,Random Forest,B,237.0,253.80333333333334,78
+Hardness,Random Forest,B,240.0,244.23333333333332,97
+Hardness,Random Forest,B,233.0,239.12,98
+Hardness,Random Forest,B,237.0,239.04333333333332,95
+Hardness,Random Forest,B,219.0,237.67,91
+Hardness,Random Forest,B,215.0,233.09333333333333,74
+Hardness,Random Forest,B,237.0,243.56666666666666,105
+Hardness,Random Forest,B,235.0,238.79333333333332,102
+Hardness,Random Forest,B,230.0,241.67,85
+Hardness,Random Forest,B,245.0,244.17,106
+Hardness,Random Forest,B,236.0,241.55666666666667,96
+Hardness,Random Forest,B,220.0,234.71,78
+Hardness,Random Forest,B,309.0,287.00666666666666,114
+Hardness,Random Forest,B,308.0,304.95666666666665,112
+Hardness,Random Forest,B,290.0,297.3466666666667,109
+Hardness,Random Forest,B,317.0,308.68,116
+Hardness,Random Forest,B,280.0,280.4166666666667,111
+Hardness,Random Forest,B,314.0,291.56,117
+Hardness,Random Forest,B,306.0,302.59,110
+Hardness,Random Forest,B,319.0,305.01666666666665,118
+Hardness,Random Forest,B,291.0,303.1166666666667,115
+Hardness,Random Forest,B,307.0,300.28,108
+Hardness,Random Forest,B,325.0,297.87333333333333,113
+Hardness,Random Forest,B,276.0,270.56,114
+Hardness,Random Forest,B,275.0,275.73,112
+Hardness,Random Forest,B,261.0,270.2133333333333,109
+Hardness,Random Forest,B,283.0,277.18666666666667,116
+Hardness,Random Forest,B,259.0,255.45,111
+Hardness,Random Forest,B,281.0,271.11,117
+Hardness,Random Forest,B,276.0,277.62666666666667,110
+Hardness,Random Forest,B,282.0,278.55333333333334,118
+Hardness,Random Forest,B,266.0,273.6566666666667,115
+Hardness,Random Forest,B,277.0,269.97333333333336,108
+Hardness,Random Forest,B,285.0,278.0,113
+Hardness,Random Forest,B,248.0,243.98666666666668,114
+Hardness,Random Forest,B,249.0,250.24,112
+Hardness,Random Forest,B,235.0,246.38,109
+Hardness,Random Forest,B,253.0,248.35333333333332,116
+Hardness,Random Forest,B,234.0,245.56666666666666,111
+Hardness,Random Forest,B,249.0,248.54666666666665,117
+Hardness,Random Forest,B,250.0,252.62333333333333,110
+Hardness,Random Forest,B,253.0,253.79666666666665,118
+Hardness,Random Forest,B,242.0,247.52333333333334,115
+Hardness,Random Forest,B,249.0,249.00666666666666,108
+Hardness,Random Forest,B,249.0,250.28333333333333,113
+Hardness,Random Forest,B,328.0,342.37,86
+Hardness,Random Forest,B,328.0,340.23,80
+Hardness,Random Forest,B,343.0,342.54,60
+Hardness,Random Forest,B,320.0,342.53333333333336,73
+Hardness,Random Forest,B,344.0,344.04,45
+Hardness,Random Forest,B,344.0,334.17,84
+Hardness,Random Forest,B,345.0,340.9633333333333,79
+Hardness,Random Forest,B,324.0,338.5233333333333,61
+Hardness,Random Forest,B,299.0,314.0566666666667,86
+Hardness,Random Forest,B,297.0,311.68333333333334,80
+Hardness,Random Forest,B,318.0,316.37,60
+Hardness,Random Forest,B,296.0,305.70666666666665,73
+Hardness,Random Forest,B,305.0,319.57666666666665,45
+Hardness,Random Forest,B,306.0,309.24333333333334,84
+Hardness,Random Forest,B,312.0,310.12666666666667,79
+Hardness,Random Forest,B,300.0,312.43666666666667,61
+Hardness,Random Forest,B,277.0,284.36,86
+Hardness,Random Forest,B,272.0,282.79333333333335,80
+Hardness,Random Forest,B,277.0,286.24,60
+Hardness,Random Forest,B,272.0,281.03333333333336,73
+Hardness,Random Forest,B,279.0,284.2966666666667,45
+Hardness,Random Forest,B,277.0,279.7366666666667,84
+Hardness,Random Forest,B,280.0,281.7266666666667,79
+Hardness,Random Forest,B,277.0,281.8566666666667,61
+Hardness,Random Forest,B,362.0,348.95,27
+Hardness,Random Forest,B,341.0,345.26666666666665,22
+Hardness,Random Forest,B,350.0,354.2,26
+Hardness,Random Forest,B,342.0,350.9866666666667,24
+Hardness,Random Forest,B,352.0,349.91,12
+Hardness,Random Forest,B,354.0,350.37,28
+Hardness,Random Forest,B,352.0,350.13,29
+Hardness,Random Forest,B,348.0,354.88666666666666,19
+Hardness,Random Forest,B,353.0,350.98333333333335,18
+Hardness,Random Forest,B,347.0,347.30333333333334,10
+Hardness,Random Forest,B,350.0,348.88,17
+Hardness,Random Forest,B,349.0,358.6066666666667,33
+Hardness,Random Forest,B,377.0,356.69,38
+Hardness,Random Forest,B,350.0,351.4766666666667,15
+Hardness,Random Forest,B,321.0,320.36,27
+Hardness,Random Forest,B,309.0,318.35,22
+Hardness,Random Forest,B,306.0,320.75666666666666,26
+Hardness,Random Forest,B,309.0,319.38666666666666,24
+Hardness,Random Forest,B,320.0,316.9,12
+Hardness,Random Forest,B,329.0,318.73,28
+Hardness,Random Forest,B,317.0,322.07,29
+Hardness,Random Forest,B,305.0,325.71666666666664,19
+Hardness,Random Forest,B,316.0,315.77,18
+Hardness,Random Forest,B,315.0,313.31666666666666,10
+Hardness,Random Forest,B,317.0,317.2,17
+Hardness,Random Forest,B,322.0,327.38,33
+Hardness,Random Forest,B,339.0,325.43333333333334,38
+Hardness,Random Forest,B,315.0,320.57666666666665,15
+Hardness,Random Forest,B,286.0,289.09,27
+Hardness,Random Forest,B,277.0,290.7866666666667,22
+Hardness,Random Forest,B,271.0,288.35,26
+Hardness,Random Forest,B,274.0,291.52,24
+Hardness,Random Forest,B,288.0,287.99,12
+Hardness,Random Forest,B,292.0,284.97,28
+Hardness,Random Forest,B,287.0,286.69,29
+Hardness,Random Forest,B,275.0,289.9766666666667,19
+Hardness,Random Forest,B,290.0,290.04,18
+Hardness,Random Forest,B,284.0,285.04,10
+Hardness,Random Forest,B,290.0,287.91333333333336,17
+Hardness,Random Forest,B,287.0,291.66333333333336,33
+Hardness,Random Forest,B,303.0,291.0833333333333,38
+Hardness,Random Forest,B,287.0,289.82666666666665,15
+Hardness,Random Forest,B,372.0,358.82,65
+Hardness,Random Forest,B,375.0,357.5366666666667,46
+Hardness,Random Forest,B,375.0,362.9,88
+Hardness,Random Forest,B,371.0,366.6,58
+Hardness,Random Forest,B,380.0,364.7966666666667,66
+Hardness,Random Forest,B,361.0,352.11333333333334,68
+Hardness,Random Forest,B,376.0,361.9066666666667,47
+Hardness,Random Forest,B,360.0,351.81666666666666,30
+Hardness,Random Forest,B,373.0,357.47,82
+Hardness,Random Forest,B,379.0,365.8833333333333,81
+Hardness,Random Forest,B,354.0,361.68666666666667,57
+Hardness,Random Forest,B,367.0,357.26666666666665,53
+Hardness,Random Forest,B,373.0,348.4033333333333,48
+Hardness,Random Forest,B,371.0,356.0133333333333,52
+Hardness,Random Forest,B,373.0,367.73333333333335,93
+Hardness,Random Forest,B,337.0,329.8666666666667,65
+Hardness,Random Forest,B,336.0,328.5833333333333,46
+Hardness,Random Forest,B,334.0,328.4266666666667,88
+Hardness,Random Forest,B,339.0,331.28333333333336,58
+Hardness,Random Forest,B,348.0,327.78,66
+Hardness,Random Forest,B,326.0,323.06,68
+Hardness,Random Forest,B,338.0,324.93333333333334,47
+Hardness,Random Forest,B,324.0,318.31333333333333,30
+Hardness,Random Forest,B,340.0,325.7733333333333,82
+Hardness,Random Forest,B,343.0,335.7133333333333,81
+Hardness,Random Forest,B,324.0,326.57,57
+Hardness,Random Forest,B,328.0,327.60333333333335,53
+Hardness,Random Forest,B,338.0,323.50666666666666,48
+Hardness,Random Forest,B,335.0,330.53333333333336,52
+Hardness,Random Forest,B,338.0,330.3333333333333,93
+Hardness,Random Forest,B,289.0,299.3833333333333,65
+Hardness,Random Forest,B,301.0,290.89,46
+Hardness,Random Forest,B,304.0,300.00666666666666,88
+Hardness,Random Forest,B,294.0,295.97333333333336,58
+Hardness,Random Forest,B,309.0,297.28,66
+Hardness,Random Forest,B,295.0,286.82666666666665,68
+Hardness,Random Forest,B,290.0,294.03,47
+Hardness,Random Forest,B,295.0,289.84,30
+Hardness,Random Forest,B,298.0,289.9866666666667,82
+Hardness,Random Forest,B,291.0,297.9533333333333,81
+Hardness,Random Forest,B,294.0,293.88,57
+Hardness,Random Forest,B,302.0,297.12333333333333,53
+Hardness,Random Forest,B,300.0,290.14666666666665,48
+Hardness,Random Forest,B,300.0,293.87333333333333,52
+Hardness,Random Forest,B,307.0,299.31666666666666,93
+Hardness,Random Forest,B,290.0,279.05333333333334,43
+Hardness,Random Forest,B,277.0,276.7266666666667,39
+Hardness,Random Forest,B,300.0,294.01666666666665,54
+Hardness,Random Forest,B,281.0,292.92,49
+Hardness,Random Forest,B,289.0,290.99333333333334,67
+Hardness,Random Forest,B,258.0,280.0733333333333,35
+Hardness,Random Forest,B,284.0,279.81,55
+Hardness,Random Forest,B,265.0,260.92,43
+Hardness,Random Forest,B,255.0,258.37333333333333,39
+Hardness,Random Forest,B,275.0,268.55,54
+Hardness,Random Forest,B,259.0,268.61,49
+Hardness,Random Forest,B,263.0,271.28333333333336,67
+Hardness,Random Forest,B,238.0,267.01,35
+Hardness,Random Forest,B,260.0,263.62333333333333,55
+Hardness,Random Forest,B,239.0,237.81333333333333,43
+Hardness,Random Forest,B,241.0,245.08666666666667,39
+Hardness,Random Forest,B,246.0,243.53666666666666,54
+Hardness,Random Forest,B,229.0,244.32,49
+Hardness,Random Forest,B,242.0,251.78,67
+Hardness,Random Forest,B,227.0,247.60333333333332,35
+Hardness,Random Forest,B,235.0,243.42333333333335,55
+Hardness,Random Forest,B,302.0,291.99666666666667,75
+Hardness,Random Forest,B,311.0,305.46,90
+Hardness,Random Forest,B,298.0,293.24,72
+Hardness,Random Forest,B,302.0,294.66333333333336,76
+Hardness,Random Forest,B,317.0,290.51,71
+Hardness,Random Forest,B,303.0,291.25666666666666,99
+Hardness,Random Forest,B,312.0,305.98,70
+Hardness,Random Forest,B,300.0,284.62333333333333,56
+Hardness,Random Forest,B,287.0,287.6933333333333,63
+Hardness,Random Forest,B,321.0,308.85333333333335,100
+Hardness,Random Forest,B,306.0,295.43333333333334,89
+Hardness,Random Forest,B,297.0,290.8333333333333,64
+Hardness,Random Forest,B,265.0,267.53,75
+Hardness,Random Forest,B,287.0,287.3466666666667,90
+Hardness,Random Forest,B,272.0,263.67333333333335,72
+Hardness,Random Forest,B,270.0,270.87,76
+Hardness,Random Forest,B,286.0,268.89,71
+Hardness,Random Forest,B,277.0,271.72,99
+Hardness,Random Forest,B,286.0,295.78333333333336,70
+Hardness,Random Forest,B,270.0,264.51666666666665,56
+Hardness,Random Forest,B,260.0,264.4866666666667,63
+Hardness,Random Forest,B,294.0,297.25,100
+Hardness,Random Forest,B,280.0,268.31,89
+Hardness,Random Forest,B,273.0,268.7633333333333,64
+Hardness,Random Forest,B,242.0,244.66666666666666,75
+Hardness,Random Forest,B,260.0,266.99666666666667,90
+Hardness,Random Forest,B,242.0,244.19666666666666,72
+Hardness,Random Forest,B,243.0,247.88,76
+Hardness,Random Forest,B,255.0,242.7,71
+Hardness,Random Forest,B,250.0,246.38666666666666,99
+Hardness,Random Forest,B,263.0,271.5733333333333,70
+Hardness,Random Forest,B,242.0,242.23,56
+Hardness,Random Forest,B,237.0,243.62666666666667,63
+Hardness,Random Forest,B,265.0,270.16333333333336,100
+Hardness,Random Forest,B,257.0,246.10333333333332,89
+Hardness,Random Forest,B,241.0,240.84666666666666,64
+Hardness,Random Forest,B,315.0,312.38666666666666,6
+Hardness,Random Forest,B,299.0,303.20666666666665,3
+Hardness,Random Forest,B,319.0,315.5466666666667,5
+Hardness,Random Forest,B,341.0,319.60333333333335,21
+Hardness,Random Forest,B,301.0,307.81666666666666,1
+Hardness,Random Forest,B,319.0,312.49,11
+Hardness,Random Forest,B,313.0,315.76666666666665,13
+Hardness,Random Forest,B,312.0,312.51,0
+Hardness,Random Forest,B,316.0,312.21666666666664,7
+Hardness,Random Forest,B,288.0,292.58,6
+Hardness,Random Forest,B,279.0,288.53,3
+Hardness,Random Forest,B,296.0,292.88,5
+Hardness,Random Forest,B,318.0,300.81333333333333,21
+Hardness,Random Forest,B,282.0,285.57666666666665,1
+Hardness,Random Forest,B,292.0,292.9766666666667,11
+Hardness,Random Forest,B,291.0,298.95,13
+Hardness,Random Forest,B,281.0,293.58666666666664,0
+Hardness,Random Forest,B,290.0,288.68666666666667,7
+Hardness,Random Forest,B,267.0,269.47,6
+Hardness,Random Forest,B,261.0,267.84,3
+Hardness,Random Forest,B,268.0,271.07666666666665,5
+Hardness,Random Forest,B,286.0,277.05333333333334,21
+Hardness,Random Forest,B,261.0,266.5133333333333,1
+Hardness,Random Forest,B,267.0,270.26666666666665,11
+Hardness,Random Forest,B,268.0,273.37333333333333,13
+Hardness,Random Forest,B,262.0,269.6333333333333,0
+Hardness,Random Forest,B,264.0,269.1666666666667,7
+Hardness,Random Forest,B,342.0,341.22,42
+Hardness,Random Forest,B,338.0,347.6166666666667,50
+Hardness,Random Forest,B,359.0,358.5466666666667,59
+Hardness,Random Forest,B,347.0,342.30333333333334,51
+Hardness,Random Forest,B,354.0,351.6066666666667,37
+Hardness,Random Forest,B,340.0,342.56,62
+Hardness,Random Forest,B,345.0,347.47333333333336,77
+Hardness,Random Forest,B,347.0,342.25666666666666,36
+Hardness,Random Forest,B,348.0,350.17,69
+Hardness,Random Forest,B,360.0,351.37,44
+Hardness,Random Forest,B,348.0,344.6433333333333,41
+Hardness,Random Forest,B,369.0,355.73333333333335,83
+Hardness,Random Forest,B,367.0,353.66,34
+Hardness,Random Forest,B,345.0,334.69666666666666,87
+Hardness,Random Forest,B,307.0,316.3666666666667,42
+Hardness,Random Forest,B,307.0,317.17333333333335,50
+Hardness,Random Forest,B,328.0,325.0733333333333,59
+Hardness,Random Forest,B,309.0,311.4433333333333,51
+Hardness,Random Forest,B,318.0,317.3,37
+Hardness,Random Forest,B,310.0,314.33666666666664,62
+Hardness,Random Forest,B,315.0,316.93333333333334,77
+Hardness,Random Forest,B,309.0,308.57666666666665,36
+Hardness,Random Forest,B,316.0,318.06,69
+Hardness,Random Forest,B,322.0,319.82666666666665,44
+Hardness,Random Forest,B,312.0,311.54333333333335,41
+Hardness,Random Forest,B,337.0,324.73333333333335,83
+Hardness,Random Forest,B,336.0,323.25,34
+Hardness,Random Forest,B,313.0,308.8466666666667,87
+Hardness,Random Forest,B,270.0,283.52,42
+Hardness,Random Forest,B,276.0,285.02666666666664,50
+Hardness,Random Forest,B,282.0,289.5566666666667,59
+Hardness,Random Forest,B,274.0,279.66,51
+Hardness,Random Forest,B,276.0,283.24333333333334,37
+Hardness,Random Forest,B,276.0,282.50666666666666,62
+Hardness,Random Forest,B,280.0,281.16,77
+Hardness,Random Forest,B,271.0,283.10333333333335,36
+Hardness,Random Forest,B,279.0,285.0,69
+Hardness,Random Forest,B,285.0,282.7366666666667,44
+Hardness,Random Forest,B,279.0,279.1,41
+Hardness,Random Forest,B,284.0,289.3566666666667,83
+Hardness,Random Forest,B,283.0,288.95666666666665,34
+Hardness,Random Forest,B,277.0,280.4,87
+Hardness,Random Forest,B,357.0,346.73333333333335,103
+Hardness,Random Forest,B,358.0,332.2866666666667,101
+Hardness,Random Forest,B,358.0,344.36,92
+Hardness,Random Forest,B,348.0,349.83,94
+Hardness,Random Forest,B,358.0,342.31,104
+Hardness,Random Forest,B,367.0,349.27,107
+Hardness,Random Forest,B,322.0,315.26,103
+Hardness,Random Forest,B,318.0,306.09,101
+Hardness,Random Forest,B,323.0,311.78333333333336,92
+Hardness,Random Forest,B,312.0,312.7733333333333,94
+Hardness,Random Forest,B,322.0,319.21666666666664,104
+Hardness,Random Forest,B,328.0,316.3066666666667,107
+Hardness,Random Forest,B,288.0,288.37666666666667,103
+Hardness,Random Forest,B,281.0,284.7033333333333,101
+Hardness,Random Forest,B,287.0,284.59,92
+Hardness,Random Forest,B,281.0,284.18,94
+Hardness,Random Forest,B,286.0,284.47,104
+Hardness,Random Forest,B,290.0,285.49666666666667,107
+Hardness,Random Forest,C,235.0,235.33666666666667,16
+Hardness,Random Forest,C,249.0,245.27666666666667,23
+Hardness,Random Forest,C,239.0,238.30333333333334,14
+Hardness,Random Forest,C,261.0,247.08666666666667,25
+Hardness,Random Forest,C,230.0,240.80666666666667,8
+Hardness,Random Forest,C,262.0,254.87666666666667,40
+Hardness,Random Forest,C,258.0,239.91333333333333,9
+Hardness,Random Forest,C,248.0,238.65333333333334,4
+Hardness,Random Forest,C,251.0,248.77333333333334,32
+Hardness,Random Forest,C,227.0,245.23666666666668,20
+Hardness,Random Forest,C,246.0,241.57,31
+Hardness,Random Forest,C,234.0,252.74,2
+Hardness,Random Forest,C,218.0,222.68333333333334,16
+Hardness,Random Forest,C,231.0,227.87666666666667,23
+Hardness,Random Forest,C,218.0,225.09333333333333,14
+Hardness,Random Forest,C,244.0,228.30666666666667,25
+Hardness,Random Forest,C,218.0,224.57333333333332,8
+Hardness,Random Forest,C,244.0,236.40666666666667,40
+Hardness,Random Forest,C,237.0,226.2,9
+Hardness,Random Forest,C,226.0,225.01666666666668,4
+Hardness,Random Forest,C,230.0,232.85333333333332,32
+Hardness,Random Forest,C,217.0,226.53,20
+Hardness,Random Forest,C,226.0,226.14,31
+Hardness,Random Forest,C,217.0,237.99666666666667,2
+Hardness,Random Forest,C,201.0,207.74,16
+Hardness,Random Forest,C,208.0,211.25,23
+Hardness,Random Forest,C,203.0,208.06333333333333,14
+Hardness,Random Forest,C,219.0,209.57,25
+Hardness,Random Forest,C,207.0,206.5,8
+Hardness,Random Forest,C,221.0,214.46,40
+Hardness,Random Forest,C,215.0,209.36666666666667,9
+Hardness,Random Forest,C,202.0,207.84666666666666,4
+Hardness,Random Forest,C,212.0,213.48,32
+Hardness,Random Forest,C,201.0,208.03666666666666,20
+Hardness,Random Forest,C,206.0,209.41,31
+Hardness,Random Forest,C,195.0,217.92333333333335,2
+Hardness,Random Forest,C,297.0,294.36,97
+Hardness,Random Forest,C,271.0,295.13666666666666,98
+Hardness,Random Forest,C,289.0,285.31333333333333,95
+Hardness,Random Forest,C,258.0,278.4533333333333,91
+Hardness,Random Forest,C,254.0,264.8666666666667,74
+Hardness,Random Forest,C,298.0,290.2,105
+Hardness,Random Forest,C,281.0,290.33666666666664,102
+Hardness,Random Forest,C,278.0,281.18,85
+Hardness,Random Forest,C,298.0,290.59,106
+Hardness,Random Forest,C,301.0,288.6166666666667,96
+Hardness,Random Forest,C,255.0,285.82666666666665,78
+Hardness,Random Forest,C,266.0,266.6933333333333,97
+Hardness,Random Forest,C,245.0,269.4166666666667,98
+Hardness,Random Forest,C,260.0,260.8933333333333,95
+Hardness,Random Forest,C,239.0,254.84333333333333,91
+Hardness,Random Forest,C,232.0,245.20333333333335,74
+Hardness,Random Forest,C,269.0,263.4766666666667,105
+Hardness,Random Forest,C,256.0,263.5566666666667,102
+Hardness,Random Forest,C,255.0,258.75333333333333,85
+Hardness,Random Forest,C,272.0,262.93,106
+Hardness,Random Forest,C,268.0,262.5366666666667,96
+Hardness,Random Forest,C,237.0,261.2033333333333,78
+Hardness,Random Forest,C,240.0,241.69666666666666,97
+Hardness,Random Forest,C,233.0,242.70666666666668,98
+Hardness,Random Forest,C,237.0,236.84333333333333,95
+Hardness,Random Forest,C,219.0,231.99666666666667,91
+Hardness,Random Forest,C,215.0,227.64333333333335,74
+Hardness,Random Forest,C,237.0,242.26,105
+Hardness,Random Forest,C,235.0,237.15666666666667,102
+Hardness,Random Forest,C,230.0,236.1,85
+Hardness,Random Forest,C,245.0,239.37333333333333,106
+Hardness,Random Forest,C,236.0,238.88,96
+Hardness,Random Forest,C,220.0,236.32666666666665,78
+Hardness,Random Forest,C,309.0,293.58,114
+Hardness,Random Forest,C,308.0,306.2033333333333,112
+Hardness,Random Forest,C,290.0,303.37666666666667,109
+Hardness,Random Forest,C,317.0,301.7366666666667,116
+Hardness,Random Forest,C,280.0,290.61333333333334,111
+Hardness,Random Forest,C,314.0,297.59,117
+Hardness,Random Forest,C,306.0,304.67,110
+Hardness,Random Forest,C,319.0,303.8,118
+Hardness,Random Forest,C,291.0,305.12333333333333,115
+Hardness,Random Forest,C,307.0,296.1333333333333,108
+Hardness,Random Forest,C,325.0,299.86333333333334,113
+Hardness,Random Forest,C,276.0,266.35,114
+Hardness,Random Forest,C,275.0,275.62,112
+Hardness,Random Forest,C,261.0,272.1433333333333,109
+Hardness,Random Forest,C,283.0,273.58,116
+Hardness,Random Forest,C,259.0,263.11333333333334,111
+Hardness,Random Forest,C,281.0,271.0233333333333,117
+Hardness,Random Forest,C,276.0,275.68333333333334,110
+Hardness,Random Forest,C,282.0,274.51,118
+Hardness,Random Forest,C,266.0,275.0366666666667,115
+Hardness,Random Forest,C,277.0,269.5566666666667,108
+Hardness,Random Forest,C,285.0,271.4166666666667,113
+Hardness,Random Forest,C,248.0,243.09666666666666,114
+Hardness,Random Forest,C,249.0,249.07,112
+Hardness,Random Forest,C,235.0,247.88666666666666,109
+Hardness,Random Forest,C,253.0,248.51333333333332,116
+Hardness,Random Forest,C,234.0,240.13666666666666,111
+Hardness,Random Forest,C,249.0,246.9,117
+Hardness,Random Forest,C,250.0,250.43333333333334,110
+Hardness,Random Forest,C,253.0,248.09666666666666,118
+Hardness,Random Forest,C,242.0,247.09666666666666,115
+Hardness,Random Forest,C,249.0,242.84666666666666,108
+Hardness,Random Forest,C,249.0,246.45,113
+Hardness,Random Forest,C,328.0,342.5566666666667,86
+Hardness,Random Forest,C,328.0,341.77,80
+Hardness,Random Forest,C,343.0,344.7366666666667,60
+Hardness,Random Forest,C,320.0,342.42333333333335,73
+Hardness,Random Forest,C,344.0,350.61,45
+Hardness,Random Forest,C,344.0,334.7366666666667,84
+Hardness,Random Forest,C,345.0,339.46,79
+Hardness,Random Forest,C,324.0,343.5833333333333,61
+Hardness,Random Forest,C,299.0,310.3666666666667,86
+Hardness,Random Forest,C,297.0,311.29,80
+Hardness,Random Forest,C,318.0,317.9633333333333,60
+Hardness,Random Forest,C,296.0,309.79333333333335,73
+Hardness,Random Forest,C,305.0,320.02666666666664,45
+Hardness,Random Forest,C,306.0,307.62666666666667,84
+Hardness,Random Forest,C,312.0,309.3466666666667,79
+Hardness,Random Forest,C,300.0,312.23,61
+Hardness,Random Forest,C,277.0,283.0133333333333,86
+Hardness,Random Forest,C,272.0,282.34,80
+Hardness,Random Forest,C,277.0,287.34,60
+Hardness,Random Forest,C,272.0,282.49333333333334,73
+Hardness,Random Forest,C,279.0,288.3,45
+Hardness,Random Forest,C,277.0,280.00666666666666,84
+Hardness,Random Forest,C,280.0,279.2733333333333,79
+Hardness,Random Forest,C,277.0,280.1933333333333,61
+Hardness,Random Forest,C,362.0,351.9266666666667,27
+Hardness,Random Forest,C,341.0,347.65,22
+Hardness,Random Forest,C,350.0,349.18,26
+Hardness,Random Forest,C,342.0,359.63666666666666,24
+Hardness,Random Forest,C,352.0,349.62333333333333,12
+Hardness,Random Forest,C,354.0,348.8333333333333,28
+Hardness,Random Forest,C,352.0,356.82,29
+Hardness,Random Forest,C,348.0,361.51666666666665,19
+Hardness,Random Forest,C,353.0,351.49666666666667,18
+Hardness,Random Forest,C,347.0,345.6533333333333,10
+Hardness,Random Forest,C,350.0,349.8333333333333,17
+Hardness,Random Forest,C,349.0,359.83,33
+Hardness,Random Forest,C,377.0,361.17,38
+Hardness,Random Forest,C,350.0,352.28333333333336,15
+Hardness,Random Forest,C,321.0,320.89666666666665,27
+Hardness,Random Forest,C,309.0,315.66333333333336,22
+Hardness,Random Forest,C,306.0,318.93333333333334,26
+Hardness,Random Forest,C,309.0,328.17333333333335,24
+Hardness,Random Forest,C,320.0,316.77,12
+Hardness,Random Forest,C,329.0,315.51666666666665,28
+Hardness,Random Forest,C,317.0,324.3466666666667,29
+Hardness,Random Forest,C,305.0,328.53,19
+Hardness,Random Forest,C,316.0,315.80333333333334,18
+Hardness,Random Forest,C,315.0,313.72,10
+Hardness,Random Forest,C,317.0,314.8433333333333,17
+Hardness,Random Forest,C,322.0,324.9033333333333,33
+Hardness,Random Forest,C,339.0,324.86,38
+Hardness,Random Forest,C,315.0,318.9066666666667,15
+Hardness,Random Forest,C,286.0,288.00333333333333,27
+Hardness,Random Forest,C,277.0,288.24,22
+Hardness,Random Forest,C,271.0,286.73,26
+Hardness,Random Forest,C,274.0,296.25666666666666,24
+Hardness,Random Forest,C,288.0,286.6,12
+Hardness,Random Forest,C,292.0,285.3566666666667,28
+Hardness,Random Forest,C,287.0,293.74666666666667,29
+Hardness,Random Forest,C,275.0,297.0833333333333,19
+Hardness,Random Forest,C,290.0,285.5833333333333,18
+Hardness,Random Forest,C,284.0,282.82666666666665,10
+Hardness,Random Forest,C,290.0,288.42333333333335,17
+Hardness,Random Forest,C,287.0,288.9866666666667,33
+Hardness,Random Forest,C,303.0,287.1333333333333,38
+Hardness,Random Forest,C,287.0,288.05333333333334,15
+Hardness,Random Forest,C,372.0,362.4033333333333,65
+Hardness,Random Forest,C,375.0,360.2266666666667,46
+Hardness,Random Forest,C,375.0,359.91,88
+Hardness,Random Forest,C,371.0,360.07666666666665,58
+Hardness,Random Forest,C,380.0,358.8066666666667,66
+Hardness,Random Forest,C,361.0,351.7266666666667,68
+Hardness,Random Forest,C,376.0,362.92,47
+Hardness,Random Forest,C,360.0,352.21,30
+Hardness,Random Forest,C,373.0,358.98333333333335,82
+Hardness,Random Forest,C,379.0,364.37,81
+Hardness,Random Forest,C,354.0,359.49666666666667,57
+Hardness,Random Forest,C,367.0,358.31666666666666,53
+Hardness,Random Forest,C,373.0,348.97333333333336,48
+Hardness,Random Forest,C,371.0,361.11,52
+Hardness,Random Forest,C,373.0,363.0733333333333,93
+Hardness,Random Forest,C,337.0,328.38,65
+Hardness,Random Forest,C,336.0,327.0933333333333,46
+Hardness,Random Forest,C,334.0,324.4633333333333,88
+Hardness,Random Forest,C,339.0,325.87666666666667,58
+Hardness,Random Forest,C,348.0,328.51666666666665,66
+Hardness,Random Forest,C,326.0,319.39,68
+Hardness,Random Forest,C,338.0,326.9166666666667,47
+Hardness,Random Forest,C,324.0,318.3833333333333,30
+Hardness,Random Forest,C,340.0,327.99666666666667,82
+Hardness,Random Forest,C,343.0,332.72,81
+Hardness,Random Forest,C,324.0,323.9766666666667,57
+Hardness,Random Forest,C,328.0,324.9033333333333,53
+Hardness,Random Forest,C,338.0,317.60333333333335,48
+Hardness,Random Forest,C,335.0,329.9166666666667,52
+Hardness,Random Forest,C,338.0,328.19666666666666,93
+Hardness,Random Forest,C,289.0,293.8666666666667,65
+Hardness,Random Forest,C,301.0,291.12333333333333,46
+Hardness,Random Forest,C,304.0,288.2033333333333,88
+Hardness,Random Forest,C,294.0,288.64666666666665,58
+Hardness,Random Forest,C,309.0,294.07666666666665,66
+Hardness,Random Forest,C,295.0,284.0366666666667,68
+Hardness,Random Forest,C,290.0,292.50666666666666,47
+Hardness,Random Forest,C,295.0,289.18,30
+Hardness,Random Forest,C,298.0,291.77666666666664,82
+Hardness,Random Forest,C,291.0,295.23,81
+Hardness,Random Forest,C,294.0,291.0366666666667,57
+Hardness,Random Forest,C,302.0,289.71666666666664,53
+Hardness,Random Forest,C,300.0,284.17333333333335,48
+Hardness,Random Forest,C,300.0,294.11333333333334,52
+Hardness,Random Forest,C,307.0,288.8666666666667,93
+Hardness,Random Forest,C,290.0,274.3466666666667,43
+Hardness,Random Forest,C,277.0,275.78333333333336,39
+Hardness,Random Forest,C,300.0,291.7966666666667,54
+Hardness,Random Forest,C,281.0,293.2633333333333,49
+Hardness,Random Forest,C,289.0,296.85333333333335,67
+Hardness,Random Forest,C,258.0,290.15,35
+Hardness,Random Forest,C,284.0,277.78333333333336,55
+Hardness,Random Forest,C,265.0,254.51666666666668,43
+Hardness,Random Forest,C,255.0,253.06,39
+Hardness,Random Forest,C,275.0,266.6666666666667,54
+Hardness,Random Forest,C,259.0,268.10333333333335,49
+Hardness,Random Forest,C,263.0,269.4166666666667,67
+Hardness,Random Forest,C,238.0,267.9766666666667,35
+Hardness,Random Forest,C,260.0,258.4,55
+Hardness,Random Forest,C,239.0,235.93333333333334,43
+Hardness,Random Forest,C,241.0,235.73333333333332,39
+Hardness,Random Forest,C,246.0,242.02,54
+Hardness,Random Forest,C,229.0,242.66333333333333,49
+Hardness,Random Forest,C,242.0,246.55,67
+Hardness,Random Forest,C,227.0,243.72666666666666,35
+Hardness,Random Forest,C,235.0,236.04666666666665,55
+Hardness,Random Forest,C,302.0,291.4766666666667,75
+Hardness,Random Forest,C,311.0,297.1666666666667,90
+Hardness,Random Forest,C,298.0,291.44666666666666,72
+Hardness,Random Forest,C,302.0,295.24333333333334,76
+Hardness,Random Forest,C,317.0,287.57,71
+Hardness,Random Forest,C,303.0,298.16333333333336,99
+Hardness,Random Forest,C,312.0,295.4766666666667,70
+Hardness,Random Forest,C,300.0,283.8833333333333,56
+Hardness,Random Forest,C,287.0,289.03,63
+Hardness,Random Forest,C,321.0,296.19666666666666,100
+Hardness,Random Forest,C,306.0,295.94666666666666,89
+Hardness,Random Forest,C,297.0,293.82,64
+Hardness,Random Forest,C,265.0,265.04333333333335,75
+Hardness,Random Forest,C,287.0,273.37666666666667,90
+Hardness,Random Forest,C,272.0,267.2366666666667,72
+Hardness,Random Forest,C,270.0,268.67333333333335,76
+Hardness,Random Forest,C,286.0,261.7866666666667,71
+Hardness,Random Forest,C,277.0,269.07,99
+Hardness,Random Forest,C,286.0,272.22333333333336,70
+Hardness,Random Forest,C,270.0,259.74,56
+Hardness,Random Forest,C,260.0,263.53,63
+Hardness,Random Forest,C,294.0,271.80333333333334,100
+Hardness,Random Forest,C,280.0,265.88666666666666,89
+Hardness,Random Forest,C,273.0,267.63666666666666,64
+Hardness,Random Forest,C,242.0,242.96333333333334,75
+Hardness,Random Forest,C,260.0,252.07666666666665,90
+Hardness,Random Forest,C,242.0,242.26666666666668,72
+Hardness,Random Forest,C,243.0,241.53666666666666,76
+Hardness,Random Forest,C,255.0,238.19,71
+Hardness,Random Forest,C,250.0,246.50333333333333,99
+Hardness,Random Forest,C,263.0,249.86333333333334,70
+Hardness,Random Forest,C,242.0,235.18,56
+Hardness,Random Forest,C,237.0,239.56,63
+Hardness,Random Forest,C,265.0,250.04666666666665,100
+Hardness,Random Forest,C,257.0,242.83333333333334,89
+Hardness,Random Forest,C,241.0,241.93333333333334,64
+Hardness,Random Forest,C,315.0,314.7733333333333,6
+Hardness,Random Forest,C,299.0,312.3466666666667,3
+Hardness,Random Forest,C,319.0,316.56333333333333,5
+Hardness,Random Forest,C,341.0,316.38,21
+Hardness,Random Forest,C,301.0,307.35,1
+Hardness,Random Forest,C,319.0,315.42333333333335,11
+Hardness,Random Forest,C,313.0,328.37,13
+Hardness,Random Forest,C,312.0,315.99333333333334,0
+Hardness,Random Forest,C,316.0,313.85833333333335,7
+Hardness,Random Forest,C,288.0,291.5366666666667,6
+Hardness,Random Forest,C,279.0,292.08666666666664,3
+Hardness,Random Forest,C,296.0,295.99,5
+Hardness,Random Forest,C,318.0,291.99333333333334,21
+Hardness,Random Forest,C,282.0,287.7266666666667,1
+Hardness,Random Forest,C,292.0,291.9066666666667,11
+Hardness,Random Forest,C,291.0,305.8466666666667,13
+Hardness,Random Forest,C,281.0,293.4866666666667,0
+Hardness,Random Forest,C,290.0,288.64166666666665,7
+Hardness,Random Forest,C,267.0,268.5833333333333,6
+Hardness,Random Forest,C,261.0,267.72333333333336,3
+Hardness,Random Forest,C,268.0,270.43,5
+Hardness,Random Forest,C,286.0,269.87,21
+Hardness,Random Forest,C,261.0,266.76,1
+Hardness,Random Forest,C,267.0,268.5933333333333,11
+Hardness,Random Forest,C,268.0,275.46666666666664,13
+Hardness,Random Forest,C,262.0,268.74333333333334,0
+Hardness,Random Forest,C,264.0,266.8233333333333,7
+Hardness,Random Forest,C,342.0,349.09,42
+Hardness,Random Forest,C,338.0,350.88,50
+Hardness,Random Forest,C,359.0,355.99333333333334,59
+Hardness,Random Forest,C,347.0,339.5133333333333,51
+Hardness,Random Forest,C,354.0,352.82,37
+Hardness,Random Forest,C,340.0,348.1533333333333,62
+Hardness,Random Forest,C,345.0,351.71,77
+Hardness,Random Forest,C,347.0,346.36,36
+Hardness,Random Forest,C,348.0,348.28,69
+Hardness,Random Forest,C,360.0,350.27666666666664,44
+Hardness,Random Forest,C,348.0,344.73333333333335,41
+Hardness,Random Forest,C,369.0,355.0233333333333,83
+Hardness,Random Forest,C,367.0,350.33,34
+Hardness,Random Forest,C,345.0,346.47333333333336,87
+Hardness,Random Forest,C,307.0,316.37333333333333,42
+Hardness,Random Forest,C,307.0,317.88,50
+Hardness,Random Forest,C,328.0,324.11333333333334,59
+Hardness,Random Forest,C,309.0,310.87666666666667,51
+Hardness,Random Forest,C,318.0,318.6666666666667,37
+Hardness,Random Forest,C,310.0,316.79333333333335,62
+Hardness,Random Forest,C,315.0,318.6566666666667,77
+Hardness,Random Forest,C,309.0,313.72,36
+Hardness,Random Forest,C,316.0,315.5133333333333,69
+Hardness,Random Forest,C,322.0,314.50666666666666,44
+Hardness,Random Forest,C,312.0,313.02,41
+Hardness,Random Forest,C,337.0,325.16,83
+Hardness,Random Forest,C,336.0,320.78,34
+Hardness,Random Forest,C,313.0,313.1533333333333,87
+Hardness,Random Forest,C,270.0,279.96666666666664,42
+Hardness,Random Forest,C,276.0,282.71666666666664,50
+Hardness,Random Forest,C,282.0,286.84,59
+Hardness,Random Forest,C,274.0,278.3333333333333,51
+Hardness,Random Forest,C,276.0,280.97333333333336,37
+Hardness,Random Forest,C,276.0,280.35,62
+Hardness,Random Forest,C,280.0,281.2633333333333,77
+Hardness,Random Forest,C,271.0,279.1766666666667,36
+Hardness,Random Forest,C,279.0,280.92,69
+Hardness,Random Forest,C,285.0,280.8933333333333,44
+Hardness,Random Forest,C,279.0,278.74666666666667,41
+Hardness,Random Forest,C,284.0,282.57,83
+Hardness,Random Forest,C,283.0,285.51,34
+Hardness,Random Forest,C,277.0,279.2033333333333,87
+Hardness,Random Forest,C,357.0,352.48333333333335,103
+Hardness,Random Forest,C,358.0,333.31,101
+Hardness,Random Forest,C,358.0,341.00666666666666,92
+Hardness,Random Forest,C,348.0,343.37,94
+Hardness,Random Forest,C,358.0,346.47,104
+Hardness,Random Forest,C,367.0,343.92,107
+Hardness,Random Forest,C,322.0,316.49666666666667,103
+Hardness,Random Forest,C,318.0,306.16333333333336,101
+Hardness,Random Forest,C,323.0,310.04,92
+Hardness,Random Forest,C,312.0,310.8566666666667,94
+Hardness,Random Forest,C,322.0,314.86,104
+Hardness,Random Forest,C,328.0,314.8666666666667,107
+Hardness,Random Forest,C,288.0,283.51,103
+Hardness,Random Forest,C,281.0,278.28,101
+Hardness,Random Forest,C,287.0,282.22333333333336,92
+Hardness,Random Forest,C,281.0,280.57,94
+Hardness,Random Forest,C,286.0,283.02,104
+Hardness,Random Forest,C,290.0,284.56333333333333,107
+Hardness,ANN,B,235.0,241.42802353115025,16
+Hardness,ANN,B,249.0,258.54865287543043,23
+Hardness,ANN,B,239.0,240.54465884242626,14
+Hardness,ANN,B,261.0,251.9002440771121,25
+Hardness,ANN,B,230.0,243.48328020577276,8
+Hardness,ANN,B,262.0,258.9865343685168,40
+Hardness,ANN,B,258.0,236.90980643955734,9
+Hardness,ANN,B,248.0,226.96267505662271,4
+Hardness,ANN,B,251.0,256.6417912504289,32
+Hardness,ANN,B,227.0,244.18557779272726,20
+Hardness,ANN,B,246.0,240.85441139493764,31
+Hardness,ANN,B,234.0,253.9891740294333,2
+Hardness,ANN,B,218.0,224.90063795965872,16
+Hardness,ANN,B,231.0,233.0566708210063,23
+Hardness,ANN,B,218.0,223.98432507527298,14
+Hardness,ANN,B,244.0,230.24894874360766,25
+Hardness,ANN,B,218.0,217.21249142745233,8
+Hardness,ANN,B,244.0,242.10029082911626,40
+Hardness,ANN,B,237.0,222.5209556043211,9
+Hardness,ANN,B,226.0,210.68980335365518,4
+Hardness,ANN,B,230.0,234.71336269131024,32
+Hardness,ANN,B,217.0,224.14610808407596,20
+Hardness,ANN,B,226.0,225.23626912261818,31
+Hardness,ANN,B,217.0,225.4540342826241,2
+Hardness,ANN,B,201.0,203.4380569019617,16
+Hardness,ANN,B,208.0,208.7917721913899,23
+Hardness,ANN,B,203.0,205.39148989817835,14
+Hardness,ANN,B,219.0,210.65332778879684,25
+Hardness,ANN,B,207.0,196.74407969512094,8
+Hardness,ANN,B,221.0,224.32935288060415,40
+Hardness,ANN,B,215.0,219.6779082458811,9
+Hardness,ANN,B,202.0,197.3478732757024,4
+Hardness,ANN,B,212.0,215.21344585463913,32
+Hardness,ANN,B,201.0,205.25110750273893,20
+Hardness,ANN,B,206.0,208.38714651434685,31
+Hardness,ANN,B,195.0,199.03286434770297,2
+Hardness,ANN,B,297.0,279.0672193284749,97
+Hardness,ANN,B,271.0,279.0099096858959,98
+Hardness,ANN,B,289.0,299.7623408925769,95
+Hardness,ANN,B,258.0,275.3150011774085,91
+Hardness,ANN,B,254.0,267.6168149172615,74
+Hardness,ANN,B,298.0,283.66472364512634,105
+Hardness,ANN,B,281.0,294.40807658242676,102
+Hardness,ANN,B,278.0,269.0094439009161,85
+Hardness,ANN,B,298.0,289.8631261383366,106
+Hardness,ANN,B,301.0,289.10626626324654,96
+Hardness,ANN,B,255.0,275.4421338091443,78
+Hardness,ANN,B,266.0,252.33623528459572,97
+Hardness,ANN,B,245.0,257.38670865859746,98
+Hardness,ANN,B,260.0,262.50991526735487,95
+Hardness,ANN,B,239.0,247.20223823559,91
+Hardness,ANN,B,232.0,245.76953243475606,74
+Hardness,ANN,B,269.0,263.58268008512084,105
+Hardness,ANN,B,256.0,257.0543469422774,102
+Hardness,ANN,B,255.0,245.01038364984328,85
+Hardness,ANN,B,272.0,265.2541468742354,106
+Hardness,ANN,B,268.0,257.7037363267129,96
+Hardness,ANN,B,237.0,248.08210162559487,78
+Hardness,ANN,B,240.0,231.7111589430208,97
+Hardness,ANN,B,233.0,233.09111996947206,98
+Hardness,ANN,B,237.0,237.0351453769385,95
+Hardness,ANN,B,219.0,227.1865195202815,91
+Hardness,ANN,B,215.0,221.5038339634051,74
+Hardness,ANN,B,237.0,234.3109141926199,105
+Hardness,ANN,B,235.0,239.06727042610848,102
+Hardness,ANN,B,230.0,233.45836888529718,85
+Hardness,ANN,B,245.0,246.9837957991097,106
+Hardness,ANN,B,236.0,234.6454113449703,96
+Hardness,ANN,B,220.0,227.61933513102048,78
+Hardness,ANN,B,309.0,305.51705123093353,114
+Hardness,ANN,B,308.0,305.9992468731822,112
+Hardness,ANN,B,290.0,299.926996452865,109
+Hardness,ANN,B,317.0,312.9705335133519,116
+Hardness,ANN,B,280.0,289.6888953705497,111
+Hardness,ANN,B,314.0,308.0634580214777,117
+Hardness,ANN,B,306.0,305.3292359461211,110
+Hardness,ANN,B,319.0,315.9618580235932,118
+Hardness,ANN,B,291.0,300.58780450553405,115
+Hardness,ANN,B,307.0,297.28976009378135,108
+Hardness,ANN,B,325.0,309.23501091359003,113
+Hardness,ANN,B,276.0,276.0757129815085,114
+Hardness,ANN,B,275.0,280.9093718754978,112
+Hardness,ANN,B,261.0,269.71203990725104,109
+Hardness,ANN,B,283.0,283.6815821180286,116
+Hardness,ANN,B,259.0,261.5359383566243,111
+Hardness,ANN,B,281.0,278.5304286658087,117
+Hardness,ANN,B,276.0,266.74408230139124,110
+Hardness,ANN,B,282.0,287.2972303753445,118
+Hardness,ANN,B,266.0,272.07998975508485,115
+Hardness,ANN,B,277.0,272.33946499698675,108
+Hardness,ANN,B,285.0,283.7164940331107,113
+Hardness,ANN,B,248.0,244.22770485374784,114
+Hardness,ANN,B,249.0,247.47750317637679,112
+Hardness,ANN,B,235.0,246.47451961914882,109
+Hardness,ANN,B,253.0,250.0142497643283,116
+Hardness,ANN,B,234.0,239.1106480972475,111
+Hardness,ANN,B,249.0,251.7082401973686,117
+Hardness,ANN,B,250.0,241.13424932617247,110
+Hardness,ANN,B,253.0,257.53955477504996,118
+Hardness,ANN,B,242.0,250.23382738663446,115
+Hardness,ANN,B,249.0,244.41189907349352,108
+Hardness,ANN,B,249.0,254.6172630795956,113
+Hardness,ANN,B,328.0,329.8643402872885,86
+Hardness,ANN,B,328.0,339.55704736625245,80
+Hardness,ANN,B,343.0,347.7105446323598,60
+Hardness,ANN,B,320.0,327.2861741222424,73
+Hardness,ANN,B,344.0,337.34440017934486,45
+Hardness,ANN,B,344.0,333.9953644280313,84
+Hardness,ANN,B,345.0,331.5129237056534,79
+Hardness,ANN,B,324.0,336.5527266688037,61
+Hardness,ANN,B,299.0,309.5451519848522,86
+Hardness,ANN,B,297.0,308.4982185330556,80
+Hardness,ANN,B,318.0,324.07835312957127,60
+Hardness,ANN,B,296.0,296.17263001326927,73
+Hardness,ANN,B,305.0,313.6337144002056,45
+Hardness,ANN,B,306.0,305.34115146599015,84
+Hardness,ANN,B,312.0,295.6811008845922,79
+Hardness,ANN,B,300.0,299.0128240410963,61
+Hardness,ANN,B,277.0,281.2219411282121,86
+Hardness,ANN,B,272.0,268.45209362399197,80
+Hardness,ANN,B,277.0,288.4747918134462,60
+Hardness,ANN,B,272.0,271.8276670530022,73
+Hardness,ANN,B,279.0,281.0463824410552,45
+Hardness,ANN,B,277.0,281.1234575734608,84
+Hardness,ANN,B,280.0,267.4217919697712,79
+Hardness,ANN,B,277.0,277.4233180926771,61
+Hardness,ANN,B,362.0,354.64957832397533,27
+Hardness,ANN,B,341.0,341.24659336920666,22
+Hardness,ANN,B,350.0,355.71879417447934,26
+Hardness,ANN,B,342.0,343.9343717738099,24
+Hardness,ANN,B,352.0,348.67520127988655,12
+Hardness,ANN,B,354.0,360.44026565939913,28
+Hardness,ANN,B,352.0,353.76772735274545,29
+Hardness,ANN,B,348.0,344.8661649270977,19
+Hardness,ANN,B,353.0,353.8987844185132,18
+Hardness,ANN,B,347.0,353.38979614573606,10
+Hardness,ANN,B,350.0,340.1726670385508,17
+Hardness,ANN,B,349.0,364.8427200933504,33
+Hardness,ANN,B,377.0,367.3292453981749,38
+Hardness,ANN,B,350.0,353.0750765565143,15
+Hardness,ANN,B,321.0,324.9125793471733,27
+Hardness,ANN,B,309.0,310.73749971603434,22
+Hardness,ANN,B,306.0,318.14476151982973,26
+Hardness,ANN,B,309.0,318.181327319595,24
+Hardness,ANN,B,320.0,317.1640813528963,12
+Hardness,ANN,B,329.0,324.0904889852418,28
+Hardness,ANN,B,317.0,320.77963184170915,29
+Hardness,ANN,B,305.0,314.0086621683283,19
+Hardness,ANN,B,316.0,322.414607771091,18
+Hardness,ANN,B,315.0,312.2312044785693,10
+Hardness,ANN,B,317.0,314.43458102750685,17
+Hardness,ANN,B,322.0,324.51229065385854,33
+Hardness,ANN,B,339.0,332.4652328329528,38
+Hardness,ANN,B,315.0,315.866116496209,15
+Hardness,ANN,B,286.0,288.3971436024068,27
+Hardness,ANN,B,277.0,285.9473833490438,22
+Hardness,ANN,B,271.0,284.0230382234131,26
+Hardness,ANN,B,274.0,286.7536793543873,24
+Hardness,ANN,B,288.0,277.0742678210852,12
+Hardness,ANN,B,292.0,283.7557479151563,28
+Hardness,ANN,B,287.0,281.28934154289857,29
+Hardness,ANN,B,275.0,279.4786573076617,19
+Hardness,ANN,B,290.0,286.39186739894603,18
+Hardness,ANN,B,284.0,276.43477156763487,10
+Hardness,ANN,B,290.0,282.99561540144424,17
+Hardness,ANN,B,287.0,283.52288539556974,33
+Hardness,ANN,B,303.0,291.8330335545083,38
+Hardness,ANN,B,287.0,275.8949587521267,15
+Hardness,ANN,B,372.0,371.1293059739369,65
+Hardness,ANN,B,375.0,363.88232615207886,46
+Hardness,ANN,B,375.0,373.69572012800705,88
+Hardness,ANN,B,371.0,370.4674777598577,58
+Hardness,ANN,B,380.0,368.54221552717763,66
+Hardness,ANN,B,361.0,365.1691504105371,68
+Hardness,ANN,B,376.0,367.52815606480925,47
+Hardness,ANN,B,360.0,356.54422909077135,30
+Hardness,ANN,B,373.0,372.87032266981436,82
+Hardness,ANN,B,379.0,377.0939400027239,81
+Hardness,ANN,B,354.0,361.4504083426306,57
+Hardness,ANN,B,367.0,369.68475072342306,53
+Hardness,ANN,B,373.0,365.12577816169227,48
+Hardness,ANN,B,371.0,365.842233842664,52
+Hardness,ANN,B,373.0,372.9092747598663,93
+Hardness,ANN,B,337.0,331.9658337537213,65
+Hardness,ANN,B,336.0,332.3406884075897,46
+Hardness,ANN,B,334.0,344.92985472227133,88
+Hardness,ANN,B,339.0,334.9228259973271,58
+Hardness,ANN,B,348.0,341.44130343810946,66
+Hardness,ANN,B,326.0,333.3450909190657,68
+Hardness,ANN,B,338.0,332.09225658843496,47
+Hardness,ANN,B,324.0,323.1932451140367,30
+Hardness,ANN,B,340.0,338.1713126769078,82
+Hardness,ANN,B,343.0,342.0716622641979,81
+Hardness,ANN,B,324.0,331.90308221122365,57
+Hardness,ANN,B,328.0,342.39292148457537,53
+Hardness,ANN,B,338.0,335.1362490069177,48
+Hardness,ANN,B,335.0,340.4039647045208,52
+Hardness,ANN,B,338.0,341.47524570358667,93
+Hardness,ANN,B,289.0,296.9301438884893,65
+Hardness,ANN,B,301.0,294.92308115992734,46
+Hardness,ANN,B,304.0,305.0599910173871,88
+Hardness,ANN,B,294.0,303.1192324521159,58
+Hardness,ANN,B,309.0,301.3280132299281,66
+Hardness,ANN,B,295.0,290.6386576183267,68
+Hardness,ANN,B,290.0,297.2118208029625,47
+Hardness,ANN,B,295.0,289.41905105751863,30
+Hardness,ANN,B,298.0,296.10133788665365,82
+Hardness,ANN,B,291.0,303.7837984600942,81
+Hardness,ANN,B,294.0,292.40722088540844,57
+Hardness,ANN,B,302.0,298.05922216452717,53
+Hardness,ANN,B,300.0,298.3002396933345,48
+Hardness,ANN,B,300.0,296.6422742562316,52
+Hardness,ANN,B,307.0,300.1837233541021,93
+Hardness,ANN,B,290.0,285.2218710965903,43
+Hardness,ANN,B,277.0,289.6579975090318,39
+Hardness,ANN,B,300.0,292.0332255917058,54
+Hardness,ANN,B,281.0,291.1300598058371,49
+Hardness,ANN,B,289.0,294.830429369948,67
+Hardness,ANN,B,258.0,288.3759309939824,35
+Hardness,ANN,B,284.0,282.4711651606634,55
+Hardness,ANN,B,265.0,261.5943211596209,43
+Hardness,ANN,B,255.0,257.94722463709945,39
+Hardness,ANN,B,275.0,268.9822162665526,54
+Hardness,ANN,B,259.0,266.14633790829987,49
+Hardness,ANN,B,263.0,268.9124313167489,67
+Hardness,ANN,B,238.0,260.6782217789058,35
+Hardness,ANN,B,260.0,263.17362193155793,55
+Hardness,ANN,B,239.0,232.71743938830173,43
+Hardness,ANN,B,241.0,235.89778957170665,39
+Hardness,ANN,B,246.0,251.52871829925766,54
+Hardness,ANN,B,229.0,236.44325026115052,49
+Hardness,ANN,B,242.0,246.1621829465913,67
+Hardness,ANN,B,227.0,237.93588606334495,35
+Hardness,ANN,B,235.0,249.3221055236891,55
+Hardness,ANN,B,302.0,292.0991506542449,75
+Hardness,ANN,B,311.0,313.0616954774857,90
+Hardness,ANN,B,298.0,293.0076789503138,72
+Hardness,ANN,B,302.0,300.4031121525214,76
+Hardness,ANN,B,317.0,296.8462802875436,71
+Hardness,ANN,B,303.0,300.4166231499359,99
+Hardness,ANN,B,312.0,306.62350467828924,70
+Hardness,ANN,B,300.0,299.6065471262326,56
+Hardness,ANN,B,287.0,292.3161780198023,63
+Hardness,ANN,B,321.0,315.77285200591103,100
+Hardness,ANN,B,306.0,291.29844810610706,89
+Hardness,ANN,B,297.0,293.1653634943878,64
+Hardness,ANN,B,265.0,265.09497906350447,75
+Hardness,ANN,B,287.0,289.17829016510063,90
+Hardness,ANN,B,272.0,265.6660626379637,72
+Hardness,ANN,B,270.0,280.680109956523,76
+Hardness,ANN,B,286.0,276.57697616819917,71
+Hardness,ANN,B,277.0,283.66085082533607,99
+Hardness,ANN,B,286.0,291.6908336328623,70
+Hardness,ANN,B,270.0,273.75949072180254,56
+Hardness,ANN,B,260.0,256.1465224899362,63
+Hardness,ANN,B,294.0,283.54612684314964,100
+Hardness,ANN,B,280.0,273.6970879688298,89
+Hardness,ANN,B,273.0,263.4217081129283,64
+Hardness,ANN,B,242.0,241.9152007976701,75
+Hardness,ANN,B,260.0,269.9419417408448,90
+Hardness,ANN,B,242.0,235.296302011746,72
+Hardness,ANN,B,243.0,248.7104950227545,76
+Hardness,ANN,B,255.0,246.34256487278273,71
+Hardness,ANN,B,250.0,261.2704947595781,99
+Hardness,ANN,B,263.0,270.133147488583,70
+Hardness,ANN,B,242.0,248.8336524388358,56
+Hardness,ANN,B,237.0,237.4826882796026,63
+Hardness,ANN,B,265.0,253.5048250284829,100
+Hardness,ANN,B,257.0,258.7683249615044,89
+Hardness,ANN,B,241.0,236.04478970999727,64
+Hardness,ANN,B,315.0,322.83853774003467,6
+Hardness,ANN,B,299.0,311.0549987667472,3
+Hardness,ANN,B,319.0,322.4704036382038,5
+Hardness,ANN,B,341.0,336.40032259196863,21
+Hardness,ANN,B,301.0,311.1686550642363,1
+Hardness,ANN,B,319.0,317.9488294783003,11
+Hardness,ANN,B,313.0,318.24164614284064,13
+Hardness,ANN,B,312.0,320.0826067186897,0
+Hardness,ANN,B,316.0,309.4399509344488,7
+Hardness,ANN,B,288.0,289.6701242018993,6
+Hardness,ANN,B,279.0,279.1997408818998,3
+Hardness,ANN,B,296.0,295.43731168357607,5
+Hardness,ANN,B,318.0,306.4660170019114,21
+Hardness,ANN,B,282.0,276.08179413598145,1
+Hardness,ANN,B,292.0,292.2703507578764,11
+Hardness,ANN,B,291.0,293.0323577473381,13
+Hardness,ANN,B,281.0,291.08678607225613,0
+Hardness,ANN,B,290.0,285.7466442173316,7
+Hardness,ANN,B,267.0,266.1222392268446,6
+Hardness,ANN,B,261.0,259.51623372036664,3
+Hardness,ANN,B,268.0,267.5628753202445,5
+Hardness,ANN,B,286.0,284.2504238234317,21
+Hardness,ANN,B,261.0,260.13150051642685,1
+Hardness,ANN,B,267.0,264.9601552325768,11
+Hardness,ANN,B,268.0,268.8422008117948,13
+Hardness,ANN,B,262.0,260.27120755539227,0
+Hardness,ANN,B,264.0,257.47193577227483,7
+Hardness,ANN,B,342.0,332.74540350849264,42
+Hardness,ANN,B,338.0,349.55937381958165,50
+Hardness,ANN,B,359.0,374.78166946902866,59
+Hardness,ANN,B,347.0,343.1965746285574,51
+Hardness,ANN,B,354.0,346.71499901791515,37
+Hardness,ANN,B,340.0,344.6509172002248,62
+Hardness,ANN,B,345.0,350.20266475461875,77
+Hardness,ANN,B,347.0,339.74869222307365,36
+Hardness,ANN,B,348.0,355.5585431875782,69
+Hardness,ANN,B,360.0,350.78142406993544,44
+Hardness,ANN,B,348.0,341.05513340004853,41
+Hardness,ANN,B,369.0,361.15275675752264,83
+Hardness,ANN,B,367.0,356.0407505881827,34
+Hardness,ANN,B,345.0,344.75579365026397,87
+Hardness,ANN,B,307.0,299.90092036199314,42
+Hardness,ANN,B,307.0,310.83598105250627,50
+Hardness,ANN,B,328.0,333.9527163050253,59
+Hardness,ANN,B,309.0,320.3992132587505,51
+Hardness,ANN,B,318.0,314.44726457367494,37
+Hardness,ANN,B,310.0,311.29419112131404,62
+Hardness,ANN,B,315.0,307.2213253267858,77
+Hardness,ANN,B,309.0,310.67980912968767,36
+Hardness,ANN,B,316.0,323.331303945437,69
+Hardness,ANN,B,322.0,319.52367324939706,44
+Hardness,ANN,B,312.0,310.6709254449927,41
+Hardness,ANN,B,337.0,325.2139384361628,83
+Hardness,ANN,B,336.0,318.53364420030783,34
+Hardness,ANN,B,313.0,306.24590982065916,87
+Hardness,ANN,B,270.0,270.06033182364837,42
+Hardness,ANN,B,276.0,279.2114084514598,50
+Hardness,ANN,B,282.0,297.15651967514697,59
+Hardness,ANN,B,274.0,287.66405704518525,51
+Hardness,ANN,B,276.0,277.6889614950144,37
+Hardness,ANN,B,276.0,269.1166116577243,62
+Hardness,ANN,B,280.0,284.9986863044507,77
+Hardness,ANN,B,271.0,278.33836457012126,36
+Hardness,ANN,B,279.0,287.3040075095636,69
+Hardness,ANN,B,285.0,281.43023172510766,44
+Hardness,ANN,B,279.0,269.938190306624,41
+Hardness,ANN,B,284.0,293.8450641011434,83
+Hardness,ANN,B,283.0,283.5424170130354,34
+Hardness,ANN,B,277.0,284.9193035247291,87
+Hardness,ANN,B,357.0,348.5082494531241,103
+Hardness,ANN,B,358.0,344.03071687169603,101
+Hardness,ANN,B,358.0,348.7190077063326,92
+Hardness,ANN,B,348.0,338.24525938439297,94
+Hardness,ANN,B,358.0,358.78593427949625,104
+Hardness,ANN,B,367.0,354.4964834399755,107
+Hardness,ANN,B,322.0,322.01234637429536,103
+Hardness,ANN,B,318.0,321.80101807286655,101
+Hardness,ANN,B,323.0,317.4939967165294,92
+Hardness,ANN,B,312.0,301.88221709244266,94
+Hardness,ANN,B,322.0,325.1601212483252,104
+Hardness,ANN,B,328.0,327.8860472220961,107
+Hardness,ANN,B,288.0,291.8679254921652,103
+Hardness,ANN,B,281.0,287.6999291656242,101
+Hardness,ANN,B,287.0,283.9575017286839,92
+Hardness,ANN,B,281.0,267.2489788705634,94
+Hardness,ANN,B,286.0,293.2901466860321,104
+Hardness,ANN,B,290.0,293.15254582436506,107
+Hardness,ANN,C,235.0,240.1130492636623,16
+Hardness,ANN,C,249.0,252.8242633879841,23
+Hardness,ANN,C,239.0,232.52404929530562,14
+Hardness,ANN,C,261.0,248.50828188041402,25
+Hardness,ANN,C,230.0,246.6600038678302,8
+Hardness,ANN,C,262.0,260.1507659357355,40
+Hardness,ANN,C,258.0,235.15421624890618,9
+Hardness,ANN,C,248.0,229.64794133871658,4
+Hardness,ANN,C,251.0,254.98281285009165,32
+Hardness,ANN,C,227.0,245.7097115542038,20
+Hardness,ANN,C,246.0,245.9493120823993,31
+Hardness,ANN,C,234.0,254.0828056452823,2
+Hardness,ANN,C,218.0,224.48728665500525,16
+Hardness,ANN,C,231.0,227.62214175058512,23
+Hardness,ANN,C,218.0,218.58891714220277,14
+Hardness,ANN,C,244.0,216.98659443957735,25
+Hardness,ANN,C,218.0,222.50214708153982,8
+Hardness,ANN,C,244.0,230.8446703052452,40
+Hardness,ANN,C,237.0,221.05173126450364,9
+Hardness,ANN,C,226.0,213.2019321246686,4
+Hardness,ANN,C,230.0,233.6978489439134,32
+Hardness,ANN,C,217.0,226.2323754159314,20
+Hardness,ANN,C,226.0,227.44649999301922,31
+Hardness,ANN,C,217.0,226.8258112571918,2
+Hardness,ANN,C,201.0,207.6941381137643,16
+Hardness,ANN,C,208.0,206.37445465754257,23
+Hardness,ANN,C,203.0,200.63542370717096,14
+Hardness,ANN,C,219.0,194.48854649453608,25
+Hardness,ANN,C,207.0,201.50113114025163,8
+Hardness,ANN,C,221.0,205.93903006232023,40
+Hardness,ANN,C,215.0,210.66882243505506,9
+Hardness,ANN,C,202.0,196.8294442332372,4
+Hardness,ANN,C,212.0,214.7957139876894,32
+Hardness,ANN,C,201.0,206.29350504563473,20
+Hardness,ANN,C,206.0,209.39934164034122,31
+Hardness,ANN,C,195.0,204.47067675731046,2
+Hardness,ANN,C,297.0,277.1792279184118,97
+Hardness,ANN,C,271.0,293.4126843526919,98
+Hardness,ANN,C,289.0,302.54718236570073,95
+Hardness,ANN,C,258.0,277.7798816400847,91
+Hardness,ANN,C,254.0,269.3577974603334,74
+Hardness,ANN,C,298.0,282.2812270719178,105
+Hardness,ANN,C,281.0,289.473538201883,102
+Hardness,ANN,C,278.0,273.0521502945883,85
+Hardness,ANN,C,298.0,287.9073313238194,106
+Hardness,ANN,C,301.0,291.40946527709474,96
+Hardness,ANN,C,255.0,284.1237309595355,78
+Hardness,ANN,C,266.0,252.32671626123073,97
+Hardness,ANN,C,245.0,268.8080489274501,98
+Hardness,ANN,C,260.0,267.8299993518105,95
+Hardness,ANN,C,239.0,248.51964271636723,91
+Hardness,ANN,C,232.0,246.3102242952874,74
+Hardness,ANN,C,269.0,259.5242952533456,105
+Hardness,ANN,C,256.0,261.6386322799091,102
+Hardness,ANN,C,255.0,248.05749930489128,85
+Hardness,ANN,C,272.0,262.222389136626,106
+Hardness,ANN,C,268.0,261.26932928377477,96
+Hardness,ANN,C,237.0,260.95838769846017,78
+Hardness,ANN,C,240.0,230.25216830874703,97
+Hardness,ANN,C,233.0,241.51101605300875,98
+Hardness,ANN,C,237.0,239.38897763627307,95
+Hardness,ANN,C,219.0,227.12254214839555,91
+Hardness,ANN,C,215.0,220.91072110567006,74
+Hardness,ANN,C,237.0,237.4321044594007,105
+Hardness,ANN,C,235.0,238.15638199522476,102
+Hardness,ANN,C,230.0,232.09857728264362,85
+Hardness,ANN,C,245.0,243.26081763635761,106
+Hardness,ANN,C,236.0,234.78051858722876,96
+Hardness,ANN,C,220.0,235.94287164278148,78
+Hardness,ANN,C,309.0,305.26134919977954,114
+Hardness,ANN,C,308.0,306.98827322439763,112
+Hardness,ANN,C,290.0,300.5677112904969,109
+Hardness,ANN,C,317.0,313.9469630715058,116
+Hardness,ANN,C,280.0,289.4876346509865,111
+Hardness,ANN,C,314.0,311.3918269421481,117
+Hardness,ANN,C,306.0,305.07068279992114,110
+Hardness,ANN,C,319.0,323.3632634824807,118
+Hardness,ANN,C,291.0,304.8124794804671,115
+Hardness,ANN,C,307.0,291.88044494651587,108
+Hardness,ANN,C,325.0,310.60022531184615,113
+Hardness,ANN,C,276.0,270.71434491274664,114
+Hardness,ANN,C,275.0,278.5655760473213,112
+Hardness,ANN,C,261.0,268.18575904680256,109
+Hardness,ANN,C,283.0,285.0061890349859,116
+Hardness,ANN,C,259.0,265.5038925917158,111
+Hardness,ANN,C,281.0,280.82143854562423,117
+Hardness,ANN,C,276.0,269.03392710431837,110
+Hardness,ANN,C,282.0,291.04310200303263,118
+Hardness,ANN,C,266.0,276.15447128656774,115
+Hardness,ANN,C,277.0,264.4695703407423,108
+Hardness,ANN,C,285.0,281.0000056929378,113
+Hardness,ANN,C,248.0,240.88953590473656,114
+Hardness,ANN,C,249.0,251.08969892149275,112
+Hardness,ANN,C,235.0,243.22400944543458,109
+Hardness,ANN,C,253.0,255.87430569519597,116
+Hardness,ANN,C,234.0,243.50383061225466,111
+Hardness,ANN,C,249.0,251.88066792863117,117
+Hardness,ANN,C,250.0,245.19937933715477,110
+Hardness,ANN,C,253.0,257.6159288224708,118
+Hardness,ANN,C,242.0,253.7152002913311,115
+Hardness,ANN,C,249.0,238.51950789991957,108
+Hardness,ANN,C,249.0,254.25397599373136,113
+Hardness,ANN,C,328.0,326.9462152961228,86
+Hardness,ANN,C,328.0,339.4382501929432,80
+Hardness,ANN,C,343.0,354.6396998561707,60
+Hardness,ANN,C,320.0,332.1935442085045,73
+Hardness,ANN,C,344.0,343.75575630303854,45
+Hardness,ANN,C,344.0,333.02710314962553,84
+Hardness,ANN,C,345.0,331.94899133823293,79
+Hardness,ANN,C,324.0,337.6612303227105,61
+Hardness,ANN,C,299.0,304.35138077397283,86
+Hardness,ANN,C,297.0,307.7354363253174,80
+Hardness,ANN,C,318.0,328.4750877693898,60
+Hardness,ANN,C,296.0,299.9310769742347,73
+Hardness,ANN,C,305.0,318.39952330240595,45
+Hardness,ANN,C,306.0,304.3311323257586,84
+Hardness,ANN,C,312.0,296.96781338227976,79
+Hardness,ANN,C,300.0,304.954440886317,61
+Hardness,ANN,C,277.0,276.95355073706463,86
+Hardness,ANN,C,272.0,274.0118566038892,80
+Hardness,ANN,C,277.0,287.89580410559637,60
+Hardness,ANN,C,272.0,269.5288833503848,73
+Hardness,ANN,C,279.0,282.38584797675014,45
+Hardness,ANN,C,277.0,277.73891223392167,84
+Hardness,ANN,C,280.0,267.1986718035513,79
+Hardness,ANN,C,277.0,277.21387681574595,61
+Hardness,ANN,C,362.0,354.6008705789227,27
+Hardness,ANN,C,341.0,342.200065430843,22
+Hardness,ANN,C,350.0,354.09312168150035,26
+Hardness,ANN,C,342.0,348.8843790551692,24
+Hardness,ANN,C,352.0,348.7687685906865,12
+Hardness,ANN,C,354.0,356.36688598276766,28
+Hardness,ANN,C,352.0,354.4675821974689,29
+Hardness,ANN,C,348.0,352.73412927947,19
+Hardness,ANN,C,353.0,354.1642762975475,18
+Hardness,ANN,C,347.0,349.8411689516395,10
+Hardness,ANN,C,350.0,338.1701103399233,17
+Hardness,ANN,C,349.0,362.5534702256675,33
+Hardness,ANN,C,377.0,368.5560864205702,38
+Hardness,ANN,C,350.0,352.90077180460804,15
+Hardness,ANN,C,321.0,323.3470101856928,27
+Hardness,ANN,C,309.0,311.575276437252,22
+Hardness,ANN,C,306.0,317.1958352682431,26
+Hardness,ANN,C,309.0,321.54423815659743,24
+Hardness,ANN,C,320.0,316.2950749894552,12
+Hardness,ANN,C,329.0,321.2809968622783,28
+Hardness,ANN,C,317.0,318.71920865006797,29
+Hardness,ANN,C,305.0,319.61302130084675,19
+Hardness,ANN,C,316.0,322.5600649543622,18
+Hardness,ANN,C,315.0,313.9496150355635,10
+Hardness,ANN,C,317.0,309.3476143148656,17
+Hardness,ANN,C,322.0,324.1588101320407,33
+Hardness,ANN,C,339.0,330.89570570529673,38
+Hardness,ANN,C,315.0,315.67160213836416,15
+Hardness,ANN,C,286.0,290.31375135890573,27
+Hardness,ANN,C,277.0,281.94178569847526,22
+Hardness,ANN,C,271.0,281.5332968523075,26
+Hardness,ANN,C,274.0,289.4121684063022,24
+Hardness,ANN,C,288.0,278.0163222422904,12
+Hardness,ANN,C,292.0,278.73991882938446,28
+Hardness,ANN,C,287.0,285.4940308629899,29
+Hardness,ANN,C,275.0,285.96402723082116,19
+Hardness,ANN,C,290.0,283.47189527377736,18
+Hardness,ANN,C,284.0,276.5045328388781,10
+Hardness,ANN,C,290.0,277.5671268908264,17
+Hardness,ANN,C,287.0,287.3303515187395,33
+Hardness,ANN,C,303.0,289.70498399394285,38
+Hardness,ANN,C,287.0,276.6744535199242,15
+Hardness,ANN,C,372.0,370.582549339268,65
+Hardness,ANN,C,375.0,363.1630226892764,46
+Hardness,ANN,C,375.0,376.8337962255556,88
+Hardness,ANN,C,371.0,370.6631404638817,58
+Hardness,ANN,C,380.0,366.0562027275623,66
+Hardness,ANN,C,361.0,366.07211186324867,68
+Hardness,ANN,C,376.0,370.25508273079464,47
+Hardness,ANN,C,360.0,356.0882491855636,30
+Hardness,ANN,C,373.0,371.71585905766136,82
+Hardness,ANN,C,379.0,373.4716926253855,81
+Hardness,ANN,C,354.0,362.29024949008146,57
+Hardness,ANN,C,367.0,369.6260596662528,53
+Hardness,ANN,C,373.0,364.55901413039476,48
+Hardness,ANN,C,371.0,362.7205435777007,52
+Hardness,ANN,C,373.0,373.2596083626301,93
+Hardness,ANN,C,337.0,331.74028618856465,65
+Hardness,ANN,C,336.0,331.72837175788044,46
+Hardness,ANN,C,334.0,343.0004548473054,88
+Hardness,ANN,C,339.0,336.7671404064357,58
+Hardness,ANN,C,348.0,338.4563656824882,66
+Hardness,ANN,C,326.0,334.7298724361748,68
+Hardness,ANN,C,338.0,339.07468794129466,47
+Hardness,ANN,C,324.0,322.4815429869734,30
+Hardness,ANN,C,340.0,337.5964654995197,82
+Hardness,ANN,C,343.0,341.2509130532501,81
+Hardness,ANN,C,324.0,333.6649081923232,57
+Hardness,ANN,C,328.0,338.5237134045195,53
+Hardness,ANN,C,338.0,330.20278338977454,48
+Hardness,ANN,C,335.0,337.5963573293156,52
+Hardness,ANN,C,338.0,340.17707254939603,93
+Hardness,ANN,C,289.0,295.0219665031541,65
+Hardness,ANN,C,301.0,296.12592891003027,46
+Hardness,ANN,C,304.0,298.451839295132,88
+Hardness,ANN,C,294.0,298.46312510584653,58
+Hardness,ANN,C,309.0,302.6561919680508,66
+Hardness,ANN,C,295.0,293.46913628773206,68
+Hardness,ANN,C,290.0,300.38510983273,47
+Hardness,ANN,C,295.0,292.0716597589609,30
+Hardness,ANN,C,298.0,297.2996498982144,82
+Hardness,ANN,C,291.0,301.27177389221305,81
+Hardness,ANN,C,294.0,296.76591190309273,57
+Hardness,ANN,C,302.0,296.97758045676864,53
+Hardness,ANN,C,300.0,292.89164948121663,48
+Hardness,ANN,C,300.0,297.8682071513118,52
+Hardness,ANN,C,307.0,295.83121247933616,93
+Hardness,ANN,C,290.0,281.17837119039143,43
+Hardness,ANN,C,277.0,294.28275401253336,39
+Hardness,ANN,C,300.0,286.7726285639044,54
+Hardness,ANN,C,281.0,291.2548837821757,49
+Hardness,ANN,C,289.0,296.8762027764201,67
+Hardness,ANN,C,258.0,290.5035587741622,35
+Hardness,ANN,C,284.0,286.48804760166183,55
+Hardness,ANN,C,265.0,259.1372701826553,43
+Hardness,ANN,C,255.0,264.0772058232023,39
+Hardness,ANN,C,275.0,262.9310921716409,54
+Hardness,ANN,C,259.0,261.2009460547104,49
+Hardness,ANN,C,263.0,271.5273069639695,67
+Hardness,ANN,C,238.0,264.13867034816843,35
+Hardness,ANN,C,260.0,265.7707693551709,55
+Hardness,ANN,C,239.0,232.36166516492472,43
+Hardness,ANN,C,241.0,238.87125759847987,39
+Hardness,ANN,C,246.0,245.57415099218406,54
+Hardness,ANN,C,229.0,233.78618380486603,49
+Hardness,ANN,C,242.0,245.864371793685,67
+Hardness,ANN,C,227.0,238.9985062309521,35
+Hardness,ANN,C,235.0,247.3470463620147,55
+Hardness,ANN,C,302.0,292.85585835223856,75
+Hardness,ANN,C,311.0,303.66718278624023,90
+Hardness,ANN,C,298.0,293.0019710057529,72
+Hardness,ANN,C,302.0,301.32207017788534,76
+Hardness,ANN,C,317.0,278.11408033570535,71
+Hardness,ANN,C,303.0,309.9501745900456,99
+Hardness,ANN,C,312.0,300.6997319813793,70
+Hardness,ANN,C,300.0,281.280158555899,56
+Hardness,ANN,C,287.0,292.1842850480305,63
+Hardness,ANN,C,321.0,304.95841083938114,100
+Hardness,ANN,C,306.0,291.6696085700794,89
+Hardness,ANN,C,297.0,291.1037766105051,64
+Hardness,ANN,C,265.0,262.6556275819447,75
+Hardness,ANN,C,287.0,283.348078112277,90
+Hardness,ANN,C,272.0,265.88909533873107,72
+Hardness,ANN,C,270.0,279.3900354994805,76
+Hardness,ANN,C,286.0,252.59654402740244,71
+Hardness,ANN,C,277.0,282.91319615631545,99
+Hardness,ANN,C,286.0,282.37534162846623,70
+Hardness,ANN,C,270.0,256.4999516352186,56
+Hardness,ANN,C,260.0,260.0483364113253,63
+Hardness,ANN,C,294.0,279.6500840302655,100
+Hardness,ANN,C,280.0,268.0116371100193,89
+Hardness,ANN,C,273.0,262.67790566912686,64
+Hardness,ANN,C,242.0,241.46797059070897,75
+Hardness,ANN,C,260.0,261.31580563913735,90
+Hardness,ANN,C,242.0,234.9325854143007,72
+Hardness,ANN,C,243.0,250.70216008995652,76
+Hardness,ANN,C,255.0,231.1809561589498,71
+Hardness,ANN,C,250.0,260.9153688256978,99
+Hardness,ANN,C,263.0,260.41544606302364,70
+Hardness,ANN,C,242.0,233.3686555288042,56
+Hardness,ANN,C,237.0,238.18097541994496,63
+Hardness,ANN,C,265.0,253.22536492777107,100
+Hardness,ANN,C,257.0,250.35811215376924,89
+Hardness,ANN,C,241.0,234.63438128193118,64
+Hardness,ANN,C,315.0,327.5558018461489,6
+Hardness,ANN,C,299.0,315.46930186935015,3
+Hardness,ANN,C,319.0,325.9257009653861,5
+Hardness,ANN,C,341.0,327.4738186554922,21
+Hardness,ANN,C,301.0,315.0561446746166,1
+Hardness,ANN,C,319.0,322.0635930888882,11
+Hardness,ANN,C,313.0,324.278095464449,13
+Hardness,ANN,C,312.0,321.61923719901625,0
+Hardness,ANN,C,316.0,309.4978397552013,7
+Hardness,ANN,C,288.0,292.6080785964969,6
+Hardness,ANN,C,279.0,288.4001344334865,3
+Hardness,ANN,C,296.0,302.50974176497465,5
+Hardness,ANN,C,318.0,303.38728213862566,21
+Hardness,ANN,C,282.0,289.3859015637725,1
+Hardness,ANN,C,292.0,293.821397288344,11
+Hardness,ANN,C,291.0,297.84061199203614,13
+Hardness,ANN,C,281.0,295.39830333556876,0
+Hardness,ANN,C,290.0,288.54728626382473,7
+Hardness,ANN,C,267.0,266.30672962402207,6
+Hardness,ANN,C,261.0,267.14062050991816,3
+Hardness,ANN,C,268.0,273.957953572157,5
+Hardness,ANN,C,286.0,280.7551162359486,21
+Hardness,ANN,C,261.0,263.9068383793155,1
+Hardness,ANN,C,267.0,267.0634056064581,11
+Hardness,ANN,C,268.0,273.1630608209314,13
+Hardness,ANN,C,262.0,267.22845906881764,0
+Hardness,ANN,C,264.0,259.9528331354814,7
+Hardness,ANN,C,342.0,330.6734184844706,42
+Hardness,ANN,C,338.0,347.9710208558834,50
+Hardness,ANN,C,359.0,368.48024359063214,59
+Hardness,ANN,C,347.0,345.7044762350312,51
+Hardness,ANN,C,354.0,346.83694047979134,37
+Hardness,ANN,C,340.0,345.9686126332564,62
+Hardness,ANN,C,345.0,344.855338402199,77
+Hardness,ANN,C,347.0,342.94526574432825,36
+Hardness,ANN,C,348.0,357.2010745099541,69
+Hardness,ANN,C,360.0,353.0400774159064,44
+Hardness,ANN,C,348.0,344.5648495872144,41
+Hardness,ANN,C,369.0,363.90607543360835,83
+Hardness,ANN,C,367.0,353.47618361440533,34
+Hardness,ANN,C,345.0,340.8904757212956,87
+Hardness,ANN,C,307.0,295.8172816318504,42
+Hardness,ANN,C,307.0,314.54713489366634,50
+Hardness,ANN,C,328.0,334.77692096836813,59
+Hardness,ANN,C,309.0,319.1708285642435,51
+Hardness,ANN,C,318.0,315.8072751904403,37
+Hardness,ANN,C,310.0,310.1858783273682,62
+Hardness,ANN,C,315.0,307.3203563076206,77
+Hardness,ANN,C,309.0,314.0451258738102,36
+Hardness,ANN,C,316.0,325.89659962675086,69
+Hardness,ANN,C,322.0,318.3780431386921,44
+Hardness,ANN,C,312.0,309.1624460225443,41
+Hardness,ANN,C,337.0,325.15457236335936,83
+Hardness,ANN,C,336.0,318.9732983551766,34
+Hardness,ANN,C,313.0,306.16307404322345,87
+Hardness,ANN,C,270.0,267.0893986478069,42
+Hardness,ANN,C,276.0,278.9152830638371,50
+Hardness,ANN,C,282.0,295.9557632099237,59
+Hardness,ANN,C,274.0,287.78477727068406,51
+Hardness,ANN,C,276.0,278.7095901410961,37
+Hardness,ANN,C,276.0,274.1890522270536,62
+Hardness,ANN,C,280.0,276.484757038868,77
+Hardness,ANN,C,271.0,278.6508880182396,36
+Hardness,ANN,C,279.0,290.3442682213388,69
+Hardness,ANN,C,285.0,283.8162099853608,44
+Hardness,ANN,C,279.0,269.88651661785616,41
+Hardness,ANN,C,284.0,288.97704174094224,83
+Hardness,ANN,C,283.0,280.5499100310725,34
+Hardness,ANN,C,277.0,276.87829620258793,87
+Hardness,ANN,C,357.0,354.00345371004175,103
+Hardness,ANN,C,358.0,343.84593214348905,101
+Hardness,ANN,C,358.0,343.7855855281816,92
+Hardness,ANN,C,348.0,334.81648547838427,94
+Hardness,ANN,C,358.0,356.0692681400048,104
+Hardness,ANN,C,367.0,349.3649805032238,107
+Hardness,ANN,C,322.0,325.9328387461664,103
+Hardness,ANN,C,318.0,318.575100564254,101
+Hardness,ANN,C,323.0,310.18937027725866,92
+Hardness,ANN,C,312.0,302.4559504005483,94
+Hardness,ANN,C,322.0,321.7666472265938,104
+Hardness,ANN,C,328.0,321.9140214958619,107
+Hardness,ANN,C,288.0,290.2141596443801,103
+Hardness,ANN,C,281.0,291.1989497197819,101
+Hardness,ANN,C,287.0,280.07043930453995,92
+Hardness,ANN,C,281.0,272.98386204816455,94
+Hardness,ANN,C,286.0,290.53773071444,104
+Hardness,ANN,C,290.0,288.24918352272266,107
+Hardness,XGBoost,B,235.0,228.85464477539062,16
+Hardness,XGBoost,B,249.0,250.08197021484375,23
+Hardness,XGBoost,B,239.0,238.294677734375,14
+Hardness,XGBoost,B,261.0,256.32244873046875,25
+Hardness,XGBoost,B,230.0,235.73541259765625,8
+Hardness,XGBoost,B,262.0,260.68438720703125,40
+Hardness,XGBoost,B,258.0,248.36317443847656,9
+Hardness,XGBoost,B,248.0,235.12738037109375,4
+Hardness,XGBoost,B,251.0,248.89796447753906,32
+Hardness,XGBoost,B,227.0,238.01829528808594,20
+Hardness,XGBoost,B,246.0,239.9621124267578,31
+Hardness,XGBoost,B,234.0,244.02032470703125,2
+Hardness,XGBoost,B,218.0,216.32701110839844,16
+Hardness,XGBoost,B,231.0,226.4608917236328,23
+Hardness,XGBoost,B,218.0,224.54415893554688,14
+Hardness,XGBoost,B,244.0,236.06346130371094,25
+Hardness,XGBoost,B,218.0,214.46925354003906,8
+Hardness,XGBoost,B,244.0,239.7899627685547,40
+Hardness,XGBoost,B,237.0,228.96295166015625,9
+Hardness,XGBoost,B,226.0,218.52139282226562,4
+Hardness,XGBoost,B,230.0,231.4613037109375,32
+Hardness,XGBoost,B,217.0,212.30477905273438,20
+Hardness,XGBoost,B,226.0,224.16587829589844,31
+Hardness,XGBoost,B,217.0,215.99807739257812,2
+Hardness,XGBoost,B,201.0,207.26611328125,16
+Hardness,XGBoost,B,208.0,213.3453369140625,23
+Hardness,XGBoost,B,203.0,207.8597869873047,14
+Hardness,XGBoost,B,219.0,222.8131561279297,25
+Hardness,XGBoost,B,207.0,204.52682495117188,8
+Hardness,XGBoost,B,221.0,220.8990020751953,40
+Hardness,XGBoost,B,215.0,219.23638916015625,9
+Hardness,XGBoost,B,202.0,204.2163543701172,4
+Hardness,XGBoost,B,212.0,209.96229553222656,32
+Hardness,XGBoost,B,201.0,201.14224243164062,20
+Hardness,XGBoost,B,206.0,210.21694946289062,31
+Hardness,XGBoost,B,195.0,201.7888946533203,2
+Hardness,XGBoost,B,297.0,296.22711181640625,97
+Hardness,XGBoost,B,271.0,281.1167297363281,98
+Hardness,XGBoost,B,289.0,289.872802734375,95
+Hardness,XGBoost,B,258.0,269.21197509765625,91
+Hardness,XGBoost,B,254.0,254.97264099121094,74
+Hardness,XGBoost,B,298.0,297.38494873046875,105
+Hardness,XGBoost,B,281.0,288.5028076171875,102
+Hardness,XGBoost,B,278.0,283.3049621582031,85
+Hardness,XGBoost,B,298.0,300.6128234863281,106
+Hardness,XGBoost,B,301.0,290.1180725097656,96
+Hardness,XGBoost,B,255.0,273.7936706542969,78
+Hardness,XGBoost,B,266.0,265.9445495605469,97
+Hardness,XGBoost,B,245.0,257.37249755859375,98
+Hardness,XGBoost,B,260.0,266.072265625,95
+Hardness,XGBoost,B,239.0,242.0603485107422,91
+Hardness,XGBoost,B,232.0,234.80166625976562,74
+Hardness,XGBoost,B,269.0,268.9595642089844,105
+Hardness,XGBoost,B,256.0,260.90966796875,102
+Hardness,XGBoost,B,255.0,255.19830322265625,85
+Hardness,XGBoost,B,272.0,268.9383850097656,106
+Hardness,XGBoost,B,268.0,260.6206970214844,96
+Hardness,XGBoost,B,237.0,243.54428100585938,78
+Hardness,XGBoost,B,240.0,238.85458374023438,97
+Hardness,XGBoost,B,233.0,223.290283203125,98
+Hardness,XGBoost,B,237.0,232.71446228027344,95
+Hardness,XGBoost,B,219.0,218.8668670654297,91
+Hardness,XGBoost,B,215.0,213.79505920410156,74
+Hardness,XGBoost,B,237.0,243.4027862548828,105
+Hardness,XGBoost,B,235.0,228.58612060546875,102
+Hardness,XGBoost,B,230.0,231.2505340576172,85
+Hardness,XGBoost,B,245.0,239.82406616210938,106
+Hardness,XGBoost,B,236.0,240.5165557861328,96
+Hardness,XGBoost,B,220.0,215.1514434814453,78
+Hardness,XGBoost,B,309.0,295.2002258300781,114
+Hardness,XGBoost,B,308.0,307.87939453125,112
+Hardness,XGBoost,B,290.0,293.7187805175781,109
+Hardness,XGBoost,B,317.0,314.4320983886719,116
+Hardness,XGBoost,B,280.0,288.1116638183594,111
+Hardness,XGBoost,B,314.0,305.0328369140625,117
+Hardness,XGBoost,B,306.0,307.8299865722656,110
+Hardness,XGBoost,B,319.0,311.1300048828125,118
+Hardness,XGBoost,B,291.0,299.82171630859375,115
+Hardness,XGBoost,B,307.0,302.65496826171875,108
+Hardness,XGBoost,B,325.0,313.3157653808594,113
+Hardness,XGBoost,B,276.0,276.6317443847656,114
+Hardness,XGBoost,B,275.0,276.8504333496094,112
+Hardness,XGBoost,B,261.0,266.2427978515625,109
+Hardness,XGBoost,B,283.0,284.1328430175781,116
+Hardness,XGBoost,B,259.0,260.84326171875,111
+Hardness,XGBoost,B,281.0,279.7436218261719,117
+Hardness,XGBoost,B,276.0,276.0023498535156,110
+Hardness,XGBoost,B,282.0,282.98944091796875,118
+Hardness,XGBoost,B,266.0,262.1139221191406,115
+Hardness,XGBoost,B,277.0,273.62188720703125,108
+Hardness,XGBoost,B,285.0,285.8193664550781,113
+Hardness,XGBoost,B,248.0,248.9159698486328,114
+Hardness,XGBoost,B,249.0,247.53961181640625,112
+Hardness,XGBoost,B,235.0,244.2857666015625,109
+Hardness,XGBoost,B,253.0,255.52102661132812,116
+Hardness,XGBoost,B,234.0,234.4724578857422,111
+Hardness,XGBoost,B,249.0,252.7970428466797,117
+Hardness,XGBoost,B,250.0,248.04310607910156,110
+Hardness,XGBoost,B,253.0,253.52203369140625,118
+Hardness,XGBoost,B,242.0,234.6551055908203,115
+Hardness,XGBoost,B,249.0,244.80743408203125,108
+Hardness,XGBoost,B,249.0,251.51513671875,113
+Hardness,XGBoost,B,328.0,337.32916259765625,86
+Hardness,XGBoost,B,328.0,335.02325439453125,80
+Hardness,XGBoost,B,343.0,350.3706359863281,60
+Hardness,XGBoost,B,320.0,331.3297119140625,73
+Hardness,XGBoost,B,344.0,335.8486328125,45
+Hardness,XGBoost,B,344.0,330.9305419921875,84
+Hardness,XGBoost,B,345.0,348.06842041015625,79
+Hardness,XGBoost,B,324.0,338.4684753417969,61
+Hardness,XGBoost,B,299.0,303.03863525390625,86
+Hardness,XGBoost,B,297.0,303.4184265136719,80
+Hardness,XGBoost,B,318.0,311.45465087890625,60
+Hardness,XGBoost,B,296.0,296.05914306640625,73
+Hardness,XGBoost,B,305.0,313.1338806152344,45
+Hardness,XGBoost,B,306.0,306.1634826660156,84
+Hardness,XGBoost,B,312.0,318.0714416503906,79
+Hardness,XGBoost,B,300.0,298.271484375,61
+Hardness,XGBoost,B,277.0,275.00445556640625,86
+Hardness,XGBoost,B,272.0,271.5442810058594,80
+Hardness,XGBoost,B,277.0,281.6300354003906,60
+Hardness,XGBoost,B,272.0,268.756591796875,73
+Hardness,XGBoost,B,279.0,277.6241149902344,45
+Hardness,XGBoost,B,277.0,278.1648864746094,84
+Hardness,XGBoost,B,280.0,286.5841979980469,79
+Hardness,XGBoost,B,277.0,269.7242736816406,61
+Hardness,XGBoost,B,362.0,352.5018615722656,27
+Hardness,XGBoost,B,341.0,343.3835144042969,22
+Hardness,XGBoost,B,350.0,354.53082275390625,26
+Hardness,XGBoost,B,342.0,343.4602355957031,24
+Hardness,XGBoost,B,352.0,349.79949951171875,12
+Hardness,XGBoost,B,354.0,360.69744873046875,28
+Hardness,XGBoost,B,352.0,355.42974853515625,29
+Hardness,XGBoost,B,348.0,348.41961669921875,19
+Hardness,XGBoost,B,353.0,352.7513122558594,18
+Hardness,XGBoost,B,347.0,350.3207092285156,10
+Hardness,XGBoost,B,350.0,349.9837341308594,17
+Hardness,XGBoost,B,349.0,361.7980651855469,33
+Hardness,XGBoost,B,377.0,371.64654541015625,38
+Hardness,XGBoost,B,350.0,343.13623046875,15
+Hardness,XGBoost,B,321.0,322.8417053222656,27
+Hardness,XGBoost,B,309.0,309.8571472167969,22
+Hardness,XGBoost,B,306.0,316.90789794921875,26
+Hardness,XGBoost,B,309.0,312.0559387207031,24
+Hardness,XGBoost,B,320.0,318.7820129394531,12
+Hardness,XGBoost,B,329.0,323.0999755859375,28
+Hardness,XGBoost,B,317.0,322.1140441894531,29
+Hardness,XGBoost,B,305.0,313.92181396484375,19
+Hardness,XGBoost,B,316.0,319.6572570800781,18
+Hardness,XGBoost,B,315.0,315.0978088378906,10
+Hardness,XGBoost,B,317.0,318.88385009765625,17
+Hardness,XGBoost,B,322.0,320.31280517578125,33
+Hardness,XGBoost,B,339.0,338.3005065917969,38
+Hardness,XGBoost,B,315.0,316.092529296875,15
+Hardness,XGBoost,B,286.0,288.2515563964844,27
+Hardness,XGBoost,B,277.0,280.3377380371094,22
+Hardness,XGBoost,B,271.0,284.87200927734375,26
+Hardness,XGBoost,B,274.0,278.54833984375,24
+Hardness,XGBoost,B,288.0,286.2855529785156,12
+Hardness,XGBoost,B,292.0,290.9270935058594,28
+Hardness,XGBoost,B,287.0,282.5627746582031,29
+Hardness,XGBoost,B,275.0,277.0099182128906,19
+Hardness,XGBoost,B,290.0,289.4387512207031,18
+Hardness,XGBoost,B,284.0,282.4776306152344,10
+Hardness,XGBoost,B,290.0,290.9246520996094,17
+Hardness,XGBoost,B,287.0,286.6914367675781,33
+Hardness,XGBoost,B,303.0,303.6356506347656,38
+Hardness,XGBoost,B,287.0,281.7786865234375,15
+Hardness,XGBoost,B,372.0,359.7097473144531,65
+Hardness,XGBoost,B,375.0,366.6039733886719,46
+Hardness,XGBoost,B,375.0,368.28070068359375,88
+Hardness,XGBoost,B,371.0,373.1222839355469,58
+Hardness,XGBoost,B,380.0,378.9228820800781,66
+Hardness,XGBoost,B,361.0,356.5387878417969,68
+Hardness,XGBoost,B,376.0,360.399658203125,47
+Hardness,XGBoost,B,360.0,358.8522644042969,30
+Hardness,XGBoost,B,373.0,373.19610595703125,82
+Hardness,XGBoost,B,379.0,374.4970397949219,81
+Hardness,XGBoost,B,354.0,366.63348388671875,57
+Hardness,XGBoost,B,367.0,360.3365173339844,53
+Hardness,XGBoost,B,373.0,367.5557556152344,48
+Hardness,XGBoost,B,371.0,368.35296630859375,52
+Hardness,XGBoost,B,373.0,377.2287292480469,93
+Hardness,XGBoost,B,337.0,323.7145080566406,65
+Hardness,XGBoost,B,336.0,343.2666320800781,46
+Hardness,XGBoost,B,334.0,337.1452331542969,88
+Hardness,XGBoost,B,339.0,331.6803894042969,58
+Hardness,XGBoost,B,348.0,342.9613342285156,66
+Hardness,XGBoost,B,326.0,324.9930725097656,68
+Hardness,XGBoost,B,338.0,324.9726867675781,47
+Hardness,XGBoost,B,324.0,325.88104248046875,30
+Hardness,XGBoost,B,340.0,333.4396057128906,82
+Hardness,XGBoost,B,343.0,334.3586730957031,81
+Hardness,XGBoost,B,324.0,323.3808288574219,57
+Hardness,XGBoost,B,328.0,332.860595703125,53
+Hardness,XGBoost,B,338.0,334.79833984375,48
+Hardness,XGBoost,B,335.0,336.27728271484375,52
+Hardness,XGBoost,B,338.0,339.1872253417969,93
+Hardness,XGBoost,B,289.0,301.86895751953125,65
+Hardness,XGBoost,B,301.0,302.78887939453125,46
+Hardness,XGBoost,B,304.0,302.2886047363281,88
+Hardness,XGBoost,B,294.0,299.93280029296875,58
+Hardness,XGBoost,B,309.0,308.10357666015625,66
+Hardness,XGBoost,B,295.0,289.182861328125,68
+Hardness,XGBoost,B,290.0,303.86273193359375,47
+Hardness,XGBoost,B,295.0,290.9342346191406,30
+Hardness,XGBoost,B,298.0,302.0203857421875,82
+Hardness,XGBoost,B,291.0,306.24407958984375,81
+Hardness,XGBoost,B,294.0,282.7568359375,57
+Hardness,XGBoost,B,302.0,294.1977233886719,53
+Hardness,XGBoost,B,300.0,297.5122985839844,48
+Hardness,XGBoost,B,300.0,295.8625793457031,52
+Hardness,XGBoost,B,307.0,302.17535400390625,93
+Hardness,XGBoost,B,290.0,295.7448425292969,43
+Hardness,XGBoost,B,277.0,286.5301208496094,39
+Hardness,XGBoost,B,300.0,300.5509033203125,54
+Hardness,XGBoost,B,281.0,285.5244140625,49
+Hardness,XGBoost,B,289.0,294.84503173828125,67
+Hardness,XGBoost,B,258.0,271.2096862792969,35
+Hardness,XGBoost,B,284.0,282.90228271484375,55
+Hardness,XGBoost,B,265.0,263.7763671875,43
+Hardness,XGBoost,B,255.0,255.19305419921875,39
+Hardness,XGBoost,B,275.0,274.7260437011719,54
+Hardness,XGBoost,B,259.0,257.39044189453125,49
+Hardness,XGBoost,B,263.0,263.4672546386719,67
+Hardness,XGBoost,B,238.0,247.00308227539062,35
+Hardness,XGBoost,B,260.0,262.50213623046875,55
+Hardness,XGBoost,B,239.0,235.94134521484375,43
+Hardness,XGBoost,B,241.0,233.1531982421875,39
+Hardness,XGBoost,B,246.0,250.22796630859375,54
+Hardness,XGBoost,B,229.0,235.4089813232422,49
+Hardness,XGBoost,B,242.0,243.203369140625,67
+Hardness,XGBoost,B,227.0,229.0266571044922,35
+Hardness,XGBoost,B,235.0,239.99722290039062,55
+Hardness,XGBoost,B,302.0,294.47357177734375,75
+Hardness,XGBoost,B,311.0,312.81201171875,90
+Hardness,XGBoost,B,298.0,295.6732482910156,72
+Hardness,XGBoost,B,302.0,297.0928649902344,76
+Hardness,XGBoost,B,317.0,308.7745666503906,71
+Hardness,XGBoost,B,303.0,295.60406494140625,99
+Hardness,XGBoost,B,312.0,310.1650390625,70
+Hardness,XGBoost,B,300.0,286.7202453613281,56
+Hardness,XGBoost,B,287.0,287.6695861816406,63
+Hardness,XGBoost,B,321.0,320.2635498046875,100
+Hardness,XGBoost,B,306.0,305.13043212890625,89
+Hardness,XGBoost,B,297.0,296.5852355957031,64
+Hardness,XGBoost,B,265.0,270.4516906738281,75
+Hardness,XGBoost,B,287.0,286.0556945800781,90
+Hardness,XGBoost,B,272.0,267.9122009277344,72
+Hardness,XGBoost,B,270.0,274.76568603515625,76
+Hardness,XGBoost,B,286.0,283.63360595703125,71
+Hardness,XGBoost,B,277.0,271.5595397949219,99
+Hardness,XGBoost,B,286.0,289.00799560546875,70
+Hardness,XGBoost,B,270.0,268.839599609375,56
+Hardness,XGBoost,B,260.0,260.9877624511719,63
+Hardness,XGBoost,B,294.0,292.5716247558594,100
+Hardness,XGBoost,B,280.0,281.2113952636719,89
+Hardness,XGBoost,B,273.0,267.6104431152344,64
+Hardness,XGBoost,B,242.0,248.4606170654297,75
+Hardness,XGBoost,B,260.0,262.53765869140625,90
+Hardness,XGBoost,B,242.0,246.47134399414062,72
+Hardness,XGBoost,B,243.0,247.8961639404297,76
+Hardness,XGBoost,B,255.0,255.85986328125,71
+Hardness,XGBoost,B,250.0,245.7296142578125,99
+Hardness,XGBoost,B,263.0,259.45880126953125,70
+Hardness,XGBoost,B,242.0,250.36280822753906,56
+Hardness,XGBoost,B,237.0,238.376220703125,63
+Hardness,XGBoost,B,265.0,262.84661865234375,100
+Hardness,XGBoost,B,257.0,252.107421875,89
+Hardness,XGBoost,B,241.0,240.061767578125,64
+Hardness,XGBoost,B,315.0,312.0084533691406,6
+Hardness,XGBoost,B,299.0,299.2406311035156,3
+Hardness,XGBoost,B,319.0,316.40093994140625,5
+Hardness,XGBoost,B,341.0,337.4948425292969,21
+Hardness,XGBoost,B,301.0,305.13665771484375,1
+Hardness,XGBoost,B,319.0,316.239501953125,11
+Hardness,XGBoost,B,313.0,320.17047119140625,13
+Hardness,XGBoost,B,312.0,308.7098388671875,0
+Hardness,XGBoost,B,316.0,312.5064697265625,7
+Hardness,XGBoost,B,288.0,291.69244384765625,6
+Hardness,XGBoost,B,279.0,278.8870849609375,3
+Hardness,XGBoost,B,296.0,294.9017333984375,5
+Hardness,XGBoost,B,318.0,311.6596374511719,21
+Hardness,XGBoost,B,282.0,285.9122009277344,1
+Hardness,XGBoost,B,292.0,292.181884765625,11
+Hardness,XGBoost,B,291.0,290.7610778808594,13
+Hardness,XGBoost,B,281.0,289.74102783203125,0
+Hardness,XGBoost,B,290.0,289.88427734375,7
+Hardness,XGBoost,B,267.0,261.802490234375,6
+Hardness,XGBoost,B,261.0,258.710693359375,3
+Hardness,XGBoost,B,268.0,269.97064208984375,5
+Hardness,XGBoost,B,286.0,290.4831848144531,21
+Hardness,XGBoost,B,261.0,256.7878112792969,1
+Hardness,XGBoost,B,267.0,268.04296875,11
+Hardness,XGBoost,B,268.0,266.8566589355469,13
+Hardness,XGBoost,B,262.0,257.9361877441406,0
+Hardness,XGBoost,B,264.0,264.7496032714844,7
+Hardness,XGBoost,B,342.0,338.10565185546875,42
+Hardness,XGBoost,B,338.0,349.480224609375,50
+Hardness,XGBoost,B,359.0,355.6827392578125,59
+Hardness,XGBoost,B,347.0,341.8314514160156,51
+Hardness,XGBoost,B,354.0,349.9598083496094,37
+Hardness,XGBoost,B,340.0,342.27569580078125,62
+Hardness,XGBoost,B,345.0,350.1024475097656,77
+Hardness,XGBoost,B,347.0,341.22943115234375,36
+Hardness,XGBoost,B,348.0,354.2687072753906,69
+Hardness,XGBoost,B,360.0,356.53729248046875,44
+Hardness,XGBoost,B,348.0,346.5100402832031,41
+Hardness,XGBoost,B,369.0,369.8795166015625,83
+Hardness,XGBoost,B,367.0,363.64044189453125,34
+Hardness,XGBoost,B,345.0,343.1016845703125,87
+Hardness,XGBoost,B,307.0,309.9945068359375,42
+Hardness,XGBoost,B,307.0,318.32379150390625,50
+Hardness,XGBoost,B,328.0,327.2193908691406,59
+Hardness,XGBoost,B,309.0,315.56732177734375,51
+Hardness,XGBoost,B,318.0,315.3744201660156,37
+Hardness,XGBoost,B,310.0,310.32525634765625,62
+Hardness,XGBoost,B,315.0,312.7401428222656,77
+Hardness,XGBoost,B,309.0,308.893798828125,36
+Hardness,XGBoost,B,316.0,314.7952575683594,69
+Hardness,XGBoost,B,322.0,327.0564880371094,44
+Hardness,XGBoost,B,312.0,312.881591796875,41
+Hardness,XGBoost,B,337.0,330.32025146484375,83
+Hardness,XGBoost,B,336.0,326.4593200683594,34
+Hardness,XGBoost,B,313.0,315.7673034667969,87
+Hardness,XGBoost,B,270.0,271.2173767089844,42
+Hardness,XGBoost,B,276.0,273.4776306152344,50
+Hardness,XGBoost,B,282.0,283.4521484375,59
+Hardness,XGBoost,B,274.0,275.15740966796875,51
+Hardness,XGBoost,B,276.0,280.16339111328125,37
+Hardness,XGBoost,B,276.0,277.44677734375,62
+Hardness,XGBoost,B,280.0,279.58447265625,77
+Hardness,XGBoost,B,271.0,275.5896911621094,36
+Hardness,XGBoost,B,279.0,275.4905090332031,69
+Hardness,XGBoost,B,285.0,284.0743408203125,44
+Hardness,XGBoost,B,279.0,276.5990905761719,41
+Hardness,XGBoost,B,284.0,291.8408508300781,83
+Hardness,XGBoost,B,283.0,291.5210266113281,34
+Hardness,XGBoost,B,277.0,281.45098876953125,87
+Hardness,XGBoost,B,357.0,354.2344055175781,103
+Hardness,XGBoost,B,358.0,343.3092956542969,101
+Hardness,XGBoost,B,358.0,353.5340881347656,92
+Hardness,XGBoost,B,348.0,345.9797668457031,94
+Hardness,XGBoost,B,358.0,350.160888671875,104
+Hardness,XGBoost,B,367.0,358.5552978515625,107
+Hardness,XGBoost,B,322.0,322.8069152832031,103
+Hardness,XGBoost,B,318.0,320.4341735839844,101
+Hardness,XGBoost,B,323.0,317.3779602050781,92
+Hardness,XGBoost,B,312.0,309.5453186035156,94
+Hardness,XGBoost,B,322.0,318.93414306640625,104
+Hardness,XGBoost,B,328.0,325.5583801269531,107
+Hardness,XGBoost,B,288.0,286.8331298828125,103
+Hardness,XGBoost,B,281.0,281.0153503417969,101
+Hardness,XGBoost,B,287.0,289.4997253417969,92
+Hardness,XGBoost,B,281.0,275.0882568359375,94
+Hardness,XGBoost,B,286.0,285.94329833984375,104
+Hardness,XGBoost,B,290.0,288.9188537597656,107
+Hardness,XGBoost,C,235.0,232.34030151367188,16
+Hardness,XGBoost,C,249.0,248.9903564453125,23
+Hardness,XGBoost,C,239.0,231.5898895263672,14
+Hardness,XGBoost,C,261.0,260.6331481933594,25
+Hardness,XGBoost,C,230.0,250.67333984375,8
+Hardness,XGBoost,C,262.0,262.49896240234375,40
+Hardness,XGBoost,C,258.0,238.4134979248047,9
+Hardness,XGBoost,C,248.0,236.45489501953125,4
+Hardness,XGBoost,C,251.0,251.2183837890625,32
+Hardness,XGBoost,C,227.0,241.48606872558594,20
+Hardness,XGBoost,C,246.0,243.34059143066406,31
+Hardness,XGBoost,C,234.0,262.26275634765625,2
+Hardness,XGBoost,C,218.0,217.0014190673828,16
+Hardness,XGBoost,C,231.0,230.4980010986328,23
+Hardness,XGBoost,C,218.0,215.06288146972656,14
+Hardness,XGBoost,C,244.0,235.354736328125,25
+Hardness,XGBoost,C,218.0,232.3395233154297,8
+Hardness,XGBoost,C,244.0,240.3135986328125,40
+Hardness,XGBoost,C,237.0,218.55841064453125,9
+Hardness,XGBoost,C,226.0,218.04100036621094,4
+Hardness,XGBoost,C,230.0,233.56166076660156,32
+Hardness,XGBoost,C,217.0,222.59359741210938,20
+Hardness,XGBoost,C,226.0,223.69192504882812,31
+Hardness,XGBoost,C,217.0,237.97439575195312,2
+Hardness,XGBoost,C,201.0,200.7804718017578,16
+Hardness,XGBoost,C,208.0,212.12791442871094,23
+Hardness,XGBoost,C,203.0,202.25653076171875,14
+Hardness,XGBoost,C,219.0,213.5885772705078,25
+Hardness,XGBoost,C,207.0,211.1511688232422,8
+Hardness,XGBoost,C,221.0,215.26759338378906,40
+Hardness,XGBoost,C,215.0,206.5305938720703,9
+Hardness,XGBoost,C,202.0,204.42401123046875,4
+Hardness,XGBoost,C,212.0,213.01051330566406,32
+Hardness,XGBoost,C,201.0,204.90277099609375,20
+Hardness,XGBoost,C,206.0,205.9100799560547,31
+Hardness,XGBoost,C,195.0,217.69606018066406,2
+Hardness,XGBoost,C,297.0,297.30560302734375,97
+Hardness,XGBoost,C,271.0,301.24749755859375,98
+Hardness,XGBoost,C,289.0,288.7901611328125,95
+Hardness,XGBoost,C,258.0,274.28607177734375,91
+Hardness,XGBoost,C,254.0,261.491455078125,74
+Hardness,XGBoost,C,298.0,298.24383544921875,105
+Hardness,XGBoost,C,281.0,296.714599609375,102
+Hardness,XGBoost,C,278.0,281.3983154296875,85
+Hardness,XGBoost,C,298.0,289.0147705078125,106
+Hardness,XGBoost,C,301.0,278.6299133300781,96
+Hardness,XGBoost,C,255.0,286.35150146484375,78
+Hardness,XGBoost,C,266.0,267.5646667480469,97
+Hardness,XGBoost,C,245.0,272.3149719238281,98
+Hardness,XGBoost,C,260.0,258.725341796875,95
+Hardness,XGBoost,C,239.0,249.2767333984375,91
+Hardness,XGBoost,C,232.0,242.0579071044922,74
+Hardness,XGBoost,C,269.0,268.8036193847656,105
+Hardness,XGBoost,C,256.0,264.9474182128906,102
+Hardness,XGBoost,C,255.0,253.54713439941406,85
+Hardness,XGBoost,C,272.0,260.9683837890625,106
+Hardness,XGBoost,C,268.0,251.7785186767578,96
+Hardness,XGBoost,C,237.0,259.70849609375,78
+Hardness,XGBoost,C,240.0,242.49758911132812,97
+Hardness,XGBoost,C,233.0,243.97964477539062,98
+Hardness,XGBoost,C,237.0,231.31239318847656,95
+Hardness,XGBoost,C,219.0,225.56393432617188,91
+Hardness,XGBoost,C,215.0,219.12220764160156,74
+Hardness,XGBoost,C,237.0,244.1219024658203,105
+Hardness,XGBoost,C,235.0,235.3693084716797,102
+Hardness,XGBoost,C,230.0,230.1767120361328,85
+Hardness,XGBoost,C,245.0,238.3851318359375,106
+Hardness,XGBoost,C,236.0,225.1100616455078,96
+Hardness,XGBoost,C,220.0,233.3875732421875,78
+Hardness,XGBoost,C,309.0,291.1072692871094,114
+Hardness,XGBoost,C,308.0,307.6410217285156,112
+Hardness,XGBoost,C,290.0,303.3206481933594,109
+Hardness,XGBoost,C,317.0,302.7204284667969,116
+Hardness,XGBoost,C,280.0,296.2652893066406,111
+Hardness,XGBoost,C,314.0,307.27679443359375,117
+Hardness,XGBoost,C,306.0,311.0135803222656,110
+Hardness,XGBoost,C,319.0,306.1995544433594,118
+Hardness,XGBoost,C,291.0,303.7137145996094,115
+Hardness,XGBoost,C,307.0,295.9889831542969,108
+Hardness,XGBoost,C,325.0,303.4194641113281,113
+Hardness,XGBoost,C,276.0,265.0469055175781,114
+Hardness,XGBoost,C,275.0,276.83514404296875,112
+Hardness,XGBoost,C,261.0,272.2932434082031,109
+Hardness,XGBoost,C,283.0,276.96612548828125,116
+Hardness,XGBoost,C,259.0,268.64208984375,111
+Hardness,XGBoost,C,281.0,278.04351806640625,117
+Hardness,XGBoost,C,276.0,276.1846923828125,110
+Hardness,XGBoost,C,282.0,277.7207946777344,118
+Hardness,XGBoost,C,266.0,273.16265869140625,115
+Hardness,XGBoost,C,277.0,267.2308044433594,108
+Hardness,XGBoost,C,285.0,272.85125732421875,113
+Hardness,XGBoost,C,248.0,240.9390106201172,114
+Hardness,XGBoost,C,249.0,248.55352783203125,112
+Hardness,XGBoost,C,235.0,245.1196746826172,109
+Hardness,XGBoost,C,253.0,249.3811492919922,116
+Hardness,XGBoost,C,234.0,241.8310546875,111
+Hardness,XGBoost,C,249.0,252.91168212890625,117
+Hardness,XGBoost,C,250.0,250.084716796875,110
+Hardness,XGBoost,C,253.0,249.9525909423828,118
+Hardness,XGBoost,C,242.0,244.2930908203125,115
+Hardness,XGBoost,C,249.0,236.80706787109375,108
+Hardness,XGBoost,C,249.0,243.24269104003906,113
+Hardness,XGBoost,C,328.0,352.15826416015625,86
+Hardness,XGBoost,C,328.0,340.33660888671875,80
+Hardness,XGBoost,C,343.0,346.4010009765625,60
+Hardness,XGBoost,C,320.0,341.3092041015625,73
+Hardness,XGBoost,C,344.0,347.0188903808594,45
+Hardness,XGBoost,C,344.0,329.7896423339844,84
+Hardness,XGBoost,C,345.0,348.8335876464844,79
+Hardness,XGBoost,C,324.0,347.105712890625,61
+Hardness,XGBoost,C,299.0,318.8678283691406,86
+Hardness,XGBoost,C,297.0,306.396240234375,80
+Hardness,XGBoost,C,318.0,313.29248046875,60
+Hardness,XGBoost,C,296.0,305.4136657714844,73
+Hardness,XGBoost,C,305.0,312.7286376953125,45
+Hardness,XGBoost,C,306.0,299.11968994140625,84
+Hardness,XGBoost,C,312.0,315.1875305175781,79
+Hardness,XGBoost,C,300.0,313.4669494628906,61
+Hardness,XGBoost,C,277.0,289.9080505371094,86
+Hardness,XGBoost,C,272.0,279.9549560546875,80
+Hardness,XGBoost,C,277.0,283.75732421875,60
+Hardness,XGBoost,C,272.0,276.2349548339844,73
+Hardness,XGBoost,C,279.0,285.52862548828125,45
+Hardness,XGBoost,C,277.0,273.71575927734375,84
+Hardness,XGBoost,C,280.0,283.4967346191406,79
+Hardness,XGBoost,C,277.0,281.3360595703125,61
+Hardness,XGBoost,C,362.0,352.8865966796875,27
+Hardness,XGBoost,C,341.0,351.14739990234375,22
+Hardness,XGBoost,C,350.0,349.30963134765625,26
+Hardness,XGBoost,C,342.0,358.9393615722656,24
+Hardness,XGBoost,C,352.0,344.8208923339844,12
+Hardness,XGBoost,C,354.0,348.2553405761719,28
+Hardness,XGBoost,C,352.0,355.3211364746094,29
+Hardness,XGBoost,C,348.0,364.4206848144531,19
+Hardness,XGBoost,C,353.0,348.319091796875,18
+Hardness,XGBoost,C,347.0,347.7817077636719,10
+Hardness,XGBoost,C,350.0,337.8375244140625,17
+Hardness,XGBoost,C,349.0,370.2771301269531,33
+Hardness,XGBoost,C,377.0,370.4560241699219,38
+Hardness,XGBoost,C,350.0,352.7919006347656,15
+Hardness,XGBoost,C,321.0,317.6313781738281,27
+Hardness,XGBoost,C,309.0,314.90655517578125,22
+Hardness,XGBoost,C,306.0,315.72625732421875,26
+Hardness,XGBoost,C,309.0,325.11724853515625,24
+Hardness,XGBoost,C,320.0,313.845703125,12
+Hardness,XGBoost,C,329.0,317.0168151855469,28
+Hardness,XGBoost,C,317.0,321.559326171875,29
+Hardness,XGBoost,C,305.0,328.3806457519531,19
+Hardness,XGBoost,C,316.0,311.1669921875,18
+Hardness,XGBoost,C,315.0,316.4957275390625,10
+Hardness,XGBoost,C,317.0,310.29296875,17
+Hardness,XGBoost,C,322.0,333.68145751953125,33
+Hardness,XGBoost,C,339.0,333.18255615234375,38
+Hardness,XGBoost,C,315.0,320.09368896484375,15
+Hardness,XGBoost,C,286.0,283.1075439453125,27
+Hardness,XGBoost,C,277.0,285.5304870605469,22
+Hardness,XGBoost,C,271.0,285.0004577636719,26
+Hardness,XGBoost,C,274.0,292.60894775390625,24
+Hardness,XGBoost,C,288.0,282.5460510253906,12
+Hardness,XGBoost,C,292.0,282.4863586425781,28
+Hardness,XGBoost,C,287.0,291.1018371582031,29
+Hardness,XGBoost,C,275.0,293.7863464355469,19
+Hardness,XGBoost,C,290.0,279.9892272949219,18
+Hardness,XGBoost,C,284.0,280.9811706542969,10
+Hardness,XGBoost,C,290.0,285.4109191894531,17
+Hardness,XGBoost,C,287.0,292.0724182128906,33
+Hardness,XGBoost,C,303.0,289.8109130859375,38
+Hardness,XGBoost,C,287.0,285.84686279296875,15
+Hardness,XGBoost,C,372.0,361.9442443847656,65
+Hardness,XGBoost,C,375.0,356.2269592285156,46
+Hardness,XGBoost,C,375.0,358.2207336425781,88
+Hardness,XGBoost,C,371.0,369.1868591308594,58
+Hardness,XGBoost,C,380.0,363.18646240234375,66
+Hardness,XGBoost,C,361.0,353.6746520996094,68
+Hardness,XGBoost,C,376.0,368.3007507324219,47
+Hardness,XGBoost,C,360.0,358.0308837890625,30
+Hardness,XGBoost,C,373.0,361.87213134765625,82
+Hardness,XGBoost,C,379.0,361.4228515625,81
+Hardness,XGBoost,C,354.0,364.85272216796875,57
+Hardness,XGBoost,C,367.0,364.0867004394531,53
+Hardness,XGBoost,C,373.0,347.98150634765625,48
+Hardness,XGBoost,C,371.0,366.56939697265625,52
+Hardness,XGBoost,C,373.0,365.5550537109375,93
+Hardness,XGBoost,C,337.0,328.0924072265625,65
+Hardness,XGBoost,C,336.0,322.4737854003906,46
+Hardness,XGBoost,C,334.0,322.6043395996094,88
+Hardness,XGBoost,C,339.0,333.1546936035156,58
+Hardness,XGBoost,C,348.0,328.25811767578125,66
+Hardness,XGBoost,C,326.0,319.25189208984375,68
+Hardness,XGBoost,C,338.0,329.6948547363281,47
+Hardness,XGBoost,C,324.0,323.751953125,30
+Hardness,XGBoost,C,340.0,326.0931396484375,82
+Hardness,XGBoost,C,343.0,326.543701171875,81
+Hardness,XGBoost,C,324.0,329.43975830078125,57
+Hardness,XGBoost,C,328.0,327.5812072753906,53
+Hardness,XGBoost,C,338.0,316.52587890625,48
+Hardness,XGBoost,C,335.0,333.3138732910156,52
+Hardness,XGBoost,C,338.0,329.6546325683594,93
+Hardness,XGBoost,C,289.0,292.79693603515625,65
+Hardness,XGBoost,C,301.0,289.0555419921875,46
+Hardness,XGBoost,C,304.0,285.2969055175781,88
+Hardness,XGBoost,C,294.0,290.327392578125,58
+Hardness,XGBoost,C,309.0,294.7081604003906,66
+Hardness,XGBoost,C,295.0,284.3221740722656,68
+Hardness,XGBoost,C,290.0,290.5690002441406,47
+Hardness,XGBoost,C,295.0,290.793212890625,30
+Hardness,XGBoost,C,298.0,290.7845764160156,82
+Hardness,XGBoost,C,291.0,292.94464111328125,81
+Hardness,XGBoost,C,294.0,289.778076171875,57
+Hardness,XGBoost,C,302.0,292.1198425292969,53
+Hardness,XGBoost,C,300.0,284.2322082519531,48
+Hardness,XGBoost,C,300.0,295.46331787109375,52
+Hardness,XGBoost,C,307.0,287.46343994140625,93
+Hardness,XGBoost,C,290.0,289.36358642578125,43
+Hardness,XGBoost,C,277.0,277.7409362792969,39
+Hardness,XGBoost,C,300.0,301.56182861328125,54
+Hardness,XGBoost,C,281.0,287.46514892578125,49
+Hardness,XGBoost,C,289.0,300.6063537597656,67
+Hardness,XGBoost,C,258.0,289.1634216308594,35
+Hardness,XGBoost,C,284.0,282.55804443359375,55
+Hardness,XGBoost,C,265.0,263.70416259765625,43
+Hardness,XGBoost,C,255.0,250.9298858642578,39
+Hardness,XGBoost,C,275.0,274.4287109375,54
+Hardness,XGBoost,C,259.0,261.35736083984375,49
+Hardness,XGBoost,C,263.0,270.04522705078125,67
+Hardness,XGBoost,C,238.0,265.0149230957031,35
+Hardness,XGBoost,C,260.0,261.1601867675781,55
+Hardness,XGBoost,C,239.0,236.9740447998047,43
+Hardness,XGBoost,C,241.0,229.58351135253906,39
+Hardness,XGBoost,C,246.0,246.97032165527344,54
+Hardness,XGBoost,C,229.0,236.40872192382812,49
+Hardness,XGBoost,C,242.0,244.52378845214844,67
+Hardness,XGBoost,C,227.0,240.25164794921875,35
+Hardness,XGBoost,C,235.0,237.9347686767578,55
+Hardness,XGBoost,C,302.0,292.6177062988281,75
+Hardness,XGBoost,C,311.0,311.7707824707031,90
+Hardness,XGBoost,C,298.0,287.4722595214844,72
+Hardness,XGBoost,C,302.0,295.94805908203125,76
+Hardness,XGBoost,C,317.0,285.4608154296875,71
+Hardness,XGBoost,C,303.0,290.239501953125,99
+Hardness,XGBoost,C,312.0,305.8871154785156,70
+Hardness,XGBoost,C,300.0,267.1278076171875,56
+Hardness,XGBoost,C,287.0,287.7638244628906,63
+Hardness,XGBoost,C,321.0,319.7376708984375,100
+Hardness,XGBoost,C,306.0,298.8256530761719,89
+Hardness,XGBoost,C,297.0,293.9512634277344,64
+Hardness,XGBoost,C,265.0,267.0841064453125,75
+Hardness,XGBoost,C,287.0,282.96795654296875,90
+Hardness,XGBoost,C,272.0,260.92095947265625,72
+Hardness,XGBoost,C,270.0,270.9557189941406,76
+Hardness,XGBoost,C,286.0,259.9820556640625,71
+Hardness,XGBoost,C,277.0,266.27996826171875,99
+Hardness,XGBoost,C,286.0,276.6333923339844,70
+Hardness,XGBoost,C,270.0,249.64881896972656,56
+Hardness,XGBoost,C,260.0,258.7749938964844,63
+Hardness,XGBoost,C,294.0,288.1877136230469,100
+Hardness,XGBoost,C,280.0,270.1463317871094,89
+Hardness,XGBoost,C,273.0,265.3150634765625,64
+Hardness,XGBoost,C,242.0,241.8397979736328,75
+Hardness,XGBoost,C,260.0,255.24237060546875,90
+Hardness,XGBoost,C,242.0,237.38632202148438,72
+Hardness,XGBoost,C,243.0,244.25372314453125,76
+Hardness,XGBoost,C,255.0,237.0605010986328,71
+Hardness,XGBoost,C,250.0,242.33566284179688,99
+Hardness,XGBoost,C,263.0,249.58546447753906,70
+Hardness,XGBoost,C,242.0,232.04698181152344,56
+Hardness,XGBoost,C,237.0,235.0503692626953,63
+Hardness,XGBoost,C,265.0,257.4247741699219,100
+Hardness,XGBoost,C,257.0,243.3824920654297,89
+Hardness,XGBoost,C,241.0,238.5192413330078,64
+Hardness,XGBoost,C,315.0,315.7843017578125,6
+Hardness,XGBoost,C,299.0,309.3941650390625,3
+Hardness,XGBoost,C,319.0,321.2635803222656,5
+Hardness,XGBoost,C,341.0,319.3623352050781,21
+Hardness,XGBoost,C,301.0,298.32415771484375,1
+Hardness,XGBoost,C,319.0,316.7869567871094,11
+Hardness,XGBoost,C,313.0,340.8113098144531,13
+Hardness,XGBoost,C,312.0,319.5301208496094,0
+Hardness,XGBoost,C,316.0,309.8977966308594,7
+Hardness,XGBoost,C,288.0,295.16888427734375,6
+Hardness,XGBoost,C,279.0,284.9227294921875,3
+Hardness,XGBoost,C,296.0,296.086181640625,5
+Hardness,XGBoost,C,318.0,294.62872314453125,21
+Hardness,XGBoost,C,282.0,276.91131591796875,1
+Hardness,XGBoost,C,292.0,292.8818054199219,11
+Hardness,XGBoost,C,291.0,305.4362487792969,13
+Hardness,XGBoost,C,281.0,295.60272216796875,0
+Hardness,XGBoost,C,290.0,288.4247741699219,7
+Hardness,XGBoost,C,267.0,266.7651672363281,6
+Hardness,XGBoost,C,261.0,261.58990478515625,3
+Hardness,XGBoost,C,268.0,266.9372253417969,5
+Hardness,XGBoost,C,286.0,266.4445495605469,21
+Hardness,XGBoost,C,261.0,254.63250732421875,1
+Hardness,XGBoost,C,267.0,264.71478271484375,11
+Hardness,XGBoost,C,268.0,273.2715148925781,13
+Hardness,XGBoost,C,262.0,269.7165832519531,0
+Hardness,XGBoost,C,264.0,263.92681884765625,7
+Hardness,XGBoost,C,342.0,356.8274841308594,42
+Hardness,XGBoost,C,338.0,361.27679443359375,50
+Hardness,XGBoost,C,359.0,355.39276123046875,59
+Hardness,XGBoost,C,347.0,336.40667724609375,51
+Hardness,XGBoost,C,354.0,351.0907287597656,37
+Hardness,XGBoost,C,340.0,350.7562561035156,62
+Hardness,XGBoost,C,345.0,354.11297607421875,77
+Hardness,XGBoost,C,347.0,338.7032470703125,36
+Hardness,XGBoost,C,348.0,348.21270751953125,69
+Hardness,XGBoost,C,360.0,357.0296936035156,44
+Hardness,XGBoost,C,348.0,344.88616943359375,41
+Hardness,XGBoost,C,369.0,358.43603515625,83
+Hardness,XGBoost,C,367.0,347.83099365234375,34
+Hardness,XGBoost,C,345.0,339.8807678222656,87
+Hardness,XGBoost,C,307.0,314.4950866699219,42
+Hardness,XGBoost,C,307.0,326.4493103027344,50
+Hardness,XGBoost,C,328.0,322.9349060058594,59
+Hardness,XGBoost,C,309.0,305.4436950683594,51
+Hardness,XGBoost,C,318.0,316.0030822753906,37
+Hardness,XGBoost,C,310.0,318.1184997558594,62
+Hardness,XGBoost,C,315.0,317.988525390625,77
+Hardness,XGBoost,C,309.0,309.04998779296875,36
+Hardness,XGBoost,C,316.0,314.68975830078125,69
+Hardness,XGBoost,C,322.0,322.72314453125,44
+Hardness,XGBoost,C,312.0,313.6938171386719,41
+Hardness,XGBoost,C,337.0,324.7164001464844,83
+Hardness,XGBoost,C,336.0,316.3333740234375,34
+Hardness,XGBoost,C,313.0,307.9013977050781,87
+Hardness,XGBoost,C,270.0,276.3987121582031,42
+Hardness,XGBoost,C,276.0,289.23492431640625,50
+Hardness,XGBoost,C,282.0,281.6011047363281,59
+Hardness,XGBoost,C,274.0,273.2151184082031,51
+Hardness,XGBoost,C,276.0,277.2860412597656,37
+Hardness,XGBoost,C,276.0,282.5329284667969,62
+Hardness,XGBoost,C,280.0,280.0301513671875,77
+Hardness,XGBoost,C,271.0,276.3743591308594,36
+Hardness,XGBoost,C,279.0,275.3678894042969,69
+Hardness,XGBoost,C,285.0,281.992919921875,44
+Hardness,XGBoost,C,279.0,276.007568359375,41
+Hardness,XGBoost,C,284.0,279.29071044921875,83
+Hardness,XGBoost,C,283.0,275.5712585449219,34
+Hardness,XGBoost,C,277.0,276.7093811035156,87
+Hardness,XGBoost,C,357.0,357.2881164550781,103
+Hardness,XGBoost,C,358.0,342.0128173828125,101
+Hardness,XGBoost,C,358.0,337.481201171875,92
+Hardness,XGBoost,C,348.0,346.9366455078125,94
+Hardness,XGBoost,C,358.0,356.04998779296875,104
+Hardness,XGBoost,C,367.0,348.9891662597656,107
+Hardness,XGBoost,C,322.0,321.3057556152344,103
+Hardness,XGBoost,C,318.0,307.66961669921875,101
+Hardness,XGBoost,C,323.0,305.8463439941406,92
+Hardness,XGBoost,C,312.0,313.1851501464844,94
+Hardness,XGBoost,C,322.0,323.15484619140625,104
+Hardness,XGBoost,C,328.0,315.7816467285156,107
+Hardness,XGBoost,C,288.0,286.00177001953125,103
+Hardness,XGBoost,C,281.0,279.2218017578125,101
+Hardness,XGBoost,C,287.0,276.2192687988281,92
+Hardness,XGBoost,C,281.0,282.2920837402344,94
+Hardness,XGBoost,C,286.0,288.75927734375,104
+Hardness,XGBoost,C,290.0,282.12353515625,107

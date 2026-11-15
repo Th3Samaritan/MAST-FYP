@@ -1,0 +1,5 @@
+streamlit
+xgboost>=3.0
+pandas
+scipy
+matplotlib

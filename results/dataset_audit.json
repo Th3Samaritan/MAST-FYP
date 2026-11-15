@@ -1,0 +1,139 @@
+{
+  "rows_in_original_csv": 361,
+  "literature_rows": 360,
+  "literature_rows_after_C_filter": 357,
+  "removed_by_C_filter": [
+    {
+      "C": 0.28
+    },
+    {
+      "C": 0.28
+    },
+    {
+      "C": 0.28
+    }
+  ],
+  "distinct_compositions_after_filter": 119,
+  "distinct_heat_treatment_routes": 21,
+  "samples_per_composition": {
+    "count": 119.0,
+    "mean": 3.0,
+    "std": 0.0,
+    "min": 3.0,
+    "25%": 3.0,
+    "50%": 3.0,
+    "75%": 3.0,
+    "max": 3.0
+  },
+  "iqr_flagged_tensile": 0,
+  "iqr_flagged_hardness": 0,
+  "missing_values": 0,
+  "ranges": {
+    "C": {
+      "min": 0.3,
+      "max": 0.57,
+      "mean": 0.408,
+      "std": 0.06
+    },
+    "Si": {
+      "min": 0.16,
+      "max": 0.35,
+      "mean": 0.258,
+      "std": 0.034
+    },
+    "Mn": {
+      "min": 0.37,
+      "max": 1.6,
+      "mean": 0.851,
+      "std": 0.294
+    },
+    "P": {
+      "min": 0.007,
+      "max": 0.031,
+      "mean": 0.016,
+      "std": 0.005
+    },
+    "S": {
+      "min": 0.003,
+      "max": 0.03,
+      "mean": 0.014,
+      "std": 0.006
+    },
+    "Ni": {
+      "min": 0.01,
+      "max": 2.78,
+      "mean": 0.53,
+      "std": 0.881
+    },
+    "Cr": {
+      "min": 0.01,
+      "max": 1.12,
+      "mean": 0.553,
+      "std": 0.42
+    },
+    "Cu": {
+      "min": 0.01,
+      "max": 0.22,
+      "mean": 0.064,
+      "std": 0.045
+    },
+    "Mo": {
+      "min": 0.0,
+      "max": 0.24,
+      "mean": 0.066,
+      "std": 0.09
+    },
+    "NT": {
+      "min": 825.0,
+      "max": 900.0,
+      "mean": 865.294,
+      "std": 17.153
+    },
+    "QT": {
+      "min": 825.0,
+      "max": 865.0,
+      "mean": 848.277,
+      "std": 9.896
+    },
+    "TT": {
+      "min": 550.0,
+      "max": 680.0,
+      "mean": 605.042,
+      "std": 42.397
+    },
+    "Tensile": {
+      "min": 613.0,
+      "max": 1206.0,
+      "mean": 907.723,
+      "std": 136.547
+    },
+    "Hardness": {
+      "min": 195.0,
+      "max": 380.0,
+      "mean": 290.535,
+      "std": 42.166
+    }
+  },
+  "inhouse_row": {
+    "NT": 865.0,
+    "QT": 865.0,
+    "TT": 550.0,
+    "C": 0.4,
+    "Si": 0.968,
+    "Mn": 0.64,
+    "P": 0.02,
+    "S": 0.129,
+    "Ni": 0.039,
+    "Cr": 0.01,
+    "Cu": 0.156,
+    "Mo": 0.0,
+    "RR": 1740.0,
+    "dA": 0.07,
+    "dB": 0.03,
+    "dC": 0.0,
+    "Fatigue": 426.0,
+    "Tensile": 1471.66,
+    "Fracture": 2842.0,
+    "Hardness": 260.0
+  }
+}
